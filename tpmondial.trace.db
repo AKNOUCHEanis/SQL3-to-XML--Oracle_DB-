@@ -1,0 +1,118 @@
+2020-11-28 19:06:45 database: wrong user or password; user: "AKNOUCHE"
+org.h2.message.DbException: Wrong user name or password [28000-200]
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.message.DbException.get(DbException.java:170)
+	at org.h2.engine.Engine.openSession(Engine.java:131)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at workbench.db.DbDriver.connect(DbDriver.java:463)
+	at workbench.db.ConnectionMgr.doConnect(ConnectionMgr.java:292)
+	at workbench.db.ConnectionMgr.connect(ConnectionMgr.java:319)
+	at workbench.db.ConnectionMgr.getConnection(ConnectionMgr.java:195)
+	at workbench.gui.components.ConnectionSelector.doConnect(ConnectionSelector.java:229)
+	at workbench.gui.components.ConnectionSelector$3.run(ConnectionSelector.java:133)
+Caused by: org.h2.jdbc.JdbcSQLInvalidAuthorizationSpecException: Wrong user name or password [28000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:461)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 18 more
+2020-11-28 20:01:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Schema "MONDIAL" not found; SQL statement:
+
+-- synonymes pour les etudiants
+
+-- usage:  se connecter � oracle, puis :
+--           @mondial_synonym.sql
+
+
+
+
+create synonym MOUNTAINONISLAND for mondial.MOUNTAINONISLAND [90079-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:576)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.command.Parser.getSchema(Parser.java:1194)
+	at org.h2.command.Parser.getSchema(Parser.java:1200)
+	at org.h2.command.Parser.parseCreateSynonym(Parser.java:8643)
+	at org.h2.command.Parser.parseCreate(Parser.java:6278)
+	at org.h2.command.Parser.parsePrepared(Parser.java:903)
+	at org.h2.command.Parser.parse(Parser.java:843)
+	at org.h2.command.Parser.parse(Parser.java:815)
+	at org.h2.command.Parser.prepareCommand(Parser.java:738)
+	at org.h2.engine.Session.prepareLocal(Session.java:657)
+	at org.h2.engine.Session.prepareCommand(Session.java:595)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1235)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:212)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:201)
+	at workbench.sql.commands.DdlCommand.execute(DdlCommand.java:157)
+	at workbench.sql.StatementRunner.runStatement(StatementRunner.java:562)
+	at workbench.gui.sql.SqlPanel.displayResult(SqlPanel.java:3493)
+	at workbench.gui.sql.SqlPanel.runStatement(SqlPanel.java:2216)
+	at workbench.gui.sql.SqlPanel$16.run(SqlPanel.java:2154)
+2020-11-28 20:04:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Schema "MONDIAL" not found; SQL statement:
+
+-- synonymes pour les etudiants
+
+-- usage:  se connecter � oracle, puis :
+--           @mondial_synonym.sql
+
+
+
+
+create synonym MOUNTAINONISLAND for mondial.MOUNTAINONISLAND [90079-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:576)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.command.Parser.getSchema(Parser.java:1194)
+	at org.h2.command.Parser.getSchema(Parser.java:1200)
+	at org.h2.command.Parser.parseCreateSynonym(Parser.java:8643)
+	at org.h2.command.Parser.parseCreate(Parser.java:6278)
+	at org.h2.command.Parser.parsePrepared(Parser.java:903)
+	at org.h2.command.Parser.parse(Parser.java:843)
+	at org.h2.command.Parser.parse(Parser.java:815)
+	at org.h2.command.Parser.prepareCommand(Parser.java:738)
+	at org.h2.engine.Session.prepareLocal(Session.java:657)
+	at org.h2.engine.Session.prepareCommand(Session.java:595)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1235)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:212)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:201)
+	at workbench.sql.commands.DdlCommand.execute(DdlCommand.java:157)
+	at workbench.sql.StatementRunner.runStatement(StatementRunner.java:562)
+	at workbench.gui.sql.SqlPanel.displayResult(SqlPanel.java:3493)
+	at workbench.gui.sql.SqlPanel.runStatement(SqlPanel.java:2216)
+	at workbench.gui.sql.SqlPanel$16.run(SqlPanel.java:2154)
+2020-11-28 20:04:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Schema "MONDIAL" not found; SQL statement:
+
+create synonym ISLANDIN for mondial.ISLANDIN [90079-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:576)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.command.Parser.getSchema(Parser.java:1194)
+	at org.h2.command.Parser.getSchema(Parser.java:1200)
+	at org.h2.command.Parser.parseCreateSynonym(Parser.java:8643)
+	at org.h2.command.Parser.parseCreate(Parser.java:6278)
+	at org.h2.command.Parser.parsePrepared(Parser.java:903)
+	at org.h2.command.Parser.parse(Parser.java:843)
+	at org.h2.command.Parser.parse(Parser.java:815)
+	at org.h2.command.Parser.prepareCommand(Parser.java:738)
+	at org.h2.engine.Session.prepareLocal(Session.java:657)
+	at org.h2.engine.Session.prepareCommand(Session.java:595)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1235)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:212)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:201)
+	at workbench.sql.commands.DdlCommand.execute(DdlCommand.java:157)
+	at workbench.sql.StatementRunner.runStatement(StatementRunner.java:562)
+	at workbench.gui.sql.SqlPanel.displayResult(SqlPanel.java:3493)
+	at workbench.gui.sql.SqlPanel.runStatement(SqlPanel.java:2216)
+	at workbench.gui.sql.SqlPanel$16.run(SqlPanel.java:2154)
