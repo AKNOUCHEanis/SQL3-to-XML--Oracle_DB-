@@ -41,7 +41,7 @@ create synonym POLITICS for mondial.POLITICS;
 create synonym POPULATION for mondial.POPULATION;
 create synonym COUNTRY for mondial.COUNTRY;
 create synonym AEROPORT for mondial.AEROPORT;
--- create synonym GEOCOORD for mondial.GEOCOORD;
+--create synonym GEOCOORD for mondial.GEOCOORD;
 
 
 -- ajout 2020

@@ -1,0 +1,3336 @@
+<mondial>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="French Polynesia" capital="Papeete"/>
+    <airport name="Faa&apos;a International" nearCity="Papeete"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Guam" capital="Agana"/>
+    <airport name="Guam Intl" nearCity="Hagåtña"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Kiribati" capital="Tarawa"/>
+    <airport name="Bonriki Intl" nearCity="Tarawa"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Marshall Islands" capital="Majuro"/>
+    <airport name="Marshall Islands Intl" nearCity="Majuro"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Micronesia" capital="Palikir"/>
+    <airport name="Pohnpei Intl" nearCity="Palikir"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Nauru" capital="Yaren"/>
+    <airport name="Nauru Intl" nearCity="Yaren"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="New Caledonia" capital="Noumea"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="New Zealand" capital="Wellington"/>
+    <airport name="Hamilton" nearCity="Hamilton"/>
+    <airport name="Wellington Intl" nearCity="Wellington"/>
+    <airport name="Christchurch Intl" nearCity="Christchurch"/>
+    <airport name="Auckland Intl" nearCity="Auckland"/>
+    <airport name="Dunedin" nearCity="Dunedin"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Niue" capital="Alofi"/>
+    <airport name="Niue Intl" nearCity="Alofi"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Norfolk Island" capital="Kingston"/>
+    <airport name="Norfolk Island Intl" nearCity="Kingston"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Northern Mariana Islands" capital="Saipan"/>
+    <airport name="Francisco C Ada Saipan Intl" nearCity="Saipan"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Palau" capital="Melekeok"/>
+    <airport name="Babelthuap" nearCity="Ngerulmud"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Pitcairn Islands" capital="Adamstown"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Solomon Islands" capital="Honiara"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Tonga" capital="Nukualofa"/>
+    <airport name="Fua Amotu Intl" nearCity="Nukualofa"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Tuvalu" capital="Funafuti"/>
+    <airport name="Funafuti International" nearCity="Funafuti"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Vanuatu" capital="Port-Vila"/>
+    <airport name="Port Vila Bauerfield" nearCity="Port Vila"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Wallis and Futuna" capital="Mata-Utu"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Samoa" capital="Apia"/>
+    <airport name="Faleolo Intl" nearCity="Apia"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Buenos Aires" capital="La Plata"/>
+    <province name="Catamarca" capital="San Fernando del Valle de Catamarca"/>
+    <province name="Chaco" capital="Resistencia"/>
+    <province name="Chubut" capital="Rawson"/>
+    <province name="Cordoba" capital="Cordoba"/>
+    <province name="Corrientes" capital="Corrientes"/>
+    <province name="Entre Rios" capital="Parana"/>
+    <province name="Formosa" capital="Formosa"/>
+    <province name="Jujuy" capital="San Salvador de Jujuy"/>
+    <province name="La Pampa" capital="Santa Rosa"/>
+    <province name="La Rioja" capital="La Rioja"/>
+    <province name="Mendoza" capital="Mendoza"/>
+    <province name="Misiones" capital="Posadas"/>
+    <province name="Neuquen" capital="Neuquen"/>
+    <province name="Rio Negro" capital="Viedma"/>
+    <province name="Salta" capital="Salta"/>
+    <province name="San Juan" capital="San Juan"/>
+    <province name="San Luis" capital="San Luis"/>
+    <province name="Santa Cruz" capital="Rio Gallegos"/>
+    <province name="Santa Fe" capital="Santa Fe"/>
+    <province name="Santiago de Estero" capital="Santiago del Estero"/>
+    <province name="Tierra del Fuego" capital="Ushuaia"/>
+    <province name="Tucuman" capital="San Miguel de Tucuman"/>
+    <province name="Distrito Federal" capital="Buenos Aires"/>
+    <airport name="La Rioja" nearCity="La Rioja"/>
+    <airport name="Jujuy" nearCity="San Salvador de Jujuy"/>
+    <airport name="Comandante Espora" nearCity="Bahía Blanca"/>
+    <airport name="Teniente Benjamin Matienzo" nearCity="San Miguel de Tucumán"/>
+    <airport name="San Luis" nearCity="San Luis"/>
+    <airport name="Santiago del Estero" nearCity="Santiago del Estero"/>
+    <airport name="Sauce Viejo" nearCity="Santa Fe"/>
+    <airport name="Corrientes" nearCity="Corrientes"/>
+    <airport name="Presidente Peron" nearCity="Neuquén"/>
+    <airport name="Salta" nearCity="Salta"/>
+    <airport name="Aeroparque Jorge Newbery" nearCity="Buenos Aires"/>
+    <airport name="Ministro Pistarini" nearCity="Buenos Aires"/>
+    <airport name="Ushuaia Malvinas Argentinas" nearCity="Ushuaia"/>
+    <airport name="Formosa" nearCity="Formosa"/>
+    <airport name="Posadas" nearCity="Posadas"/>
+    <airport name="Rosario" nearCity="Rosario"/>
+    <airport name="Resistencia" nearCity="Resistencia"/>
+    <airport name="Rio Gallegos" nearCity="Río Gallegos"/>
+    <airport name="Comodoro Rivadavia" nearCity="Comodoro Rivadavia"/>
+    <airport name="Mar Del Plata" nearCity="Mar del Plata"/>
+    <airport name="El Plumerillo" nearCity="Mendoza"/>
+    <airport name="Ambrosio L V Taravella" nearCity="Córdoba"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Bolivia" capital="La Paz"/>
+    <airport name="Heroes Del Acre" nearCity="Cobija"/>
+    <airport name="El Alto Intl" nearCity="La Paz"/>
+    <airport name="Viru Viru Intl" nearCity="Santa Cruz de la Sierra"/>
+    <airport name="Juana Azurduy De Padilla" nearCity="Sucre"/>
+    <airport name="Tte Av Jorge Henrich Arauz" nearCity="Trinidad"/>
+    <airport name="Capitan Oriel Lea Plaza" nearCity="Tarija"/>
+    <airport name="Jorge Wilsterman" nearCity="Cochabamba"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Acre" capital="Rio Branco"/>
+    <province name="Alagoas" capital="Maceio"/>
+    <province name="Amapa" capital="Macapa"/>
+    <province name="Amazonas" capital="Manaus"/>
+    <province name="Bahia" capital="Salvador"/>
+    <province name="Ceara" capital="Fortaleza"/>
+    <province name="Espirito Santo" capital="Vitoria"/>
+    <province name="Goias" capital="Goiania"/>
+    <province name="Maranhao" capital="Sao Luis"/>
+    <province name="Mato Grosso" capital="Cuiaba"/>
+    <province name="Mato Grosso do Sul" capital="Campo Grande"/>
+    <province name="Minas Gerais" capital="Belo Horizonte"/>
+    <province name="Para" capital="Belem"/>
+    <province name="Paraiba" capital="Joao Pessoa"/>
+    <province name="Parana" capital="Curitiba"/>
+    <province name="Pernambuco" capital="Recife"/>
+    <province name="Piaui" capital="Teresina"/>
+    <province name="Rio de Janeiro" capital="Rio de Janeiro"/>
+    <province name="Rio Grande do Norte" capital="Natal"/>
+    <province name="Rio Grande do Sul" capital="Porto Alegre"/>
+    <province name="Rondonia" capital="Porto Velho"/>
+    <province name="Roraima" capital="Boa Vista"/>
+    <province name="Santa Catarina" capital="Florianopolis"/>
+    <province name="Sao Paulo" capital="Sao Paulo"/>
+    <province name="Sergipe" capital="Aracaju"/>
+    <province name="Tocantins" capital="Palmas"/>
+    <province name="Distrito Federal" capital="Brasilia"/>
+    <airport name="Guararapes Gilberto Freyre Intl" nearCity="Recife"/>
+    <airport name="Presidente Juscelino Kubitschek" nearCity="Brasília"/>
+    <airport name="Boa Vista" nearCity="Boa Vista"/>
+    <airport name="Rio Branco" nearCity="Rio Branco"/>
+    <airport name="Ten Cel Av Cesar Bombonato" nearCity="Uberlândia"/>
+    <airport name="Zumbi Dos Palmares" nearCity="Maceió"/>
+    <airport name="Macapa" nearCity="Macapá"/>
+    <airport name="Eduardo Gomes Intl" nearCity="Manaus"/>
+    <airport name="Goiabeiras" nearCity="Vitória"/>
+    <airport name="Afonso Pena" nearCity="Curitiba"/>
+    <airport name="Santarem" nearCity="Santarém"/>
+    <airport name="Londrina" nearCity="Londrina"/>
+    <airport name="Marechal Rondon" nearCity="Cuiabá"/>
+    <airport name="Campo Grande" nearCity="Campo Grande"/>
+    <airport name="Congonhas" nearCity="São Paulo"/>
+    <airport name="Santos Dumont" nearCity="Rio de Janeiro"/>
+    <airport name="Deputado Luis Eduardo Magalhaes" nearCity="Salvador"/>
+    <airport name="Tancredo Neves Intl" nearCity="Belo Horizonte"/>
+    <airport name="Marechal Cunha Machado Intl" nearCity="São Luís"/>
+    <airport name="Amarais Airport" nearCity="Campinas"/>
+    <airport name="Viracopos" nearCity="Campinas"/>
+    <airport name="Santa Maria" nearCity="Aracaju"/>
+    <airport name="Uberaba" nearCity="Uberaba"/>
+    <airport name="Val De Cans Intl" nearCity="Belém"/>
+    <airport name="Senador Petronio Portella" nearCity="Teresina"/>
+    <airport name="Augusto Severo" nearCity="Natal"/>
+    <airport name="Pelotas" nearCity="Pelotas"/>
+    <airport name="Leite Lopes" nearCity="Ribeirão Preto"/>
+    <airport name="General Leite de Castro Airport" nearCity="Rio Verde"/>
+    <airport name="Governador Valadares Airport" nearCity="Governador Valadares"/>
+    <airport name="Usiminas" nearCity="Ipatinga"/>
+    <airport name="Campo Dos Bugres" nearCity="Caxias do Sul"/>
+    <airport name="Galeao Antonio Carlos Jobim" nearCity="Rio de Janeiro"/>
+    <airport name="Pinto Martins Intl" nearCity="Fortaleza"/>
+    <airport name="Pampulha Carlos Drummond De Andrade" nearCity="Belo Horizonte"/>
+    <airport name="Governador Jorge Teixeira De Oliveira" nearCity="Porto Velho"/>
+    <airport name="Santa Genoveva" nearCity="Goiânia"/>
+    <airport name="Salgado Filho" nearCity="Porto Alegre"/>
+    <airport name="Guarulhos Gov Andre Franco Montouro" nearCity="São Paulo"/>
+    <airport name="Prefeito Renato Moreira" nearCity="Imperatriz"/>
+    <airport name="Ilheus" nearCity="Ilhéus"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Chile" capital="Santiago"/>
+    <airport name="Cerro Moreno Intl" nearCity="Antofagasta"/>
+    <airport name="Pichoy" nearCity="Valdivia"/>
+    <airport name="La Florida" nearCity="La Serena"/>
+    <airport name="Copiapo" nearCity="Copiapó"/>
+    <airport name="Carriel Sur Intl" nearCity="Concepción"/>
+    <airport name="Maquehue" nearCity="Temuco"/>
+    <airport name="Arturo Merino Benitez Intl" nearCity="Santiago"/>
+    <airport name="Diego Aracena Intl" nearCity="Iquique"/>
+    <airport name="Chacalluta" nearCity="Arica"/>
+    <airport name="El Tepual Intl" nearCity="Puerto Montt"/>
+    <airport name="Carlos Ibanez Del Campo Intl" nearCity="Punta Arenas"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Paraguay" capital="Asuncion"/>
+    <airport name="Ciudad del Este" nearCity="Ciudad del Este"/>
+    <airport name="Silvio Pettirossi Intl" nearCity="Asunción"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Uruguay" capital="Montevideo"/>
+    <airport name="Carrasco Intl" nearCity="Montevideo"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Amazonas" capital="Chachapoyas"/>
+    <province name="Ancash" capital="Huaraz"/>
+    <province name="Apurimac" capital="Abancay"/>
+    <province name="Arequipa" capital="Arequipa"/>
+    <province name="Ayacucho" capital="Ayacucho"/>
+    <province name="Cajamarca" capital="Cajamarca"/>
+    <province name="Callao" capital="Callao"/>
+    <province name="Cuzco" capital="Cuzco"/>
+    <province name="Huancavelica" capital="Huancavelica"/>
+    <province name="Huanuco" capital="Huanuco"/>
+    <province name="Ica" capital="Ica"/>
+    <province name="Junin" capital="Huancayo"/>
+    <province name="La Libertad" capital="Trujillo"/>
+    <province name="Lambayeque" capital="Chiclayo"/>
+    <province name="Lima" capital="Lima"/>
+    <province name="Loreto" capital="Iquitos"/>
+    <province name="Madre de Dios" capital="Puerto Maldonado"/>
+    <province name="Moquegua" capital="Moquegua"/>
+    <province name="Pasco" capital="Cerro de Pasco"/>
+    <province name="Piura" capital="Piura"/>
+    <province name="Puno" capital="Puno"/>
+    <province name="San Martin" capital="Moyobamba"/>
+    <province name="Tacna" capital="Tacna"/>
+    <province name="Tumbes" capital="Tumbes"/>
+    <province name="Ucayali" capital="Pucallpa"/>
+    <airport name="Capt Jose A Quinones Gonzales Intl" nearCity="Chiclayo"/>
+    <airport name="Capitan Carlos Martinez De Pinillos" nearCity="Trujillo"/>
+    <airport name="Alferez Fap David Figueroa Fernandini Airport" nearCity="Huánuco"/>
+    <airport name="Coronel Fap Alfredo Mendivil Duarte" nearCity="Ayacucho"/>
+    <airport name="Pedro Canga" nearCity="Tumbes"/>
+    <airport name="Mayor General FAP Armando Revoredo Iglesias Airport" nearCity="Cajamarca"/>
+    <airport name="Capitan Fap Guillermo Concha Iberico" nearCity="Piura"/>
+    <airport name="Cap Fap David Abenzur Rengifo Intl" nearCity="Pucallpa"/>
+    <airport name="Padre Aldamiz" nearCity="Puerto Maldonado"/>
+    <airport name="Coronel Francisco Secada Vignetta Intl" nearCity="Iquitos"/>
+    <airport name="Rodriguez Ballon" nearCity="Arequipa"/>
+    <airport name="Juliaca" nearCity="Juliaca"/>
+    <airport name="Cadete Guillermo Del Castillo Paredes" nearCity="Tarapoto"/>
+    <airport name="Teniente Alejandro Velasco Astete Intl" nearCity="Cusco"/>
+    <airport name="Coronel Carlos Ciriani Santa Rosa Intl" nearCity="Tacna"/>
+    <airport name="Jorge Chavez Intl" nearCity="Lima"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="French Guiana" capital="Cayenne"/>
+    <airport name="Rochambeau" nearCity="Cayenne"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Guyana" capital="Georgetown"/>
+    <airport name="Cheddi Jagan Intl" nearCity="Georgetown"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Suriname" capital="Paramaribo"/>
+    <airport name="Johan A Pengel Intl" nearCity="Paramaribo"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Amazonas" capital="Puerto Ayacucho"/>
+    <province name="Anzoategui" capital="Barcelona"/>
+    <province name="Apure" capital="San Fernando"/>
+    <province name="Aragua" capital="Maracay"/>
+    <province name="Barinas" capital="Barinas"/>
+    <province name="Bolivar" capital="Ciudad Bolivar"/>
+    <province name="Carabobo" capital="Valencia"/>
+    <province name="Cojedes" capital="San Carlos"/>
+    <province name="Delta Amacuro" capital="Tucupita"/>
+    <province name="Falcon" capital="Coro"/>
+    <province name="Guarico" capital="San Juan"/>
+    <province name="Lara" capital="Barquisimeto"/>
+    <province name="Merida" capital="Merida"/>
+    <province name="Miranda" capital="Los Teques"/>
+    <province name="Monagas" capital="Maturin"/>
+    <province name="Nueva Esparta" capital="La Ascuncion"/>
+    <province name="Portuguesa" capital="Guanare"/>
+    <province name="Sucre" capital="Cumana"/>
+    <province name="Tachira" capital="San Cristobal"/>
+    <province name="Trujillo" capital="Trujillo"/>
+    <province name="Yaracuy" capital="San Felipe"/>
+    <province name="Zulia" capital="Maracaibo"/>
+    <province name="Distrito Federal" capital="Caracas"/>
+    <airport name="General Manuel Carlos Piar" nearCity="Ciudad Guayana"/>
+    <airport name="General Jose Antonio Anzoategui Intl" nearCity="Barcelona"/>
+    <airport name="Casique Aramare" nearCity="Puerto Ayacucho"/>
+    <airport name="Barinas" nearCity="Barinas"/>
+    <airport name="Barquisimeto Intl" nearCity="Barquisimeto"/>
+    <airport name="La Chinita Intl" nearCity="Maracaibo"/>
+    <airport name="Arturo Michelena Intl" nearCity="Valencia"/>
+    <airport name="Maturin" nearCity="Maturín"/>
+    <airport name="Simon Bolivar Intl" nearCity="Caracas"/>
+    <airport name="Caribe Santiago Mariño" nearCity="Porlamar"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Ecuador" capital="Quito"/>
+    <airport name="Seymour" nearCity=""/>
+    <airport name="Jose Joaquin De Olmedo Intl" nearCity="Guayaquil"/>
+    <airport name="Mariscal Sucre Intl" nearCity="Quito"/>
+    <airport name="Mariscal Lamar" nearCity="Cuenca"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Falkland Islands" capital="Stanley"/>
+    <airport name="Port Stanley" nearCity="Stanley"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Algeria" capital="Algier"/>
+    <airport name="Cheikh Larbi Tebessi" nearCity="Tébessa"/>
+    <airport name="Batna Airport" nearCity="Batna"/>
+    <airport name="Soummam" nearCity="Bejaïa"/>
+    <airport name="Tamanrasset" nearCity="Tamanrasset"/>
+    <airport name="Biskra" nearCity="Biskra"/>
+    <airport name="Mohamed Boudiaf Intl" nearCity="Constantine"/>
+    <airport name="Ain Arnat Airport" nearCity="Sétif"/>
+    <airport name="Es Senia" nearCity="Oran"/>
+    <airport name="Noumerat" nearCity="Ghardaïa"/>
+    <airport name="Annaba" nearCity="Annaba"/>
+    <airport name="Houari Boumediene" nearCity="Algiers"/>
+    <airport name="Zenata" nearCity="Tlemcen"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Libya" capital="Tripoli"/>
+    <airport name="Benina" nearCity="Benghazi"/>
+    <airport name="Misratah Airport" nearCity="Misratah"/>
+    <airport name="Tripoli Intl" nearCity="Tripoli"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Mali" capital="Bamako"/>
+    <airport name="Senou" nearCity="Bamako"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Mauritania" capital="Nouakchott"/>
+    <airport name="Nouakchott" nearCity="Nouakchott"/>
+    <airport name="Nouadhibou" nearCity="Nouadhibou"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Morocco" capital="Rabat"/>
+    <airport name="Angads" nearCity="Oujda"/>
+    <airport name="Inezgane" nearCity="Agadir"/>
+    <airport name="Ibn Batouta" nearCity="Tanger"/>
+    <airport name="Menara" nearCity="Marrakech"/>
+    <airport name="Mohammed V Intl" nearCity="Casablanca"/>
+    <airport name="Cherif El Idrissi" nearCity="Al Hoceima"/>
+    <airport name="Sale" nearCity="Rabat"/>
+    <airport name="Saiss" nearCity="Fès"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Niger" capital="Niamey"/>
+    <airport name="Diori Hamani" nearCity="Niamey"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Tunisia" capital="Tunis"/>
+    <airport name="Thyna" nearCity="Sfax"/>
+    <airport name="Carthage" nearCity="Tunis"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Western Sahara" capital="El Aaiun"/>
+    <airport name="Hassan I Airport" nearCity="El Aaiun"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Cabinda" capital="Cabinda"/>
+    <province name="Zaire" capital="Mbanza Congo"/>
+    <province name="Uige" capital="Uige"/>
+    <province name="Luanda" capital="Luanda"/>
+    <province name="Cuanza Norte" capital="Ndalatando"/>
+    <province name="Cuanza Sul" capital="Sumbe"/>
+    <province name="Malanje" capital="Malanje"/>
+    <province name="Lunda Norte" capital="Lucapa"/>
+    <province name="Lunda Sul" capital="Saurimo"/>
+    <province name="Benguela" capital="Benguela"/>
+    <province name="Huambo" capital="Huambo"/>
+    <province name="Bie" capital="Bie"/>
+    <province name="Moxico" capital="Luena"/>
+    <province name="Cuando Cubango" capital="Menongue"/>
+    <province name="Namibe" capital="Namibe"/>
+    <province name="Huila" capital="Lubango"/>
+    <province name="Bengo" capital="Caxito"/>
+    <province name="Cunene" capital="Ngiva"/>
+    <airport name="Ondjiva Pereira Airport" nearCity="Ngiva"/>
+    <airport name="Lubango" nearCity="Lubango"/>
+    <airport name="Cabinda" nearCity="Cabinda"/>
+    <airport name="Menongue" nearCity="Menongue"/>
+    <airport name="Luanda 4 De Fevereiro" nearCity="Luanda"/>
+    <airport name="Huambo" nearCity="Huambo"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Congo" capital="Brazzaville"/>
+    <airport name="Pointe Noire" nearCity="Pointe-Noire"/>
+    <airport name="Maya Maya" nearCity="Brazzaville"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Namibia" capital="Windhoek"/>
+    <airport name="Windhoek Hosea Kutako International Airport" nearCity="Windhoek"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Bandundu" capital="Bandundu"/>
+    <province name="Bas Zaire" capital="Matadi"/>
+    <province name="Equateur" capital="Mbandaka"/>
+    <province name="Haut Zaire" capital="Kisangani"/>
+    <province name="Kasai Occidental" capital="Kananga"/>
+    <province name="Kasai Oriental" capital="Mbuji Mayi"/>
+    <province name="Kivu" capital="Bukavu"/>
+    <province name="Shaba/Katanga" capital="Lubumbashi"/>
+    <province name="Kinshasa" capital="Kinshasa"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Central" capital="Kabwe"/>
+    <province name="Copperbelt" capital="Ndola"/>
+    <province name="Eastern" capital="Chipata"/>
+    <province name="Luapula" capital="Mansa"/>
+    <province name="Lusaka" capital="Lusaka"/>
+    <province name="Northern" capital="Kasama"/>
+    <province name="Northwestern" capital="Solwezi"/>
+    <province name="Southern" capital="Livingstone"/>
+    <province name="Western" capital="Mongu"/>
+    <airport name="Livingstone" nearCity="Livingstone"/>
+    <airport name="Ndola" nearCity="Ndola"/>
+    <airport name="Lusaka Intl" nearCity="Lusaka"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Benin" capital="Porto-Novo"/>
+    <airport name="Cadjehoun" nearCity="Cotonou"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Burkina Faso" capital="Ouagadougou"/>
+    <airport name="Bobo Dioulasso" nearCity="Bobo Dioulasso"/>
+    <airport name="Ouagadougou" nearCity="Ouagadougou"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Nigeria" capital="Abuja"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Togo" capital="Lome"/>
+    <airport name="Gnassingbe Eyadema Intl" nearCity="Lomé"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Botswana" capital="Gaborone"/>
+    <airport name="Sir Seretse Khama Intl" nearCity="Gaborone"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Eastern Cape" capital="Bisho"/>
+    <province name="Free State" capital="Bloemfontein"/>
+    <province name="Gauteng" capital="Johannesburg"/>
+    <province name="Kwazulu Natal" capital="Pietermaritzburg"/>
+    <province name="Mpumalanga" capital="Nelspruit"/>
+    <province name="Northern Cape" capital="Kimberley"/>
+    <province name="Limpopo" capital="Pietersburg"/>
+    <province name="North West" capital="Mmabatho"/>
+    <province name="Western Cape" capital="Cape Town"/>
+    <airport name="Lanseria" nearCity="Johannesburg"/>
+    <airport name="Pietermaritzburg" nearCity="Msunduzi"/>
+    <airport name="Durban Intl" nearCity="eThekwini"/>
+    <airport name="East London" nearCity="Buffalo City"/>
+    <airport name="Bloemfontein Intl" nearCity="Mangaung"/>
+    <airport name="Kimberley" nearCity="Kimberley"/>
+    <airport name="Port Elizabeth Intl" nearCity="Nelson Mandela Bay"/>
+    <airport name="Pietersburg" nearCity="Polokwane"/>
+    <airport name="Cape Town Intl" nearCity="Cape Town"/>
+    <airport name="Johannesburg Intl" nearCity="Johannesburg"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Zimbabwe" capital="Harare"/>
+    <airport name="J M Nkomo Intl" nearCity="Bulawayo"/>
+    <airport name="Harare Intl" nearCity="Harare"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Cote dIvoire" capital="Yamoussoukro"/>
+    <airport name="Abidjan Felix Houphouet Boigny Intl" nearCity="Abidjan"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Ghana" capital="Accra"/>
+    <airport name="Kotoka Intl" nearCity="Accra"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Burundi" capital="Bujumbura"/>
+    <airport name="Bujumbura Intl" nearCity="Bujumbura"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Rwanda" capital="Kigali"/>
+    <airport name="Kigali Intl" nearCity="Kigali"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Dodoma" capital="Dodoma"/>
+    <province name="Arusha" capital="Arusha"/>
+    <province name="Kilimanjaro" capital="Moshi"/>
+    <province name="Tanga" capital="Tanga"/>
+    <province name="Morogoro" capital="Morogoro"/>
+    <province name="Pwani" capital="Dar es Salaam"/>
+    <province name="Daressalam" capital="Dar es Salaam"/>
+    <province name="Lindi" capital="Lindi"/>
+    <province name="Mtwara" capital="Mtwara Mikandani"/>
+    <province name="Ruvuma" capital="Songea"/>
+    <province name="Iringa" capital="Iringa"/>
+    <province name="Mbeya" capital="Mbeya"/>
+    <province name="Singida" capital="Singida"/>
+    <province name="Tabora" capital="Tabora"/>
+    <province name="Rukwa" capital="Sumbawanga"/>
+    <province name="Kigoma" capital="Kigoma Ujiji"/>
+    <province name="Shinyanga" capital="Shinyanga"/>
+    <province name="Kagera" capital="Bukoba"/>
+    <province name="Mwanza" capital="Mwanza"/>
+    <province name="Mara" capital="Musoma"/>
+    <province name="Kaskazini Ujunga" capital="Mkokotoni"/>
+    <province name="Kusini Ujunga" capital="Koani"/>
+    <province name="Mjini Magharibi" capital="Zanzibar"/>
+    <province name="Kaskazini Pemba" capital="Wete"/>
+    <province name="Kusini Pemba" capital="Chake Cahke"/>
+    <airport name="Zanzibar" nearCity="Zanzibar"/>
+    <airport name="Kilimanjaro Intl" nearCity="Moshi"/>
+    <airport name="Mtwara" nearCity="Mtwara"/>
+    <airport name="Mwalimu Julius K Nyerere Intl" nearCity="Dar es Salaam"/>
+    <airport name="Mwanza" nearCity="Mwanza"/>
+    <airport name="Arusha" nearCity="Arusha"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Adamaoua" capital="Ngaoundere"/>
+    <province name="Centre" capital="Yaounde"/>
+    <province name="Est" capital="Bertoua"/>
+    <province name="Nord extreme" capital="Maroua"/>
+    <province name="Cote/Littoral" capital="Douala"/>
+    <province name="Nord" capital="Garoua"/>
+    <province name="Nordoueste" capital="Bamenda"/>
+    <province name="Ouest" capital="Bafoussam"/>
+    <province name="Sud" capital="Ebolowa"/>
+    <province name="Sudoueste" capital="Buea"/>
+    <airport name="Douala" nearCity="Douala"/>
+    <airport name="Yaounde Nsimalen" nearCity="Yaoundé"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Central African Republic" capital="Bangui"/>
+    <airport name="Bangui M Poko" nearCity="Bangui"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Chad" capital="NDjamena"/>
+    <airport name="Ndjamena Hassan Djamous" nearCity="N&apos;Djamena"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Equatorial Guinea" capital="Malabo"/>
+    <airport name="Malabo" nearCity="Malabo"/>
+    <airport name="Bata" nearCity="Bata"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Gabon" capital="Libreville"/>
+    <airport name="Leon M Ba" nearCity="Libreville"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Cape Verde" capital="Praia"/>
+    <airport name="Praia International Airport" nearCity="Praia"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Aali an Nil" capital="Malakal"/>
+    <province name="Bahr al Ghazal" capital="Waw"/>
+    <province name="Darfur" capital="al Fasher"/>
+    <province name="al Istiwaiyah" capital="Juba"/>
+    <province name="al Khartum" capital="Khartoum"/>
+    <province name="Kurdufan" capital="al Ubayyid"/>
+    <province name="ash Shamaliyah" capital="ad Damir"/>
+    <province name="ash Sharqiyah" capital="Kassala"/>
+    <province name="Nil al Asraq" capital="Wad Madani"/>
+    <airport name="Khartoum" nearCity="Khartoum"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Comoros" capital="Moroni"/>
+    <airport name="Prince Said Ibrahim" nearCity="Moroni"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Guinea" capital="Conakry"/>
+    <airport name="Conakry" nearCity="Conakry"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Liberia" capital="Monrovia"/>
+    <airport name="Monrovia Roberts Intl" nearCity="Monrovia"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Djibouti" capital="Djibouti"/>
+    <airport name="Ambouli International Airport" nearCity="Djibouti"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Eritrea" capital="Asmara"/>
+    <airport name="Asmara Intl" nearCity="Asmara"/>
+    <airport name="Massaua" nearCity="Massaua"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Ethiopia" capital="Addis Ababa"/>
+    <airport name="Gondar" nearCity="Gondar"/>
+    <airport name="Dire Dawa Intl" nearCity="Dire Dawa"/>
+    <airport name="Bole Intl" nearCity="Addis Ababa"/>
+    <airport name="Gambella" nearCity="Gambella"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Somalia" capital="Mogadishu"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Central" capital="Nyeri"/>
+    <province name="Coast" capital="Mombasa"/>
+    <province name="Eastern" capital="Embu"/>
+    <province name="Nairobi" capital="Nairobi"/>
+    <province name="North Eastern" capital="Garissa"/>
+    <province name="Nyanza" capital="Kisumu"/>
+    <province name="Rift Valley" capital="Nakuru"/>
+    <province name="Western" capital="Kakamega"/>
+    <airport name="Malindi Airport" nearCity="Malindi"/>
+    <airport name="Mombasa Moi Intl" nearCity="Mombasa"/>
+    <airport name="Jomo Kenyatta International" nearCity="Nairobi"/>
+    <airport name="Nairobi Wilson" nearCity="Nairobi"/>
+    <airport name="Kisumu" nearCity="Kisumu"/>
+    <airport name="Eldoret Intl" nearCity="Eldoret"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Gambia" capital="Banjul"/>
+    <airport name="Banjul Intl" nearCity="Banjul"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Dakar" capital="Dakar"/>
+    <province name="Diourbel" capital="Diourbel"/>
+    <province name="Fatick" capital="Fatick"/>
+    <province name="Kaolack" capital="Kaolack"/>
+    <province name="Kolda" capital="Kolda"/>
+    <province name="Louga" capital="Louga"/>
+    <province name="Saint Louis" capital="Saint Louis"/>
+    <province name="Tambacounda" capital="Tambacounda"/>
+    <province name="Thies" capital="Thies"/>
+    <province name="Ziguinchor" capital="Ziguinchor"/>
+    <airport name="Ziguinchor" nearCity="Ziguinchor"/>
+    <airport name="Leopold Sedar Senghor Intl" nearCity="Dakar"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Guinea-Bissau" capital="Bissau"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Sierra Leone" capital="Freetown"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Uganda" capital="Kampala"/>
+    <airport name="Entebbe Intl" nearCity="Kampala"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Lesotho" capital="Maseru"/>
+    <airport name="Moshoeshoe I Intl" nearCity="Maseru"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Antsiranana" capital="Antsiranana"/>
+    <province name="Antananarivo" capital="Antananarivo"/>
+    <province name="Fianarantsoa" capital="Fianarantsoa"/>
+    <province name="Mahajanga" capital="Majunga"/>
+    <province name="Toamasina" capital="Tamatave"/>
+    <province name="Toliara" capital="Toliara"/>
+    <airport name="Arrachart" nearCity="Antsiranana"/>
+    <airport name="Toliara" nearCity="Toliara"/>
+    <airport name="Ivato" nearCity="Antananarivo"/>
+    <airport name="Toamasina" nearCity="Tamatave"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Malawi" capital="Lilongwe"/>
+    <airport name="Chileka Intl" nearCity="Blantyre"/>
+    <airport name="Kamuzu Intl" nearCity="Lilongwe"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Cabo Delgado" capital="Pemba"/>
+    <province name="Gaza" capital="Xai Xai"/>
+    <province name="Inhambane" capital="Inhambane"/>
+    <province name="Manica" capital="Chimoio"/>
+    <province name="Maputo" capital="Maputo"/>
+    <province name="Nampula" capital="Nampula"/>
+    <province name="Niassa" capital="Lichinga"/>
+    <province name="Sofala" capital="Beira"/>
+    <province name="Tete" capital="Tete"/>
+    <province name="Zambezia" capital="Quelimane"/>
+    <province name="Maputo (munic.)" capital="Maputo"/>
+    <airport name="Chimoio Airport" nearCity="Chimoio"/>
+    <airport name="Nampula" nearCity="Nampula"/>
+    <airport name="Tete Chingodzi" nearCity="Tete"/>
+    <airport name="Beira" nearCity="Beira"/>
+    <airport name="Quelimane" nearCity="Quelimane"/>
+    <airport name="Inhambane" nearCity="Inhambane"/>
+    <airport name="Pemba" nearCity="Pemba"/>
+    <airport name="Maputo" nearCity="Maputo"/>
+    <airport name="Lichinga" nearCity="Lichinga"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Mauritius" capital="Port Louis"/>
+    <airport name="Sir Seewoosagur Ramgoolam Intl" nearCity="Port Louis"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Mayotte" capital="Mamoutzou"/>
+    <airport name="Dzaoudzi Pamandzi" nearCity="Mamoutzou"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Swaziland" capital="Mbabane"/>
+    <airport name="Matsapha" nearCity="Mbabane"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Reunion" capital="Saint-Denis"/>
+    <airport name="St Denis Gillot" nearCity="Saint-Denis"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Saint Helena" capital="Jamestown"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Sao Tome and Principe" capital="Sao Tome"/>
+    <airport name="Sao Tome Intl" nearCity="São Tomé"/>
+  </country>
+  <country>
+    <continent name="Africa" percent="0"/>
+    <province name="Seychelles" capital="Victoria"/>
+    <airport name="Seychelles Intl" nearCity="Victoria"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Albania" capital="Tirane"/>
+    <airport name="Tirana Rinas" nearCity="Tirana"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Anatoliki Makedhonia kai Thraki" capital="Komotini"/>
+    <province name="Attiki" capital="Athens"/>
+    <province name="Dhytiki Ellas" capital="Patrai"/>
+    <province name="Dhytiki Makedhonia" capital="Kozani"/>
+    <province name="Ionioi Nisoi" capital="Korfu"/>
+    <province name="Ipiros" capital="Ioannina"/>
+    <province name="Kedriki Makedhonia" capital="Thessaloniki"/>
+    <province name="Kriti" capital="Iraklion"/>
+    <province name="Notion Aiyaion" capital="Ermoupoli"/>
+    <province name="Peloponnisos" capital="Tripoli"/>
+    <province name="Sterea Ellas" capital="Lamia"/>
+    <province name="Thessalia" capital="Larisa"/>
+    <province name="Voreion Aiyaion" capital="Mytilini"/>
+    <airport name="Nikos Kazantzakis" nearCity="Iraklio"/>
+    <airport name="Ioannina" nearCity="Ioannina"/>
+    <airport name="Mikonos" nearCity=""/>
+    <airport name="Chios" nearCity=""/>
+    <airport name="Rhodes Diagoras" nearCity="Rhodes"/>
+    <airport name="Eleftherios Venizelos Intl" nearCity="Athina"/>
+    <airport name="Kefallinia" nearCity=""/>
+    <airport name="Megas Alexandros Intl" nearCity="Kavala"/>
+    <airport name="Ioannis Kapodistrias Intl" nearCity="Kerkyra"/>
+    <airport name="Makedonia" nearCity="Thessaloniki"/>
+    <airport name="Souda" nearCity="Chania"/>
+    <airport name="Samos" nearCity=""/>
+    <airport name="Kos" nearCity=""/>
+    <airport name="Mitilini" nearCity="Mytilini"/>
+    <airport name="Araxos" nearCity="Patra"/>
+    <airport name="Dionysios Solomos" nearCity=""/>
+    <airport name="Ikaria" nearCity=""/>
+    <airport name="Syros" nearCity="Ermoupoli"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Macedonia" capital="Skopje"/>
+    <airport name="Skopje" nearCity="Skopje"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Serbia" capital="Belgrade"/>
+    <airport name="Beograd" nearCity="Beograd"/>
+    <airport name="Nis" nearCity="Ni?"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Montenegro" capital="Podgorica"/>
+    <airport name="Podgorica" nearCity="Podgorica"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Kosovo" capital="Pristina"/>
+    <airport name="Pristina" nearCity="Prishtine"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Andorra" capital="Andorra la Vella"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Alsace" capital="Strasbourg"/>
+    <province name="Aquitaine" capital="Bordeaux"/>
+    <province name="Auvergne" capital="Clermont Ferrand"/>
+    <province name="Basse Normandie" capital="Caen"/>
+    <province name="Bretagne" capital="Rennes"/>
+    <province name="Bourgogne" capital="Dijon"/>
+    <province name="Centre" capital="Orleans"/>
+    <province name="Champagne Ardenne" capital="Chalons en Champagne"/>
+    <province name="Corse" capital="Ajaccio"/>
+    <province name="Franche Comte" capital="Besancon"/>
+    <province name="Haute Normandie" capital="Rouen"/>
+    <province name="Ile de France" capital="Paris"/>
+    <province name="Languedoc Roussillon" capital="Montpellier"/>
+    <province name="Limousin" capital="Limoges"/>
+    <province name="Lorraine" capital="Metz"/>
+    <province name="Midi Pyrenees" capital="Toulouse"/>
+    <province name="Nord Pas de Calais" capital="Lille"/>
+    <province name="Pays de la Loire" capital="Nantes"/>
+    <province name="Picardie" capital="Amiens"/>
+    <province name="Poitou Charentes" capital="Poitiers"/>
+    <province name="Provence Cote dAzur" capital="Marseille"/>
+    <province name="Rhone Alpes" capital="Lyon"/>
+    <airport name="Basel Mulhouse" nearCity="Mulhouse"/>
+    <airport name="Provence" nearCity="Marseille"/>
+    <airport name="Mediterranee" nearCity="Montpellier"/>
+    <airport name="Carpiquet" nearCity="Caen"/>
+    <airport name="Angers-Loire Airport" nearCity="Angers"/>
+    <airport name="Metz Nancy Lorraine" nearCity="Metz"/>
+    <airport name="Orly" nearCity="Paris"/>
+    <airport name="Garons" nearCity="Nîmes"/>
+    <airport name="Rivesaltes" nearCity="Perpignan"/>
+    <airport name="St Jacques" nearCity="Rennes"/>
+    <airport name="Saint Exupery" nearCity="Lyon"/>
+    <airport name="Merignac" nearCity="Bordeaux"/>
+    <airport name="Entzheim" nearCity="Strasbourg"/>
+    <airport name="Auvergne" nearCity="Clermont-Ferrand"/>
+    <airport name="Bellegarde" nearCity="Limoges"/>
+    <airport name="Lesquin" nearCity="Lille"/>
+    <airport name="Charles De Gaulle" nearCity="Paris"/>
+    <airport name="Campo Dell Oro" nearCity="Ajaccio"/>
+    <airport name="Val De Loire" nearCity="Tours"/>
+    <airport name="Blagnac" nearCity="Toulouse"/>
+    <airport name="Guipavas" nearCity="Brest"/>
+    <airport name="Cote d&apos;Azur" nearCity="Nice"/>
+    <airport name="Nantes Atlantique" nearCity="Nantes"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Andalusia" capital="Sevilla"/>
+    <province name="Aragon" capital="Zaragoza"/>
+    <province name="Asturias" capital="Oviedo"/>
+    <province name="Balearic Islands" capital="Palma de Mallorca"/>
+    <province name="Basque Country" capital="Vitoria Gasteiz"/>
+    <province name="Canary Islands" capital="Santa Cruz de Tenerife"/>
+    <province name="Cantabria" capital="Santander"/>
+    <province name="Castile and Leon" capital="Valladolid"/>
+    <province name="Castile La Mancha" capital="Toledo"/>
+    <province name="Catalonia" capital="Barcelona"/>
+    <province name="Estremadura" capital="Merida"/>
+    <province name="Galicia" capital="Santiago de Compostella"/>
+    <province name="Madrid" capital="Madrid"/>
+    <province name="Murcia" capital="Murcia"/>
+    <province name="Navarre" capital="Pamplona"/>
+    <province name="Rioja" capital="Logrono"/>
+    <province name="Valencia" capital="Valencia"/>
+    <airport name="Hierro" nearCity=""/>
+    <airport name="Santander" nearCity="Santander"/>
+    <airport name="La Palma" nearCity=""/>
+    <airport name="Gran Canaria" nearCity="Las Palmas de Gran Canaria"/>
+    <airport name="Salamanca" nearCity="Salamanca"/>
+    <airport name="Tenerife Norte" nearCity="Santa Cruz de Tenerife"/>
+    <airport name="Malaga" nearCity="Málaga"/>
+    <airport name="Bilbao" nearCity="Bilbao"/>
+    <airport name="Tenerife Sur" nearCity="Santa Cruz de Tenerife"/>
+    <airport name="Talavera La Real" nearCity="Badajoz"/>
+    <airport name="Alicante" nearCity="Alicante"/>
+    <airport name="Barcelona" nearCity="Barcelona"/>
+    <airport name="Lanzarote" nearCity="Las Palmas de Gran Canaria"/>
+    <airport name="Vigo" nearCity="Vigo"/>
+    <airport name="Murcia San Javier" nearCity="Murcia"/>
+    <airport name="La Gomera Airport" nearCity=""/>
+    <airport name="Fuerteventura" nearCity=""/>
+    <airport name="Jerez" nearCity="Jerez de la Frontera"/>
+    <airport name="Son Sant Joan" nearCity="Palma de Mallorca"/>
+    <airport name="Pamplona" nearCity="Pamplona"/>
+    <airport name="Granada" nearCity="Granada"/>
+    <airport name="Ibiza" nearCity=""/>
+    <airport name="Zaragoza Ab" nearCity="Zaragoza"/>
+    <airport name="Reus" nearCity="Reus"/>
+    <airport name="San Sebastian" nearCity="Donostia"/>
+    <airport name="Barajas" nearCity="Madrid"/>
+    <airport name="Menorca" nearCity=""/>
+    <airport name="Valencia" nearCity="Valencia"/>
+    <airport name="Valladolid" nearCity="Valladolid"/>
+    <airport name="Sevilla" nearCity="Sevilla"/>
+    <airport name="A Coruna" nearCity="A Coruña"/>
+    <airport name="Almeria" nearCity="Almería"/>
+    <airport name="Santiago" nearCity="Santiago de Compostela"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Burgenland" capital="Eisenstadt"/>
+    <province name="Carinthia" capital="Klagenfurt"/>
+    <province name="Vorarlberg" capital="Bregenz"/>
+    <province name="Vienna" capital="Vienna"/>
+    <province name="Upper Austria" capital="Linz"/>
+    <province name="Tyrol" capital="Innsbruck"/>
+    <province name="Styria" capital="Graz"/>
+    <province name="Salzburg" capital="Salzburg"/>
+    <province name="Lower Austria" capital="St. Polten"/>
+    <airport name="Salzburg" nearCity="Salzburg"/>
+    <airport name="Linz" nearCity="Linz"/>
+    <airport name="Innsbruck" nearCity="Innsbruck"/>
+    <airport name="Schwechat" nearCity="Wien"/>
+    <airport name="Graz" nearCity="Graz"/>
+    <airport name="Woerthersee International Airport" nearCity="Klagenfurt"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Jihocesky" capital="Ceske Budejovice"/>
+    <province name="Jihomoravsky" capital="Brno"/>
+    <province name="Severocesky" capital="Usti nad Labem"/>
+    <province name="Severomoravsky" capital="Ostrava"/>
+    <province name="Praha" capital="Prague"/>
+    <province name="Vychodocesky" capital="Hradec Kralove"/>
+    <province name="Zapadocesky" capital="Plzen"/>
+    <airport name="Karlovy Vary" nearCity="Karlovy Vary"/>
+    <airport name="Pardubice" nearCity="Pardubice"/>
+    <airport name="Vaclav Havel Airport" nearCity="Praha"/>
+    <airport name="Mosnov" nearCity="Ostrava"/>
+    <airport name="Brno-Tu¿any" nearCity="Brno"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Baden Wurttemberg" capital="Stuttgart"/>
+    <province name="Bayern" capital="Munich"/>
+    <province name="Berlin" capital="Berlin"/>
+    <province name="Brandenburg" capital="Potsdam"/>
+    <province name="Bremen" capital="Bremen"/>
+    <province name="Hamburg" capital="Hamburg"/>
+    <province name="Hessen" capital="Wiesbaden"/>
+    <province name="Mecklenburg Vorpommern" capital="Schwerin"/>
+    <province name="Niedersachsen" capital="Hannover"/>
+    <province name="Nordrhein Westfalen" capital="Dusseldorf"/>
+    <province name="Rheinland Pfalz" capital="Mainz"/>
+    <province name="Saarland" capital="Saarbrucken"/>
+    <province name="Sachsen" capital="Dresden"/>
+    <province name="Sachsen Anhalt" capital="Magdeburg"/>
+    <province name="Schleswig Holstein" capital="Kiel"/>
+    <province name="Thuringen" capital="Erfurt"/>
+    <airport name="Hannover" nearCity="Hannover"/>
+    <airport name="Hamburg" nearCity="Hamburg"/>
+    <airport name="Paderborn Lippstadt" nearCity="Paderborn"/>
+    <airport name="Westerland Sylt" nearCity=""/>
+    <airport name="Saarbrücken" nearCity="Saarbrücken"/>
+    <airport name="Tegel" nearCity="Berlin"/>
+    <airport name="Neuenland" nearCity="Bremen"/>
+    <airport name="Schönefeld" nearCity="Berlin"/>
+    <airport name="Stuttgart" nearCity="Stuttgart"/>
+    <airport name="Lübeck" nearCity="Lübeck"/>
+    <airport name="Leipzig Halle" nearCity="Leipzig"/>
+    <airport name="Köln Bonn" nearCity="Köln"/>
+    <airport name="Frankfurt Hahn" nearCity="Frankfurt am Main"/>
+    <airport name="Frankfurt Main" nearCity="Frankfurt am Main"/>
+    <airport name="Münster Osnabrück" nearCity="Münster"/>
+    <airport name="Baden Airpark" nearCity="Karlsruhe"/>
+    <airport name="Düsseldorf" nearCity="Düsseldorf"/>
+    <airport name="Nürnberg" nearCity="Nürnberg"/>
+    <airport name="Dresden" nearCity="Dresden"/>
+    <airport name="Dortmund" nearCity="Dortmund"/>
+    <airport name="Franz Josef Strauss" nearCity="München"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Baranya" capital="Pecs"/>
+    <province name="Bacs Kiskun" capital="Kecskemet"/>
+    <province name="Bekes" capital="Bekescaba"/>
+    <province name="Borsod Abauj Zemplen" capital="Miskolc"/>
+    <province name="Csongrad" capital="Hodmezovasarhely"/>
+    <province name="Fejer" capital="Szekesfehervar"/>
+    <province name="Gyor Sopron" capital="Gyor"/>
+    <province name="Hajdu Bihar" capital="Debrecen"/>
+    <province name="Heves" capital="Eger"/>
+    <province name="Komarom Esztergom" capital="Tatabanya"/>
+    <province name="Nograd" capital="Salgotarjan"/>
+    <province name="Pest" capital="Budapest"/>
+    <province name="Somogy" capital="Kaposvar"/>
+    <province name="Szabolcs Szatmar" capital="Nyiregyhaza"/>
+    <province name="Szolnok" capital="Szolnok"/>
+    <province name="Tolna" capital="Szekszard"/>
+    <province name="Vas" capital="Szombathely"/>
+    <province name="Veszprem" capital="Veszprem"/>
+    <province name="Zala" capital="Zalaegerszeg"/>
+    <province name="Budapest (munic.)" capital="Budapest"/>
+    <province name="Debrecen (munic.)" capital="Debrecen"/>
+    <province name="Gyor (munic.)" capital="Gyor"/>
+    <province name="Miskolc (munic.)" capital="Miskolc"/>
+    <province name="Pecs (munic.)" capital="Pecs"/>
+    <province name="Szeged (munic.)" capital="Szeged"/>
+    <airport name="Ferihegy" nearCity="Budapest"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Piemonte" capital="Turin"/>
+    <province name="Valle dAosta" capital="Aosta"/>
+    <province name="Lombardia" capital="Milan"/>
+    <province name="Trentino Alto Adige" capital="Bolzano"/>
+    <province name="Veneto" capital="Venice"/>
+    <province name="Friuli Venezia Giulia" capital="Trieste"/>
+    <province name="Liguria" capital="Genua"/>
+    <province name="Emilia Romagna" capital="Bologna"/>
+    <province name="Toscana" capital="Firenze"/>
+    <province name="Umbria" capital="Perugia"/>
+    <province name="Marche" capital="Ancona"/>
+    <province name="Lazio" capital="Rome"/>
+    <province name="Abruzzo" capital="LAquila"/>
+    <province name="Molise" capital="Campobasso"/>
+    <province name="Campania" capital="Napoli"/>
+    <province name="Puglia" capital="Bari"/>
+    <province name="Basilicata" capital="Potenza"/>
+    <province name="Calabria" capital="Catanzaro"/>
+    <province name="Sicilia" capital="Palermo"/>
+    <province name="Sardegna" capital="Cagliari"/>
+    <airport name="Malpensa" nearCity="Milano"/>
+    <airport name="Firenze" nearCity="Firenze"/>
+    <airport name="Parma" nearCity="Parma"/>
+    <airport name="Palermo" nearCity="Palermo"/>
+    <airport name="Perugia" nearCity="Perúgia"/>
+    <airport name="Genova Sestri" nearCity="Génova"/>
+    <airport name="Pisa" nearCity="Pisa"/>
+    <airport name="Pescara" nearCity="Pescara"/>
+    <airport name="Falconara" nearCity="Ancona"/>
+    <airport name="Bari" nearCity="Bari"/>
+    <airport name="Elmas" nearCity="Cágliari"/>
+    <airport name="Bolzano" nearCity="Bolzano"/>
+    <airport name="Reggio Calabria" nearCity="Réggio di Calabria"/>
+    <airport name="Rimini" nearCity="Rímini"/>
+    <airport name="Capodichino" nearCity="Nápoli"/>
+    <airport name="Villafranca" nearCity="Verona"/>
+    <airport name="Fiumicino" nearCity="Roma"/>
+    <airport name="Venezia Tessera" nearCity="Venézia"/>
+    <airport name="Bergamo Orio Al Serio" nearCity="Bérgamo"/>
+    <airport name="Torino" nearCity="Torino"/>
+    <airport name="Ronchi Dei Legionari" nearCity="Trieste"/>
+    <airport name="Bologna" nearCity="Bologna"/>
+    <airport name="Catania Fontanarossa" nearCity="Catánia"/>
+    <airport name="Lampedusa" nearCity=""/>
+    <airport name="Ciampino" nearCity="Roma"/>
+    <airport name="Linate" nearCity="Milano"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Liechtenstein" capital="Vaduz"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Slovakia" capital="Bratislava"/>
+    <airport name="M R Stefanik" nearCity="Bratislava"/>
+    <airport name="Kosice" nearCity="Ko?ice"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Slovenia" capital="Ljubljana"/>
+    <airport name="Ljubljana" nearCity="Ljubljana"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="AG" capital="Aarau"/>
+    <province name="AR" capital="Herisau"/>
+    <province name="AI" capital="Appenzell"/>
+    <province name="BL" capital="Liestal"/>
+    <province name="BS" capital="Basel"/>
+    <province name="BE" capital="Bern"/>
+    <province name="FR" capital="Fribourg"/>
+    <province name="GE" capital="Geneva"/>
+    <province name="GL" capital="Glarus"/>
+    <province name="GR" capital="Chur"/>
+    <province name="JU" capital="Delemont"/>
+    <province name="LU" capital="Luzern"/>
+    <province name="NE" capital="Neuchatel"/>
+    <province name="NW" capital="Stans"/>
+    <province name="OW" capital="Sarnen"/>
+    <province name="SG" capital="Sankt Gallen"/>
+    <province name="SH" capital="Schaffhausen"/>
+    <province name="SZ" capital="Schwyz"/>
+    <province name="SO" capital="Solothurn"/>
+    <province name="TG" capital="Frauenfeld"/>
+    <province name="TI" capital="Bellinzona"/>
+    <province name="UR" capital="Altdorf"/>
+    <province name="VS" capital="Sion"/>
+    <province name="VD" capital="Lausanne"/>
+    <province name="ZG" capital="Zug"/>
+    <province name="ZH" capital="Zurich"/>
+    <airport name="Bern Belp" nearCity="Bern"/>
+    <airport name="Lugano" nearCity="Lugano"/>
+    <airport name="EuroAirport Basel-Mulhouse-Freiburg" nearCity="Basel"/>
+    <airport name="Zurich Kloten" nearCity="Zürich"/>
+    <airport name="Geneva Cointrin" nearCity="Genève"/>
+    <airport name="St Gallen Altenrhein" nearCity="Sankt Gallen"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Belarus" capital="Minsk"/>
+    <airport name="Minsk National" nearCity="Minsk"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Latvia" capital="Riga"/>
+    <airport name="Riga Intl" nearCity="R¿ga"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Lithuania" capital="Vilnius"/>
+    <airport name="Kaunas Intl" nearCity="Kaunas"/>
+    <airport name="Vilnius Intl" nearCity="Vilnius"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Warszwaskie" capital="Warsaw"/>
+    <province name="Bialskopodlaskie" capital="Biala Podlaska"/>
+    <province name="Bialostockie" capital="Bialystok"/>
+    <province name="Bielskie" capital="Bielsko Biala"/>
+    <province name="Bydgoskie" capital="Bydgoszcz"/>
+    <province name="Chelmskie" capital="Chelm"/>
+    <province name="Ciechanowskie" capital="Ciechanow"/>
+    <province name="Czestochowskie" capital="Czestochowa"/>
+    <province name="Elblaskie" capital="Elblag"/>
+    <province name="Gdanskie" capital="Gdansk"/>
+    <province name="Gorzowskie" capital="Gorzow Wielkopolskie"/>
+    <province name="Jeleniogorskie" capital="Jelenia Gora"/>
+    <province name="Kaliskie" capital="Kalisz"/>
+    <province name="Katowickie" capital="Katowice"/>
+    <province name="Kieleckie" capital="Kielce"/>
+    <province name="Koninskie" capital="Konin"/>
+    <province name="Koszalinskie" capital="Koszalin"/>
+    <province name="Krakowskie" capital="Krakow"/>
+    <province name="Krosnienskie" capital="Krosno"/>
+    <province name="Legnickie" capital="Legnica"/>
+    <province name="Leszczynskie" capital="Leszno"/>
+    <province name="Lubelskie" capital="Lublin"/>
+    <province name="Lomzynskie" capital="Lomza"/>
+    <province name="Lodzkie" capital="Lodz"/>
+    <province name="Nowosadeckie" capital="Nowy Sacz"/>
+    <province name="Olsztynskie" capital="Olsztyn"/>
+    <province name="Opolskie" capital="Opole"/>
+    <province name="Ostroleckie" capital="Ostroleka"/>
+    <province name="Pilskie" capital="Pila"/>
+    <province name="Piotrkowskie" capital="Piotrkow Trybunalski"/>
+    <province name="Plockie" capital="Plock"/>
+    <province name="Poznanskie" capital="Poznan"/>
+    <province name="Przemyskie" capital="Przemysl"/>
+    <province name="Radomskie" capital="Radom"/>
+    <province name="Rzeszowskie" capital="Rzeszow"/>
+    <province name="Siedleckie" capital="Siedlce"/>
+    <province name="Sieradzkie" capital="Sieradz"/>
+    <province name="Skierniewickie" capital="Skierniewice"/>
+    <province name="Slupskie" capital="Slupsk"/>
+    <province name="Suwalskie" capital="Suwalki"/>
+    <province name="Szczecinskie" capital="Szczecin"/>
+    <province name="Tarnobrzeskie" capital="Tarnobrzeg"/>
+    <province name="Tarnowskie" capital="Tarnow"/>
+    <province name="Torunskie" capital="Torun"/>
+    <province name="Walbrzyskie" capital="Walbrzych"/>
+    <province name="Wloclawskie" capital="Wloclawek"/>
+    <province name="Wroclawskie" capital="Wroclaw"/>
+    <province name="Zamojskie" capital="Zamosc"/>
+    <province name="Zielonogorskie" capital="Zielona Gora"/>
+    <airport name="Balice" nearCity="Kraków"/>
+    <airport name="Pyrzowice" nearCity="Katowice"/>
+    <airport name="Bydgoszcz Ignacy Jan Paderewski Airport" nearCity="Bydgoszcz"/>
+    <airport name="Goleniow" nearCity="Szczecin"/>
+    <airport name="Lech Walesa" nearCity="Gda¿sk"/>
+    <airport name="Jasionka" nearCity="Rzeszów"/>
+    <airport name="Lawica" nearCity="Pozna¿"/>
+    <airport name="Strachowice" nearCity="Wroc¿aw"/>
+    <airport name="Lodz Wladyslaw Reymont Airport" nearCity="¿ód¿"/>
+    <airport name="Okecie" nearCity="Warszawa"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Cherkaska" capital="Cherkasy"/>
+    <province name="Chernihivska" capital="Chernihiv"/>
+    <province name="Chernivetska" capital="Chernivtsi"/>
+    <province name="Dnipropetrovska" capital="Dnipropetrovsk"/>
+    <province name="Donetska" capital="Donetsk"/>
+    <province name="Ivano Frankivska" capital="Ivano Frankivsk"/>
+    <province name="Kharkivska" capital="Kharkiv"/>
+    <province name="Khersonska" capital="Kherson"/>
+    <province name="Khmelnytska" capital="Khmelnytskyy"/>
+    <province name="Kyyivska" capital="Kiev"/>
+    <province name="Kirovohradska" capital="Kirovohrad"/>
+    <province name="Luhanska" capital="Luhansk"/>
+    <province name="Lvivska" capital="Lviv"/>
+    <province name="Mykolayivska" capital="Mykolayiv"/>
+    <province name="Odeska" capital="Odesa"/>
+    <province name="Poltavska" capital="Poltava"/>
+    <province name="Rivnenska" capital="Rivne"/>
+    <province name="Sumska" capital="Sumy"/>
+    <province name="Ternopilska" capital="Ternopil"/>
+    <province name="Vinnytska" capital="Vinnytsya"/>
+    <province name="Volynska" capital="Lutsk"/>
+    <province name="Zakarpatska" capital="Uzhhorod"/>
+    <province name="Zaporizka" capital="Zaporizhzhya"/>
+    <province name="Zhytomyrska" capital="Zhytomyr"/>
+    <province name="Krym" capital="Simferopol"/>
+    <airport name="Donetsk Intl" nearCity="Donetsk"/>
+    <airport name="Boryspil Intl" nearCity="Kyïv"/>
+    <airport name="Osnova International Airport" nearCity="Kharkiv"/>
+    <airport name="Zhuliany Intl" nearCity="Kyïv"/>
+    <airport name="Simferopol Intl" nearCity="Simferopol"/>
+    <airport name="Uzhhorod International Airport" nearCity="Uzhhorod"/>
+    <airport name="Dnipropetrovsk Intl" nearCity="Dnipropetrovsk"/>
+    <airport name="Ivano Frankivsk International Airport" nearCity="Ivano-Frankivsk"/>
+    <airport name="Odesa Intl" nearCity="Odesa"/>
+    <airport name="Lviv Intl" nearCity="Lviv"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <continent name="Asia" percent="0"/>
+    <province name="Rep. of Karelia" capital="Petrozavodsk"/>
+    <province name="Rep. of Komi" capital="Syktyvkar"/>
+    <province name="Arkhangelskaya oblast" capital="Arkhangelsk"/>
+    <province name="Vologodskaya oblast" capital="Vologda"/>
+    <province name="Murmanskaya oblast" capital="Murmansk"/>
+    <province name="Kaliningradskaya oblast" capital="Kaliningrad"/>
+    <province name="Sankt Peterburg" capital="Sankt Peterburg"/>
+    <province name="Leningradskaya oblast" capital="Sankt Peterburg"/>
+    <province name="Novgorodskaya oblast" capital="Novgorod"/>
+    <province name="Pskovskaya oblast" capital="Pskov"/>
+    <province name="Bryanskaya oblast" capital="Bryansk"/>
+    <province name="Vladimirskaya oblast" capital="Vladimir"/>
+    <province name="Ivanovskaya oblast" capital="Ivanovo"/>
+    <province name="Kaluzhskaya oblast" capital="Kaluga"/>
+    <province name="Kostromskaya oblast" capital="Kostroma"/>
+    <province name="Moskva" capital="Moscow"/>
+    <province name="Moskovskaya oblast" capital="Moscow"/>
+    <province name="Orjolskaya oblast" capital="Orel"/>
+    <province name="Ryazanskaya oblast" capital="Ryazan"/>
+    <province name="Smolenskaya oblast" capital="Smolensk"/>
+    <province name="Tverskaya oblast" capital="Tver"/>
+    <province name="Tulskaya oblast" capital="Tula"/>
+    <province name="Yaroslavskaya oblast" capital="Yaroslavl"/>
+    <province name="Rep. of Mariy El" capital="Yoshkar Ola"/>
+    <province name="Rep. of Mordovia" capital="Saransk"/>
+    <province name="Chuvash Republic" capital="Cheboksary"/>
+    <province name="Kirovskaya oblast" capital="Kirov"/>
+    <province name="Nizhegorodskaya oblast" capital="Nizhniy Novgorod"/>
+    <province name="Belgorodskaya oblast" capital="Belgorod"/>
+    <province name="Voronezhskaya oblast" capital="Voronezh"/>
+    <province name="Kurskaya oblast" capital="Kursk"/>
+    <province name="Lipetskaya oblast" capital="Lipetsk"/>
+    <province name="Tambovskaya oblast" capital="Tambov"/>
+    <province name="Rep. of Kalmykiya" capital="Elista"/>
+    <province name="Rep. of Tatarstan" capital="Kazan"/>
+    <province name="Astrakhanskaya oblast" capital="Astrakhan"/>
+    <province name="Volgogradskaya oblast" capital="Volgograd"/>
+    <province name="Penzenskaya oblast" capital="Penza"/>
+    <province name="Samarskaya oblast" capital="Samara"/>
+    <province name="Saratovskaya oblast" capital="Saratov"/>
+    <province name="Ulyanovskaya oblast" capital="Simbirsk"/>
+    <province name="Rostovskaya oblast" capital="Rostov no Donu"/>
+    <province name="Rep. of Bashkortostan" capital="Ufa"/>
+    <province name="Udmurt Republic" capital="Izhevsk"/>
+    <province name="Orenburgskaya oblast" capital="Orenburg"/>
+    <province name="Permskaya oblast" capital="Perm"/>
+    <province name="Rep. of Adygeya" capital="Maykop"/>
+    <province name="Rep. of Dagestan" capital="Makhachkala"/>
+    <province name="Rep. of Ingushetiya" capital="Nazran"/>
+    <province name="Kabardino Balkar Rep." capital="Nalchik"/>
+    <province name="Karachayevo Cherkessk Rep." capital="Cherkessk"/>
+    <province name="Rep. of North Ossetiya" capital="Vladikavkaz"/>
+    <province name="Chechen Rep." capital="Grozny"/>
+    <province name="Krasnodarsky kray" capital="Krasnodar"/>
+    <province name="Stavropolsky kray" capital="Stavropol"/>
+    <province name="Kurganskaya oblast" capital="Kurgan"/>
+    <province name="Sverdlovskaya oblast" capital="Yekaterinburg"/>
+    <province name="Chelyabinskaya oblast" capital="Chelyabinsk"/>
+    <province name="Rep. of Altay" capital="Gorno Altaysk"/>
+    <province name="Altayskiy kray" capital="Barnaul"/>
+    <province name="Kemerovskaya oblast" capital="Kemerovo"/>
+    <province name="Novosibirskaya oblast" capital="Novosibirsk"/>
+    <province name="Omskaya oblast" capital="Omsk"/>
+    <province name="Tomskaya oblast" capital="Tomsk"/>
+    <province name="Tyumenskaya oblast" capital="Tyumen"/>
+    <province name="Rep. of Buryatiya" capital="Ulan Ude"/>
+    <province name="Rep. of Tyva" capital="Kyzyl"/>
+    <province name="Rep. of Khakassiya" capital="Abakan"/>
+    <province name="Krasnoyarskiy kray" capital="Krasnoyarsk"/>
+    <province name="Irkutskaya oblast" capital="Irkutsk"/>
+    <province name="Chitinskaya oblast" capital="Chita"/>
+    <province name="Rep. of Sakha" capital="Yakutsk"/>
+    <province name="Yevreyskaya avt. oblast" capital="Birobidzhan"/>
+    <province name="Chukotsky ao" capital="Anadyr"/>
+    <province name="Primorsky kray" capital="Vladivostok"/>
+    <province name="Khabarovskiy kray" capital="Khabarovsk"/>
+    <province name="Amurskaya oblast" capital="Blagoveshchensk"/>
+    <province name="Kamchatskaya oblast" capital="Petropavlovsk Kamchatsky"/>
+    <province name="Magadanskaya oblast" capital="Magadan"/>
+    <province name="Sakhalinskaya oblast" capital="Yuzhno Sakhalinsk"/>
+    <airport name="Khrabrovo" nearCity="Kaliningrad"/>
+    <airport name="Murmansk" nearCity="Murmansk"/>
+    <airport name="Petrozavodsk Airport" nearCity="Petrozavodsk"/>
+    <airport name="Talagi" nearCity="Arkhangelsk"/>
+    <airport name="Syktyvkar" nearCity="Syktyvkar"/>
+    <airport name="Vorkuta Airport" nearCity="Vorkuta"/>
+    <airport name="Pobedilovo Airport" nearCity="Kirov"/>
+    <airport name="Pulkovo" nearCity="Sankt Peterburg"/>
+    <airport name="Belgorod International Airport" nearCity="Belgorod"/>
+    <airport name="Domododevo" nearCity="Moskva"/>
+    <airport name="Sheremetyevo" nearCity="Moskva"/>
+    <airport name="Vnukovo" nearCity="Moskva"/>
+    <airport name="Strigono" nearCity="Nizhnii Novgorod"/>
+    <airport name="Cherepovets Airport" nearCity="Cherepovets"/>
+    <airport name="Kazan" nearCity="Kazan"/>
+    <airport name="Cheboksary Airport" nearCity="Cheboksary"/>
+    <airport name="Tambow" nearCity="Tambov"/>
+    <airport name="Chertovitskoye" nearCity="Voronezh"/>
+    <airport name="Gumrak" nearCity="Volgograd"/>
+    <airport name="Rostov Na Donu" nearCity="Rostov-na-Donu"/>
+    <airport name="Shpakovskoye" nearCity="Stavropol"/>
+    <airport name="Sochi" nearCity="Sochi"/>
+    <airport name="Pashkovskiy" nearCity="Krasnodar"/>
+    <airport name="Elista Airport" nearCity="Elista"/>
+    <airport name="Nalchik Airport" nearCity="Nal¿ik"/>
+    <airport name="Grozny Airport" nearCity="Grozny"/>
+    <airport name="Uytash" nearCity="Makhachkala"/>
+    <airport name="Kurumoch" nearCity="Samara"/>
+    <airport name="Ulyanovsk East Airport" nearCity="Ulyanovsk"/>
+    <airport name="Astrakhan" nearCity="Astrakhan"/>
+    <airport name="Izhevsk Airport" nearCity="Izhevsk"/>
+    <airport name="Bolshoye Savino" nearCity="Perm"/>
+    <airport name="Ufa" nearCity="Ufa"/>
+    <airport name="Orenburg" nearCity="Orenburg"/>
+    <airport name="Magnitogorsk" nearCity="Magnitogorsk"/>
+    <airport name="Orsk Airport" nearCity="Orsk"/>
+    <airport name="Koltsovo" nearCity="Yekaterinburg"/>
+    <airport name="Balandino" nearCity="Chelyabinsk"/>
+    <airport name="Roschino" nearCity="Tyumen"/>
+    <airport name="Salekhard Airport" nearCity="Salekhard"/>
+    <airport name="Novyi Urengoy" nearCity="Novyj Urengoj"/>
+    <airport name="Khanty Mansiysk Airport" nearCity="Khanty Mansijsk"/>
+    <airport name="Surgut" nearCity="Surgut"/>
+    <airport name="Noyabrsk" nearCity="Nojabrsk"/>
+    <airport name="Nizhnevartovsk" nearCity="Nizhnevartovsk"/>
+    <airport name="Omsk" nearCity="Omsk"/>
+    <airport name="Tolmachevo" nearCity="Novosibirsk"/>
+    <airport name="Barnaul" nearCity="Barnaul"/>
+    <airport name="Tomsk Bogashevo Airport" nearCity="Tomsk"/>
+    <airport name="Kemerovo" nearCity="Kemerovo"/>
+    <airport name="Spichenkovo Airport" nearCity="Novokuznetsk"/>
+    <airport name="Alykel" nearCity="Norilsk"/>
+    <airport name="Abakan" nearCity="Abakan"/>
+    <airport name="Emelyanovo" nearCity="Krasnoyarsk"/>
+    <airport name="Bratsk" nearCity="Bratsk"/>
+    <airport name="Irkutsk" nearCity="Irkutsk"/>
+    <airport name="Mukhino" nearCity="Ulan-Ude"/>
+    <airport name="Kadala" nearCity="Chita"/>
+    <airport name="Ignatyevo" nearCity="Blagove?¿ensk"/>
+    <airport name="Yakutsk" nearCity="Yakutsk"/>
+    <airport name="Knevichi" nearCity="Vladivostok"/>
+    <airport name="Khabarovsk Novy" nearCity="Khabarovsk"/>
+    <airport name="Khomutovo" nearCity="Ju?no-Sachalinsk"/>
+    <airport name="Sokol" nearCity="Magadan"/>
+    <airport name="Yelizovo" nearCity="Petropavlovsk-Kam¿atskij"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Antwerp" capital="Antwerp"/>
+    <province name="Brabant" capital="Brussels"/>
+    <province name="East Flanders" capital="Ghent"/>
+    <province name="Hainaut" capital="Mons"/>
+    <province name="Liege" capital="Liege"/>
+    <province name="Limburg" capital="Hasselt"/>
+    <province name="Luxembourg" capital="Arlon"/>
+    <province name="Namur" capital="Namur"/>
+    <province name="West Flanders" capital="Brugge"/>
+    <airport name="Deurne" nearCity="Antwerpen"/>
+    <airport name="Brussels South" nearCity="Charleroi"/>
+    <airport name="Aéroport de Liège" nearCity="Liège"/>
+    <airport name="Brussels Natl" nearCity="Bruxelles"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Luxembourg" capital="Luxembourg"/>
+    <airport name="Luxembourg" nearCity="Luxembourg"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Groningen" capital="Groningen"/>
+    <province name="Friesland" capital="Leeuwarden"/>
+    <province name="Drenthe" capital="Assen"/>
+    <province name="Overijssel" capital="Zwolle"/>
+    <province name="Flevoland" capital="Lelystad"/>
+    <province name="Gelderland" capital="Arnhem"/>
+    <province name="Utrecht" capital="Utrecht"/>
+    <province name="Noord Holland" capital="Haarlem"/>
+    <province name="Zuid Holland" capital="s Gravenhage"/>
+    <province name="Zeeland" capital="Middelburg"/>
+    <province name="Noord Brabant" capital="s Hertogenbosch"/>
+    <province name="Limburg" capital="Maastricht"/>
+    <airport name="Rotterdam" nearCity="Rotterdam"/>
+    <airport name="Eindhoven" nearCity="Eindhoven"/>
+    <airport name="Maastricht" nearCity="Maastricht"/>
+    <airport name="Schiphol" nearCity="Amsterdam"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Bosnia and Herzegovina" capital="Sarajevo"/>
+    <airport name="Sarajevo" nearCity="Sarajevo"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Croatia" capital="Zagreb"/>
+    <airport name="Split" nearCity="Split"/>
+    <airport name="Zagreb" nearCity="Zagreb"/>
+    <airport name="Rijeka" nearCity="Rijeka"/>
+    <airport name="Zadar" nearCity="Zadar"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Bulgaria" capital="Sofia"/>
+    <airport name="Burgas" nearCity="Burgas"/>
+    <airport name="Varna" nearCity="Varna"/>
+    <airport name="Plovdiv" nearCity="Plovdiv"/>
+    <airport name="Sofia" nearCity="Sofia"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Alba" capital="Alba Iulia"/>
+    <province name="Arad" capital="Arad"/>
+    <province name="Arges" capital="Pitesti"/>
+    <province name="Bacau" capital="Bacau"/>
+    <province name="Bihor" capital="Oradea"/>
+    <province name="Bistrita Nasaud" capital="Bistrita"/>
+    <province name="Botosani" capital="Botosani"/>
+    <province name="Braila" capital="Braila"/>
+    <province name="Brasov" capital="Brasov"/>
+    <province name="Bucuresti" capital="Bucharest"/>
+    <province name="Buzau" capital="Buzau"/>
+    <province name="Calarasi" capital="Calarasi"/>
+    <province name="Caras Severin" capital="Resita"/>
+    <province name="Cluj" capital="Cluj Napoca"/>
+    <province name="Constanta" capital="Constanta"/>
+    <province name="Covasna" capital="Sfintu Gheorghe"/>
+    <province name="Dimbovita" capital="Tirgoviste"/>
+    <province name="Dolj" capital="Craiova"/>
+    <province name="Galati" capital="Galati"/>
+    <province name="Giurgiu" capital="Giurgiu"/>
+    <province name="Gorj" capital="Tirgu Jiu"/>
+    <province name="Harghita" capital="Miercurea Ciuc"/>
+    <province name="Hunedoara" capital="Deva"/>
+    <province name="Ialomita" capital="Slobozia"/>
+    <province name="Iasi" capital="Iasi"/>
+    <province name="Maramures" capital="Baia Mare"/>
+    <province name="Mehedinti" capital="Drobeta Turnu Severin"/>
+    <province name="Mures" capital="Tirgu Mures"/>
+    <province name="Neamt" capital="Piatra Neamt"/>
+    <province name="Olt" capital="Slatina"/>
+    <province name="Prahova" capital="Ploiesti"/>
+    <province name="Salaj" capital="Zalau"/>
+    <province name="Satu Mare" capital="Satu Mare"/>
+    <province name="Sibiu" capital="Sibiu"/>
+    <province name="Suceava" capital="Suceava"/>
+    <province name="Teleorman" capital="Alexandria"/>
+    <province name="Timis" capital="Timisoara"/>
+    <province name="Tulcea" capital="Tulcea"/>
+    <province name="Vaslui" capital="Vaslui"/>
+    <province name="Vilcea" capital="Rimnicu Vilcea"/>
+    <province name="Vrancea" capital="Focsani"/>
+    <airport name="Iasi" nearCity="Ia¿i"/>
+    <airport name="Sibiu" nearCity="Sibiu"/>
+    <airport name="Tautii Magheraus" nearCity="Baia Mare"/>
+    <airport name="Stefan Cel Mare" nearCity="Suceava"/>
+    <airport name="Cluj Napoca" nearCity="Cluj-Napoca"/>
+    <airport name="Traian Vuia" nearCity="Timi¿oara"/>
+    <airport name="Bacau" nearCity="Bac¿u"/>
+    <airport name="Oradea" nearCity="Oradea"/>
+    <airport name="Henri Coanda" nearCity="Bucure¿ti"/>
+    <airport name="Satu Mare" nearCity="Satu Mare"/>
+    <airport name="Arad" nearCity="Arad"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <continent name="Asia" percent="0"/>
+    <province name="Adana" capital="Adana"/>
+    <province name="Adiyaman" capital="Adiyaman"/>
+    <province name="Afyon" capital="Afyon"/>
+    <province name="Agri" capital="Agri"/>
+    <province name="Aksaray" capital="Aksaray"/>
+    <province name="Amasya" capital="Amasya"/>
+    <province name="Ankara" capital="Ankara"/>
+    <province name="Antalya" capital="Antalya"/>
+    <province name="Artvin" capital="Artvin"/>
+    <province name="Aydin" capital="Aydin"/>
+    <province name="Balikesir" capital="Balikesir"/>
+    <province name="Batman" capital="Batman"/>
+    <province name="Bayburt" capital="Bayburt"/>
+    <province name="Bilecik" capital="Bilecik"/>
+    <province name="Bingol" capital="Bingol"/>
+    <province name="Bitlis" capital="Bitlis"/>
+    <province name="Bolu" capital="Bolu"/>
+    <province name="Burdur" capital="Burdur"/>
+    <province name="Bursa" capital="Bursa"/>
+    <province name="Canakkale" capital="Canakkale"/>
+    <province name="Cankiri" capital="Cankiri"/>
+    <province name="Corum" capital="Corum"/>
+    <province name="Denizli" capital="Denizli"/>
+    <province name="Diyarbakir" capital="Diyarbakir"/>
+    <province name="Edirne" capital="Edirne"/>
+    <province name="Elazig" capital="Elazig"/>
+    <province name="Erzincan" capital="Erzincan"/>
+    <province name="Erzurum" capital="Erzurum"/>
+    <province name="Eskisehir" capital="Eskisehir"/>
+    <province name="Gaziantep" capital="Gaziantep"/>
+    <province name="Giresun" capital="Giresun"/>
+    <province name="Gumushane" capital="Gumushane"/>
+    <province name="Hakkari" capital="Hakkari"/>
+    <province name="Hatay" capital="Antakya"/>
+    <province name="Icel" capital="Mersin"/>
+    <province name="Isparta" capital="Isparta"/>
+    <province name="Istanbul" capital="Istanbul"/>
+    <province name="Izmir" capital="Izmir"/>
+    <province name="Karaman" capital="Karaman"/>
+    <province name="Karamanmaras" capital="Karaman Maras"/>
+    <province name="Kars" capital="Kars"/>
+    <province name="Kastamonu" capital="Kastamonu"/>
+    <province name="Kayseri" capital="Kayseri"/>
+    <province name="Kirikkale" capital="Kirikkale"/>
+    <province name="Kirklareli" capital="Kirklareli"/>
+    <province name="Kirsehir" capital="Kirsehir"/>
+    <province name="Kocaeli" capital="Izmit"/>
+    <province name="Konya" capital="Konya"/>
+    <province name="Kutahya" capital="Kutahya"/>
+    <province name="Malatya" capital="Malatya"/>
+    <province name="Manisa" capital="Manisa"/>
+    <province name="Mardin" capital="Mardin"/>
+    <province name="Mugla" capital="Mugla"/>
+    <province name="Mus" capital="Mus"/>
+    <province name="Nevsehir" capital="Nevsehir"/>
+    <province name="Nigde" capital="Nigde"/>
+    <province name="Ordu" capital="Ordu"/>
+    <province name="Rize" capital="Rize"/>
+    <province name="Sakarya" capital="Sakarya"/>
+    <province name="Samsun" capital="Samsun"/>
+    <province name="Sanliurfa" capital="Urfa"/>
+    <province name="Siirt" capital="Siirt"/>
+    <province name="Sinop" capital="Sinop"/>
+    <province name="Sirnak" capital="Sirnak"/>
+    <province name="Sivas" capital="Sivas"/>
+    <province name="Tekirdag" capital="Tekirdag"/>
+    <province name="Tokat" capital="Tokat"/>
+    <province name="Trabzon" capital="Trabzon"/>
+    <province name="Tunceli" capital="Tunceli"/>
+    <province name="Usak" capital="Usak"/>
+    <province name="Van" capital="Van"/>
+    <province name="Yozgat" capital="Yozgat"/>
+    <province name="Zonguldak" capital="Zonguldak"/>
+    <airport name="Antalya" nearCity="Antalya"/>
+    <airport name="Elazig" nearCity="Elazig"/>
+    <airport name="Kars Airport" nearCity="Kars"/>
+    <airport name="Samsun-Carsamba Airport" nearCity="Samsun"/>
+    <airport name="Konya" nearCity="Konya"/>
+    <airport name="Adiyaman Airport" nearCity="Adiyaman"/>
+    <airport name="Batman" nearCity="Batman"/>
+    <airport name="Adana" nearCity="Adana"/>
+    <airport name="Adnan Menderes" nearCity="¿zmir"/>
+    <airport name="Van" nearCity="Van"/>
+    <airport name="Sivas" nearCity="Sivas"/>
+    <airport name="Kapadokya" nearCity="Nevsehir"/>
+    <airport name="Esenboga" nearCity="Ankara"/>
+    <airport name="Erzurum" nearCity="Erzurum"/>
+    <airport name="Erzincan" nearCity="Erzincan"/>
+    <airport name="Kahramanmaras Airport" nearCity="Kahramanmara¿"/>
+    <airport name="Erhac" nearCity="Malatya"/>
+    <airport name="Diyarbakir" nearCity="Diyarbakir"/>
+    <airport name="Erkilet" nearCity="Kayseri"/>
+    <airport name="Trabzon" nearCity="Trabzon"/>
+    <airport name="Ataturk" nearCity="¿stanbul"/>
+    <airport name="Sabiha Gokcen" nearCity="¿stanbul"/>
+    <airport name="Oguzeli" nearCity="Gaziantep"/>
+    <airport name="Hatay Airport" nearCity="Hatay"/>
+    <airport name="Agri Airport" nearCity="Agri"/>
+    <airport name="Anadolu Airport" nearCity="Eskisehir"/>
+    <airport name="Mardin Airport" nearCity="Mardin"/>
+    <airport name="Cardak" nearCity="Denizli"/>
+    <airport name="Mus Airport" nearCity="Mus"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Denmark" capital="Copenhagen"/>
+    <airport name="Kastrup" nearCity="Copenhagen"/>
+    <airport name="Aalborg" nearCity="Ålborg"/>
+    <airport name="Aarhus" nearCity="Århus"/>
+    <airport name="Bornholm Ronne" nearCity="Ronne"/>
+    <airport name="Esbjerg" nearCity="Esbjerg"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Estonia" capital="Tallinn"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Faroe Islands" capital="Torshavn"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Aland" capital="Mariehamn"/>
+    <province name="Haeme" capital="Haemeenlinna"/>
+    <province name="Kuopio" capital="Kuopio"/>
+    <province name="Kymi" capital="Kotka"/>
+    <province name="Lappia" capital="Rovaniemi"/>
+    <province name="Mikkeli" capital="Mikkeli"/>
+    <province name="Suomi" capital="Jyvaeskylae"/>
+    <province name="Pohjols-Karjala" capital="Joensuu"/>
+    <province name="Oulu" capital="Oulu"/>
+    <province name="Turku-Pori" capital="Turku"/>
+    <province name="Uusimaa" capital="Helsinki"/>
+    <province name="Vaasa" capital="Vaasa"/>
+    <airport name="Mariehamn" nearCity="Mariehamn"/>
+    <airport name="Oulu" nearCity="Oulu"/>
+    <airport name="Helsinki Vantaa" nearCity="Helsinki"/>
+    <airport name="Pori" nearCity="Pori"/>
+    <airport name="Joensuu" nearCity="Joensuu"/>
+    <airport name="Rovaniemi" nearCity="Rovaniemi"/>
+    <airport name="Jyväskylä" nearCity="Jyväskylä"/>
+    <airport name="Kuopio" nearCity="Kuopio"/>
+    <airport name="Lappeenranta" nearCity="Lappeenranta"/>
+    <airport name="Tampere Pirkkala" nearCity="Tampere"/>
+    <airport name="Turku" nearCity="Turku"/>
+    <airport name="Vaasa" nearCity="Vaasa"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Oslo" capital="Oslo"/>
+    <province name="Akershus" capital="Oslo"/>
+    <province name="Oestfold" capital="Moss"/>
+    <province name="Hedmark" capital="Hamar"/>
+    <province name="Oppland" capital="Lillehammer"/>
+    <province name="Buskerud" capital="Drammen"/>
+    <province name="Vestfold" capital="Toensberg"/>
+    <province name="Telemark" capital="Skien"/>
+    <province name="Aust Agder" capital="Arendal"/>
+    <province name="Vest Agder" capital="Kristiansand"/>
+    <province name="Rogaland" capital="Stavanger"/>
+    <province name="Hordaland" capital="Bergen"/>
+    <province name="Sogn og Fjordane" capital="Hermannsverk"/>
+    <province name="Moere og Romsdal" capital="Molde"/>
+    <province name="Soer Trondelag" capital="Trondheim"/>
+    <province name="Nord Trondelag" capital="Steinkjer"/>
+    <province name="Nordland" capital="Bodoe"/>
+    <province name="Troms" capital="Tromsoe"/>
+    <province name="Finnmark" capital="Vadsoe"/>
+    <airport name="Geiteryggen" nearCity="Skien"/>
+    <airport name="Vadsoe" nearCity="Vadsø"/>
+    <airport name="Framnes" nearCity="Narvik"/>
+    <airport name="Gardermoen" nearCity="Oslo"/>
+    <airport name="Moss" nearCity="Moss"/>
+    <airport name="Aro" nearCity="Molde"/>
+    <airport name="Kjevik" nearCity="Kristiansand"/>
+    <airport name="Sola" nearCity="Stavanger"/>
+    <airport name="Vaernes" nearCity="Trondheim"/>
+    <airport name="Flesland" nearCity="Bergen"/>
+    <airport name="Hammerfest Airport" nearCity="Hammerfest"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Alvsborg" capital="Vanersborg"/>
+    <province name="Blekinge" capital="Karlskrona"/>
+    <province name="Gavleborg" capital="Gavle"/>
+    <province name="Goteborg och Bohus" capital="Goteborg"/>
+    <province name="Gotland" capital="Visby"/>
+    <province name="Halland" capital="Halmstad"/>
+    <province name="Jamtland" capital="Ostersund"/>
+    <province name="Jonkoping" capital="Jonkoping"/>
+    <province name="Kalmar" capital="Kalmar"/>
+    <province name="Dalarna" capital="Falun"/>
+    <province name="Kristianstad" capital="Kristianstad"/>
+    <province name="Kronoberg" capital="Vaxjo"/>
+    <province name="Malmohus" capital="Malmo"/>
+    <province name="Norrbotten" capital="Lulea"/>
+    <province name="Orebro" capital="Orebro"/>
+    <province name="Ostergotland" capital="Linkoping"/>
+    <province name="Skaraborg" capital="Mariestad"/>
+    <province name="Sodermanland" capital="Nykoping"/>
+    <province name="Stockholm" capital="Stockholm"/>
+    <province name="Uppsala" capital="Uppsala"/>
+    <province name="Varmland" capital="Karlstad"/>
+    <province name="Vasterbotten" capital="Umea"/>
+    <province name="Vasternorrland" capital="Harnosand"/>
+    <province name="Vastmanland" capital="Vasteras"/>
+    <airport name="Kronoberg" nearCity="Växjö"/>
+    <airport name="Visby" nearCity="Visby"/>
+    <airport name="Kungsangen" nearCity="Norrköping"/>
+    <airport name="Kallax" nearCity="Lulea"/>
+    <airport name="Saab" nearCity="Linköping"/>
+    <airport name="Angelholm-Helsingborg Airport" nearCity="Helsingborg"/>
+    <airport name="Kristianstad" nearCity="Kristianstad"/>
+    <airport name="Bromma" nearCity="Stockholm"/>
+    <airport name="Kalmar" nearCity="Kalmar"/>
+    <airport name="Umea" nearCity="Umeå"/>
+    <airport name="Skavsta" nearCity="Stockholm"/>
+    <airport name="Västerås" nearCity="Västerås"/>
+    <airport name="Halmstad" nearCity="Halmstad"/>
+    <airport name="Jönköping" nearCity="Jönköping"/>
+    <airport name="Östersund Airport" nearCity="Ostersund"/>
+    <airport name="Örebro" nearCity="Örebro"/>
+    <airport name="Landvetter" nearCity="Göteborg"/>
+    <airport name="Save" nearCity="Göteborg"/>
+    <airport name="Arlanda" nearCity="Stockholm"/>
+    <airport name="Sturup" nearCity="Malmö"/>
+    <airport name="Karlstad Airport" nearCity="Karlstad"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Monaco" capital="Monaco"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Gibraltar" capital="Gibraltar"/>
+    <airport name="Gibraltar" nearCity="Gibraltar"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Guernsey" capital="Saint Peter Port"/>
+    <airport name="Guernsey" nearCity="Saint Peter Port"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Holy See" capital="Vatican City"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Iceland" capital="Reykjavik"/>
+    <airport name="Keflavik International Airport" nearCity="Keflavik"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Ireland" capital="Dublin"/>
+    <airport name="Shannon" nearCity="Limerick"/>
+    <airport name="Cork" nearCity="Cork"/>
+    <airport name="Dublin" nearCity="Dublin"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="San Marino" capital="San Marino"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Jersey" capital="Saint Helier"/>
+    <airport name="Jersey" nearCity="Saint Helier"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Malta" capital="Valletta"/>
+    <airport name="Luqa" nearCity="Valletta"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Man" capital="Douglas"/>
+    <airport name="Isle Of Man" nearCity="Douglas"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Moldova" capital="Chisinau"/>
+    <airport name="Chisinau Intl" nearCity="Chi¿in¿u"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Aveiro" capital="Aveiro"/>
+    <province name="Beja" capital="Beja"/>
+    <province name="Braga" capital="Braga"/>
+    <province name="Braganca" capital="Braganca"/>
+    <province name="Castelo Branco" capital="Castelo Branco"/>
+    <province name="Coimbra" capital="Coimbra"/>
+    <province name="Evora" capital="Evora"/>
+    <province name="Algarve" capital="Faro"/>
+    <province name="Guarda" capital="Guarda"/>
+    <province name="Leiria" capital="Leiria"/>
+    <province name="Lisbon" capital="Lisbon"/>
+    <province name="Portalegre" capital="Portalegre"/>
+    <province name="Porto" capital="Porto"/>
+    <province name="Santarem" capital="Santarem"/>
+    <province name="Setubal" capital="Setubal"/>
+    <province name="Viana do Castelo" capital="Viana do Castelo"/>
+    <province name="Vila Real" capital="Vila Real"/>
+    <province name="Viseu" capital="Viseu"/>
+    <province name="Azores" capital="Ponta Delgada"/>
+    <province name="Madeira" capital="Funchal"/>
+    <airport name="Faro" nearCity="Faro"/>
+    <airport name="Flores" nearCity=""/>
+    <airport name="Portela" nearCity="Lisboa"/>
+    <airport name="Porto Santo" nearCity=""/>
+    <airport name="Graciosa" nearCity=""/>
+    <airport name="Sao Jorge" nearCity=""/>
+    <airport name="Corvo Airport" nearCity=""/>
+    <airport name="Santa Maria" nearCity=""/>
+    <airport name="Madeira" nearCity="Funchal"/>
+    <airport name="Pico" nearCity=""/>
+    <airport name="Lajes" nearCity=""/>
+    <airport name="Porto" nearCity="Oporto"/>
+    <airport name="Ponta Delgada" nearCity="Ponta Delgada"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Svalbard" capital="Longyearbyen"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Neath and Port Talbot" capital="Port Talbot"/>
+    <province name="Newport" capital="Newport"/>
+    <province name="Pembrokeshire" capital="Haverfordwest"/>
+    <province name="Powys" capital="Llandrindod Wells"/>
+    <province name="Rhondda Cynon Taff" capital="Rhondda"/>
+    <province name="Swansea" capital="Swansea"/>
+    <province name="Torfaen" capital="Pontypool"/>
+    <province name="Vale of Glamorgan" capital="Barry"/>
+    <province name="Wrexham" capital="Wrexham"/>
+    <province name="Northern Ireland" capital="Belfast"/>
+    <province name="Orkneys" capital="Kirkwall"/>
+    <province name="Outer Hebrides" capital="Stornoway"/>
+    <province name="Shetland" capital="Lerwick"/>
+    <province name="Avon" capital="Bristol"/>
+    <province name="Bedfordshire" capital="Bedford"/>
+    <province name="Berkshire" capital="Reading"/>
+    <province name="Buckinghamshire" capital="Aylesbury"/>
+    <province name="Cambridgeshire" capital="Cambridge"/>
+    <province name="Cheshire" capital="Chester"/>
+    <province name="Cleveland" capital="Middlesbrough"/>
+    <province name="Cornwall" capital="Truro"/>
+    <province name="Cumbria" capital="Carlisle"/>
+    <province name="Derbyshire" capital="Matlock"/>
+    <province name="Devon" capital="Exeter"/>
+    <province name="Dorset" capital="Dorchester"/>
+    <province name="Durham" capital="Durham"/>
+    <province name="East Sussex" capital="Lewes"/>
+    <province name="Essex" capital="Chelmsford"/>
+    <province name="Gloucestershire" capital="Gloucester"/>
+    <province name="Greater London" capital="London"/>
+    <province name="Greater Manchester" capital="Manchester"/>
+    <province name="Hampshire" capital="Winchester"/>
+    <province name="Hereford and Worcester" capital="Worcester"/>
+    <province name="Hertfordshire" capital="Hertford"/>
+    <province name="Humberside" capital="Hull"/>
+    <province name="Isle of Wight" capital="Newport"/>
+    <province name="Kent" capital="Maidstone"/>
+    <province name="Lancashire" capital="Preston"/>
+    <province name="Leicestershire" capital="Leichester"/>
+    <province name="Lincolnshire" capital="Lincoln"/>
+    <province name="Merseyside" capital="Liverpool"/>
+    <province name="Norfolk" capital="Norwich"/>
+    <province name="Northamptonshire" capital="Northampton"/>
+    <province name="Northumberland" capital="Newcastle upon Tyne"/>
+    <province name="North Yorkshire" capital="Northallerton"/>
+    <province name="Nottinghamshire" capital="Nottingham"/>
+    <province name="Oxfordshire" capital="Oxford"/>
+    <province name="Shropshire" capital="Shrewsbury"/>
+    <province name="Somerset" capital="Taunton"/>
+    <province name="South Yorkshire" capital="Barnsley"/>
+    <province name="Staffordshire" capital="Stafford"/>
+    <province name="Suffolk" capital="Ipswich"/>
+    <province name="Surrey" capital="Kingston"/>
+    <province name="Tyne and Wear" capital="Newcastle upon Tyne"/>
+    <province name="Warwickshire" capital="Warwick"/>
+    <province name="West Midlands" capital="Birmingham"/>
+    <province name="West Sussex" capital="Chichester"/>
+    <province name="West Yorkshire" capital="Wakefield"/>
+    <province name="Wiltshire" capital="Trowbridge"/>
+    <province name="Borders" capital="Newtown St. Boswells"/>
+    <province name="Central" capital="Stirling"/>
+    <province name="Dumfries and Galloway" capital="Dumfries"/>
+    <province name="Fife" capital="Glenrothes"/>
+    <province name="Grampian" capital="Aberdeen"/>
+    <province name="Highland" capital="Inverness"/>
+    <province name="Lothian" capital="Edinburgh"/>
+    <province name="Strathclyde" capital="Glasgow"/>
+    <province name="Tayside" capital="Dundee"/>
+    <province name="Aberconwy and Colwyn" capital="Colwyn Bay"/>
+    <province name="Anglesey" capital="Llangefni"/>
+    <province name="Blaenau Gwent" capital="Ebbw Vale"/>
+    <province name="Bridgend" capital="Bridgend"/>
+    <province name="Caerphilly" capital="Ystrad Fawr"/>
+    <province name="Cardiff" capital="Cardiff"/>
+    <province name="Carmarthenshire" capital="Carmarthen"/>
+    <province name="Ceredigion" capital="Aberystwyth"/>
+    <province name="Denbighshire" capital="Ruthin"/>
+    <province name="Flintshire" capital="Mold"/>
+    <province name="Gwynedd" capital="Caernarfon"/>
+    <province name="Merthyr Tydfil" capital="Merthyr Tydfil"/>
+    <province name="Monmouthshire" capital="Cwmbran"/>
+    <airport name="Stansted" nearCity="London"/>
+    <airport name="Leeds Bradford" nearCity="Leeds"/>
+    <airport name="City" nearCity="London"/>
+    <airport name="Gatwick" nearCity="London"/>
+    <airport name="Heathrow" nearCity="London"/>
+    <airport name="Liverpool" nearCity="Liverpool"/>
+    <airport name="Birmingham" nearCity="Birmingham"/>
+    <airport name="Tiree" nearCity=""/>
+    <airport name="Blackpool" nearCity="Blackpool"/>
+    <airport name="Benbecula" nearCity=""/>
+    <airport name="Dyce" nearCity="Aberdeen"/>
+    <airport name="Aldergrove" nearCity="Belfast"/>
+    <airport name="City" nearCity="Belfast"/>
+    <airport name="Exeter" nearCity="Exeter"/>
+    <airport name="Newcastle" nearCity="Newcastle upon Tyne"/>
+    <airport name="Nottingham East Midlands" nearCity="Nottingham"/>
+    <airport name="Norwich" nearCity="Norwich"/>
+    <airport name="Bournemouth" nearCity="Bournemouth"/>
+    <airport name="Dundee" nearCity="Dundee"/>
+    <airport name="Robin Hood Doncaster Sheffield Airport" nearCity="Sheffield"/>
+    <airport name="Durham Tees Valley Airport" nearCity="Middlesbrough"/>
+    <airport name="Manchester" nearCity="Manchester"/>
+    <airport name="Edinburgh" nearCity="Edinburgh"/>
+    <airport name="Southampton" nearCity="Southampton"/>
+    <airport name="Luton" nearCity="Luton"/>
+    <airport name="Barra Airport" nearCity=""/>
+    <airport name="Bristol" nearCity="Bristol"/>
+    <airport name="Humberside" nearCity="Kingston upon Hull"/>
+    <airport name="Islay" nearCity=""/>
+    <airport name="Gloucestershire" nearCity="Gloucester"/>
+    <airport name="Glasgow" nearCity="Glasgow"/>
+    <airport name="Southend" nearCity="Southend-on-Sea"/>
+    <airport name="Cardiff" nearCity="Cardiff"/>
+    <airport name="Kirkwall" nearCity="Kirkwall"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Afghanistan" capital="Kabul"/>
+    <airport name="Herat" nearCity="Herat"/>
+    <airport name="Kabul Intl" nearCity="Kabul"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Anhui" capital="Hefei"/>
+    <province name="Fujian" capital="Fuzhou"/>
+    <province name="Gansu" capital="Lanzhou"/>
+    <province name="Guangdong" capital="Guangzhou"/>
+    <province name="Guizhou" capital="Guiyang"/>
+    <province name="Hainan" capital="Haikou"/>
+    <province name="Hebei" capital="Shijiazhuang"/>
+    <province name="Heilongjiang" capital="Harbin"/>
+    <province name="Henan" capital="Zhengzhou"/>
+    <province name="Hubei" capital="Wuhan"/>
+    <province name="Hunan" capital="Changsha"/>
+    <province name="Jiangsu" capital="Nanjing"/>
+    <province name="Jiangxi" capital="Nanchang"/>
+    <province name="Jilin" capital="Changchun"/>
+    <province name="Liaoning" capital="Shenyang"/>
+    <province name="Qinghai" capital="Xining"/>
+    <province name="Shaanxi" capital="Xian"/>
+    <province name="Shandong" capital="Jinan"/>
+    <province name="Shanxi" capital="Taiyuan"/>
+    <province name="Sichuan" capital="Chengdu"/>
+    <province name="Yunnan" capital="Kunming"/>
+    <province name="Zhejiang" capital="Hangzhou"/>
+    <province name="Guangxi Zhuangzu" capital="Nanning"/>
+    <province name="Nei Monggol" capital="Hohhot"/>
+    <province name="Ningxia Huizu" capital="Yinchuan"/>
+    <province name="Xinjiang Uygur" capital="Urumqi"/>
+    <province name="Tibet" capital="Lhasa"/>
+    <province name="Beijing (munic.)" capital="Beijing"/>
+    <province name="Shanghai (munic.)" capital="Shanghai"/>
+    <province name="Tianjin (munic.)" capital="Tianjin"/>
+    <airport name="Dushanbe" nearCity="Dushanbe"/>
+    <airport name="Kulob Airport" nearCity="Kulyab"/>
+    <airport name="Khudzhand Airport" nearCity="Khujand"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Azarbayian e Gharbt" capital="Orumiyeh"/>
+    <province name="Azarbayian e Sharqi" capital="Tabriz"/>
+    <province name="Bakhtaran" capital="Bakhtaran"/>
+    <province name="Boyer Ahmad e Kohkiluyeh" capital="Yasuj"/>
+    <province name="Bushehr" capital="Bushehr"/>
+    <province name="Chahar Mahal e Bakhtiari" capital="Shahr e Kord"/>
+    <province name="Esfahan" capital="Esfahan"/>
+    <province name="Fars" capital="Shiraz"/>
+    <province name="Gilan" capital="Rasht"/>
+    <province name="Hamadan" capital="Hamadan"/>
+    <province name="Hormozgan" capital="Bandar Abbas"/>
+    <province name="Ilam" capital="Ilam"/>
+    <province name="Kerman" capital="Kerman"/>
+    <province name="Khorasan" capital="Mashhad"/>
+    <province name="Khuzestan" capital="Ahvaz"/>
+    <province name="Kordestan" capital="Sanandaj"/>
+    <province name="Lorestan" capital="Khorramabad"/>
+    <province name="Markazi" capital="Arak"/>
+    <province name="Mazandaran" capital="Sari"/>
+    <province name="Semnan" capital="Semnan"/>
+    <province name="Sistan e Baluchestan" capital="Zahedan"/>
+    <province name="Tehran" capital="Tehran"/>
+    <province name="Yazd" capital="Yazd"/>
+    <province name="Zanjan" capital="Zanjan"/>
+    <airport name="Ahwaz" nearCity="Ahvaz"/>
+    <airport name="Abadan" nearCity="Abadan"/>
+    <airport name="Shiraz Shahid Dastghaib Intl" nearCity="Shiraz"/>
+    <airport name="Esfahan Shahid Beheshti Intl" nearCity="Esfahan"/>
+    <airport name="Imam Khomeini" nearCity="Tehran"/>
+    <airport name="Bushehr" nearCity="Bushehr"/>
+    <airport name="Mashhad" nearCity="Mashhad"/>
+    <airport name="Tabriz Intl" nearCity="Tabriz"/>
+    <airport name="Bandar Abbas Intl" nearCity="Bandar Abbas"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Pakistan" capital="Islamabad"/>
+    <airport name="Chaklala" nearCity="Islamabad"/>
+    <airport name="Jinnah Intl" nearCity="Karachi"/>
+    <airport name="Allama Iqbal Intl" nearCity="Lahore"/>
+    <airport name="Faisalabad Intl" nearCity="Faisalabad"/>
+    <airport name="Sukkur" nearCity="Sukkur"/>
+    <airport name="Sialkot Airport" nearCity="Sialkot"/>
+    <airport name="Sheikh Zayed" nearCity="Rahimyar Khan"/>
+    <airport name="Quetta" nearCity="Quetta"/>
+    <airport name="Peshawar Intl" nearCity="Peshawar"/>
+    <airport name="Multan Intl" nearCity="Multan"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Khujand" capital="Khujand"/>
+    <province name="Kulob" capital="Kulob"/>
+    <province name="Khatlon" capital="Qurghonteppa"/>
+    <province name="Badakhshoni Kuni" capital="Khorugh"/>
+    <province name="Dushanbe (munic.)" capital="Dushanbe"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Ahal" capital="Ashgabat"/>
+    <province name="Balkan" capital="Nebitdag"/>
+    <province name="Dashhowuz" capital="Tashauz"/>
+    <province name="Leban" capital="Charjew"/>
+    <province name="Mary" capital="Mary"/>
+    <airport name="Ashgabat" nearCity="Ashgabat"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Andijon" capital="Andijon"/>
+    <province name="Bukhoro" capital="Bukhoro"/>
+    <province name="Farghona" capital="Farghona"/>
+    <province name="Jizzakh" capital="Jizzakh"/>
+    <province name="Khorazm" capital="Urganch"/>
+    <province name="Namangan" capital="Namangan"/>
+    <province name="Nawoiy" capital="Nawoiy"/>
+    <province name="Qasqadare" capital="Qarshi"/>
+    <province name="Samarqand" capital="Samarqand"/>
+    <province name="Sirdare" capital="Guliston"/>
+    <province name="Surkhondare" capital="Termiz"/>
+    <province name="Toshkent" capital="Tashkent"/>
+    <province name="Qaraqalpoghiston" capital="Nukus"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Armenia" capital="Yerevan"/>
+    <airport name="Zvartnots" nearCity="Yerevan"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Georgia" capital="Tbilisi"/>
+    <airport name="Tbilisi" nearCity="Tbilisi"/>
+    <airport name="Batumi" nearCity="Batumi"/>
+    <airport name="Kopitnari" nearCity="Kutaisi"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Azerbaijan" capital="Baku"/>
+    <airport name="Heydar Aliyev" nearCity="Baku"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Bahrain" capital="Manama"/>
+    <airport name="Bahrain Intl" nearCity="Al Man¿mah"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Bangladesh" capital="Dhaka"/>
+    <airport name="Zia Intl" nearCity="Dhaka"/>
+    <airport name="Shah Amanat Intl" nearCity="Chittagong"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Ayeyarwady" capital="Pathein"/>
+    <province name="Magway" capital="Magway"/>
+    <province name="Mandalay" capital="Mandalay"/>
+    <province name="Bago" capital="Bago"/>
+    <province name="Yangon" capital="Rangoon"/>
+    <province name="Sagaing" capital="Sagaing"/>
+    <province name="Tanintharyi" capital="Tavoy"/>
+    <province name="Chin" capital="Hakha"/>
+    <province name="Kachin" capital="Myitkyina"/>
+    <province name="Kayin" capital="Hpa an"/>
+    <province name="Kayah" capital="Loikaw"/>
+    <province name="Mon" capital="Moulmein"/>
+    <province name="Rakhine" capital="Akyab"/>
+    <province name="Shan" capital="Taunggyi"/>
+    <airport name="Mandalay Intl" nearCity="Mandalay"/>
+    <airport name="Yangon Intl" nearCity="Yangon"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Andhra Pradesh" capital="Hyderabad"/>
+    <province name="Arunachal Pradesh" capital="Itanagar"/>
+    <province name="Assam" capital="Dispur"/>
+    <province name="Bihar" capital="Patna"/>
+    <province name="Goa" capital="Panaji"/>
+    <province name="Gujarat" capital="Gandhinagar"/>
+    <province name="Haryana" capital="Chandigarh"/>
+    <province name="Himachal Pradesh" capital="Simla"/>
+    <province name="Jammu and Kashmir" capital="Srinagar"/>
+    <province name="Karnataka" capital="Bangalore"/>
+    <province name="Kerala" capital="Trivandrum"/>
+    <province name="Madhya Pradesh" capital="Bhopal"/>
+    <province name="Maharashtra" capital="Bombay"/>
+    <province name="Manipur" capital="Imphal"/>
+    <province name="Meghalaya" capital="Shillong"/>
+    <province name="Mizoram" capital="Aijal"/>
+    <province name="Nagaland" capital="Kohima"/>
+    <province name="Orissa" capital="Bhubaneswar"/>
+    <province name="Punjab" capital="Chandigarh"/>
+    <province name="Rajasthan" capital="Jaipur"/>
+    <province name="Sikkim" capital="Gangtok"/>
+    <province name="Tamil Nadu" capital="Madras"/>
+    <province name="Tripura" capital="Agartala"/>
+    <province name="Uttar Pradesh" capital="Lucknow"/>
+    <province name="West Bengal" capital="Calcutta"/>
+    <province name="Andaman and Nicobar Is." capital="Port Blair"/>
+    <province name="Chandigarh" capital="Chandigarh"/>
+    <province name="Dadra and Nagar Haveli" capital="Silvassa"/>
+    <province name="Daman and Diu" capital="Daman"/>
+    <province name="Delhi" capital="New Delhi"/>
+    <province name="Lakshadweep Is." capital="Kavaratti"/>
+    <province name="Pondicherry" capital="Pondicherry"/>
+    <airport name="Srinagar" nearCity="Srinagar"/>
+    <airport name="Surat" nearCity="Surat"/>
+    <airport name="Dehradun" nearCity="Dehra Dun"/>
+    <airport name="Indira Gandhi Intl" nearCity="Delhi"/>
+    <airport name="Lucknow" nearCity="Lucknow"/>
+    <airport name="Coimbatore" nearCity="Coimbatore"/>
+    <airport name="Cochin" nearCity="Kochi"/>
+    <airport name="Bhopal" nearCity="Bhopal"/>
+    <airport name="Bangalore" nearCity="Bangalore"/>
+    <airport name="Trichy" nearCity="Tiruchirappalli"/>
+    <airport name="Thiruvananthapuram Intl" nearCity="Trivandrum"/>
+    <airport name="Aizawl" nearCity="Aijal"/>
+    <airport name="Calicut" nearCity="Kozhikode"/>
+    <airport name="Netaji Subhash Chandra Bose Intl" nearCity="Kolkata"/>
+    <airport name="Bhubaneshwar" nearCity="Bhubaneswar"/>
+    <airport name="Vijayawada" nearCity="Vijayawada"/>
+    <airport name="Varanasi" nearCity="Varanasi"/>
+    <airport name="Diu Airport" nearCity="Daman"/>
+    <airport name="Visakhapatnam" nearCity="Visakhapatnam"/>
+    <airport name="Dr Ambedkar Intl" nearCity="Nagpur"/>
+    <airport name="Gorakhpur Airport" nearCity="Gorakhpur"/>
+    <airport name="Lokpriya Gopinath Bordoloi International Airport" nearCity="Gauhati"/>
+    <airport name="Pune" nearCity="Pune"/>
+    <airport name="Goa" nearCity="Panaji"/>
+    <airport name="Imphal" nearCity="Imphal"/>
+    <airport name="Devi Ahilyabai Holkar" nearCity="Indore"/>
+    <airport name="Rajkot" nearCity="Rajkot"/>
+    <airport name="Hyderabad" nearCity="Hyderabad"/>
+    <airport name="Raipur" nearCity="Raipur"/>
+    <airport name="Jabalpur" nearCity="Jabalpur"/>
+    <airport name="Rajahmundry" nearCity="Rajahmundry"/>
+    <airport name="Jamnagar" nearCity="Jamnagar"/>
+    <airport name="Jodhpur" nearCity="Jodhpur"/>
+    <airport name="Jaipur" nearCity="Jaipur"/>
+    <airport name="Port Blair" nearCity="Port Blair"/>
+    <airport name="Birsa Munda" nearCity="Ranchi"/>
+    <airport name="Aurangabad" nearCity="Aurangabad"/>
+    <airport name="Chandigarh" nearCity="Chandigarh"/>
+    <airport name="Agartala" nearCity="Agartala"/>
+    <airport name="Madurai" nearCity="Madurai"/>
+    <airport name="Jammu" nearCity="Jammu"/>
+    <airport name="Amritsar" nearCity="Amritsar"/>
+    <airport name="Chennai Intl" nearCity="Chennai"/>
+    <airport name="Chhatrapati Shivaji Intl" nearCity="Mumbai"/>
+    <airport name="Ahmedabad" nearCity="Ahmadabad"/>
+    <airport name="Allahabad" nearCity="Allahabad"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Bhutan" capital="Thimphu"/>
+    <airport name="Paro" nearCity="Thimphu"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Brunei" capital="Bandar Seri Begawan"/>
+    <airport name="Brunei Intl" nearCity="Bandar Seri Begawan"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Johor" capital="Johor Baharu"/>
+    <province name="Kedah" capital="Alor Setar"/>
+    <province name="Kelantan" capital="Kota Baharu"/>
+    <province name="Melaka" capital="Melaka"/>
+    <province name="Negeri Sembilan" capital="Seremban"/>
+    <province name="Pahang" capital="Kuantan"/>
+    <province name="Perak" capital="Ipoh"/>
+    <province name="Perlis" capital="Kangar"/>
+    <province name="Pulau Pinang" capital="Penang"/>
+    <province name="Sabah" capital="Kota Kinabalu"/>
+    <province name="Sarawak" capital="Kuching"/>
+    <province name="Selangor" capital="Shah Alam"/>
+    <province name="Terengganu" capital="Kuala Terengganu"/>
+    <province name="Fed. Terr. of Kuala Lumpur" capital="Kuala Lumpur"/>
+    <province name="Fed. Terr. of Labuan" capital="Labuan"/>
+    <airport name="Penang Intl" nearCity="Georgetown"/>
+    <airport name="Sultan Mahmud" nearCity="Kuala Terengganu"/>
+    <airport name="Sandakan" nearCity="Sandakan"/>
+    <airport name="Kota Kinabalu Intl" nearCity="Kota Kinabalu"/>
+    <airport name="Sultan Ismail" nearCity="Johor Bahru"/>
+    <airport name="Kuching Intl" nearCity="Kuching Utara"/>
+    <airport name="Sultan Azlan Shah" nearCity="Ipoh"/>
+    <airport name="Sultan Ismail Petra" nearCity="Kota Bahru"/>
+    <airport name="Sultan Abdul Aziz Shah Intl" nearCity="Kuala Lumpur"/>
+    <airport name="Kuantan" nearCity="Kuantan"/>
+    <airport name="Kuala Lumpur Intl" nearCity="Kuala Lumpur"/>
+    <airport name="Labuan" nearCity="Labuan"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Laos" capital="Vientiane"/>
+    <airport name="Wattay Intl" nearCity="Vientiane"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Thailand" capital="Bangkok"/>
+    <airport name="Don Muang Intl" nearCity="Bangkok"/>
+    <airport name="Nakhon Si Thammarat" nearCity="Nakhon Si Thammarat"/>
+    <airport name="Samui" nearCity=""/>
+    <airport name="Khon Kaen" nearCity="Khon Kaen"/>
+    <airport name="Suvarnabhumi Intl" nearCity="Bangkok"/>
+    <airport name="Chiang Mai Intl" nearCity="Chiang Mai"/>
+    <airport name="Hat Yai Intl" nearCity="Songkhla"/>
+    <airport name="Phuket Intl" nearCity="Phuket"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Cambodia" capital="Phnom Penh"/>
+    <airport name="Phnom Penh Intl" nearCity="Phnom Penh"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Vietnam" capital="Hanoi"/>
+    <airport name="Rach Gia" nearCity="Rach Gia"/>
+    <airport name="Vinh Airport" nearCity="Vinh"/>
+    <airport name="Tansonnhat Intl" nearCity="Ho Chi Minh City"/>
+    <airport name="Noibai Intl" nearCity="Hanoi"/>
+    <airport name="Cat Bi International Airport" nearCity="Haiphong"/>
+    <airport name="Tra Noc Airport" nearCity="Can Tho"/>
+    <airport name="Nha Trang" nearCity="Nha Trang"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Almaty" capital="Almaty"/>
+    <province name="Aqmola" capital="Aqmola"/>
+    <province name="Aqtobe" capital="Aqtobe"/>
+    <province name="Atyrau" capital="Atyrau"/>
+    <province name="Batys Qazaqstan" capital="Oral"/>
+    <province name="Kokchetau" capital="Kokchetau"/>
+    <province name="Mangghystau" capital="Aqtau"/>
+    <province name="Ongtustik Qazaqstan" capital="Shymkent"/>
+    <province name="Pavlodar" capital="Pavlodar"/>
+    <province name="Qaraghandy" capital="Karaganda"/>
+    <province name="Qostanay" capital="Qostanay"/>
+    <province name="Qyzylorda" capital="Qyzylorda"/>
+    <province name="Semey" capital="Semey"/>
+    <province name="Shyghys Qazaqstan" capital="Oskemen"/>
+    <province name="Soltustik Qazaqstan" capital="Petropavl"/>
+    <province name="Taldyqorghan" capital="Taldyqorghan"/>
+    <province name="Torghay" capital="Arqalyq"/>
+    <province name="Zhambyl" capital="Zhambyl"/>
+    <province name="Zhezkazghan" capital="Zhezkazghan"/>
+    <province name="Almaty (munic.)" capital="Almaty"/>
+    <province name="Leninsk (munic.)" capital="Leninsk"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="North Korea" capital="Pyongyang"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Kyrgyzstan" capital="Bishkek"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Hong Kong" capital="Hong Kong"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Macau" capital="Macau"/>
+    <airport name="Macao Intl" nearCity="Macao"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Mongolia" capital="Ulaanbaatar"/>
+    <airport name="Chinggis Khaan Intl" nearCity="Ulaanbaatar"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Nepal" capital="Kathmandu"/>
+    <airport name="Tribhuvan Intl" nearCity="Kathmandu"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Christmas Island" capital="Flying Fish Cove"/>
+    <airport name="Christmas Island" nearCity="Flying Fish Cove"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Cocos Islands" capital="West Island"/>
+    <airport name="Cocos Keeling Island Airport" nearCity="West Island"/>
+  </country>
+  <country>
+    <continent name="Europe" percent="0"/>
+    <province name="Cyprus" capital="Nicosia"/>
+    <airport name="Larnaca" nearCity="Larnaka"/>
+    <airport name="Ercan International Airport" nearCity="Lefkosia"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Gaza Strip" capital=""/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Central" capital="Ramla"/>
+    <province name="Haifa" capital="Haifa"/>
+    <province name="North" capital="Nazareth"/>
+    <province name="Tel Aviv" capital="Tel Aviv"/>
+    <province name="South" capital="Beer Sheva"/>
+    <airport name="Ben Gurion" nearCity="Tel Aviv-Yafo"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <continent name="Africa" percent="0"/>
+    <province name="El Bahr el Ahmar" capital="Hurghada"/>
+    <province name="Matruh" capital="Marsa Matruh"/>
+    <province name="Sina al Janubiyah" capital="El Tur"/>
+    <province name="Sina ash Shamaliyah" capital="El Arish"/>
+    <province name="El Wadi el Jadid" capital="El Kharga"/>
+    <province name="El Buhayra" capital="Damanhur"/>
+    <province name="El Daqahliya" capital="El Mansura"/>
+    <province name="Dumyat" capital="Dumyat"/>
+    <province name="El Gharbiya" capital="Tanta"/>
+    <province name="Ismailiya" capital="Ismailiya"/>
+    <province name="Kafr el Sheikh" capital="Kafr el Sheikh"/>
+    <province name="El Minufiya" capital="Shibin el Kom"/>
+    <province name="El Qalubiya" capital="Benha"/>
+    <province name="Sharqiya" capital="Zagazig"/>
+    <province name="Aswan" capital="Aswan"/>
+    <province name="Asyut" capital="Asyut"/>
+    <province name="Beni Suef" capital="Beni Suef"/>
+    <province name="El Faiyum" capital="El Faiyum"/>
+    <province name="El Giza" capital="El Giza"/>
+    <province name="El Minya" capital="El Minya"/>
+    <province name="Qena" capital="Qena"/>
+    <province name="Sohag" capital="Sohag"/>
+    <province name="Bur Said (munic.)" capital="Bur Said"/>
+    <province name="El Iskandariya" capital="Alexandria"/>
+    <province name="El Qahira" capital="Cairo"/>
+    <province name="El Suweiz" capital="El Suweiz"/>
+    <airport name="Hurghada Intl" nearCity="Hurghada"/>
+    <airport name="Aswan Intl" nearCity="Aswan"/>
+    <airport name="Asyut International Airport" nearCity="Asyut"/>
+    <airport name="Borg El Arab Intl" nearCity="Al Iskandariyah"/>
+    <airport name="Cairo Intl" nearCity="Al Qahirah"/>
+    <airport name="Luxor Intl" nearCity="Al Uqsur"/>
+    <airport name="Alexandria Intl" nearCity="Al Iskandariyah"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Indonesia" capital="Jakarta"/>
+    <airport name="Syamsudin Noor" nearCity="Bandjarmasin"/>
+    <airport name="Wolter Monginsidi" nearCity="Kendari"/>
+    <airport name="Radin Inten II (Branti) Airport" nearCity="Bandar Lampung"/>
+    <airport name="Hang Nadim" nearCity="Batam"/>
+    <airport name="El Tari" nearCity="Kupang"/>
+    <airport name="Sultan Babullah" nearCity="Ternate"/>
+    <airport name="Fatmawati Soekarno" nearCity="Bengkulu"/>
+    <airport name="Pattimura" nearCity="Ambon"/>
+    <airport name="Sepinggan" nearCity="Balikpapan"/>
+    <airport name="Abdul Rachman Saleh" nearCity="Malang"/>
+    <airport name="Sam Ratulangi" nearCity="Manado"/>
+    <airport name="Sentani" nearCity="Jayapura"/>
+    <airport name="Lombok International Airport" nearCity="Mataram"/>
+    <airport name="Achmad Yani" nearCity="Semarang"/>
+    <airport name="Sultan Thaha" nearCity="Jambi"/>
+    <airport name="Soekarno Hatta Intl" nearCity="Jakarta"/>
+    <airport name="Husein Sastranegara" nearCity="Bandung"/>
+    <airport name="Hasanuddin" nearCity="Makassar"/>
+    <airport name="Bali Ngurah Rai" nearCity="Denpasar"/>
+    <airport name="Mutiara" nearCity="Palu"/>
+    <airport name="Depati Amir" nearCity="Pangkal Pinang"/>
+    <airport name="Tjilik Riwut" nearCity="Palangkaraya"/>
+    <airport name="Sultan Mahmud Badaruddin Ii" nearCity="Palembang"/>
+    <airport name="Jalaluddin" nearCity="Gorontalo"/>
+    <airport name="Supadio" nearCity="Pontianak"/>
+    <airport name="Sultan Syarif Kasim Ii" nearCity="Pekanbaru"/>
+    <airport name="Tabing" nearCity="Padang"/>
+    <airport name="Adi Sutjipto" nearCity="Yogyakarta"/>
+    <airport name="Sultan Iskandarmuda" nearCity="Banda Aceh"/>
+    <airport name="Polonia" nearCity="Medan"/>
+    <airport name="Juanda" nearCity="Surabaya"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Timor-Leste" capital="Dili"/>
+    <airport name="Presidente Nicolau Lobato Intl" nearCity="Dili"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Papua New Guinea" capital="Port Moresby"/>
+    <airport name="Port Moresby Jacksons Intl" nearCity="Port Moresby"/>
+    <airport name="Lae Nadzab" nearCity="Lae"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Al Anbar" capital="Ar Ramadi"/>
+    <province name="Babil" capital="Al Hillah"/>
+    <province name="Baghdad" capital="Baghdad"/>
+    <province name="Al Basrah" capital="Al Basrah"/>
+    <province name="Dhi Qar" capital="An Nasiriyah"/>
+    <province name="Diyala" capital="Baqubah"/>
+    <province name="Karbala" capital="Karbala"/>
+    <province name="Maysan" capital="Al Amarah"/>
+    <province name="Al Muthanna" capital="As Samawah"/>
+    <province name="An Najaf" capital="An Najaf"/>
+    <province name="Ninawa" capital="Mosul"/>
+    <province name="Al Qadisiyah" capital="Diwaniyah"/>
+    <province name="Salah ad Din" capital="Samarra"/>
+    <province name="Ad Tamim" capital="Kirkuk"/>
+    <province name="Wasit" capital="Al Kut"/>
+    <province name="Dahuk" capital="Dahuk"/>
+    <province name="Arbil" capital="Arbil"/>
+    <province name="As Sulaymaniyah" capital="As Sulaymaniyah"/>
+    <airport name="Al Najaf International Airport" nearCity="An Najaf"/>
+    <airport name="Basrah Intl" nearCity="Al Basrah"/>
+    <airport name="Erbil Intl" nearCity="Erbil"/>
+    <airport name="Baghdad International Airport" nearCity="Baghdad"/>
+    <airport name="Sulaymaniyah International Airport" nearCity="As Sulaymaniyah"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Jordan" capital="Amman"/>
+    <airport name="Queen Alia Intl" nearCity="Amman"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Kuwait" capital="Kuwait"/>
+    <airport name="Kuwait Intl" nearCity="Al Kuwayt"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Saudi Arabia" capital="Riyadh"/>
+    <airport name="Taif" nearCity="At Taif"/>
+    <airport name="King Fahd Intl" nearCity="Dammam"/>
+    <airport name="Hail" nearCity="Hail"/>
+    <airport name="King Abdulaziz Intl" nearCity="Jeddah"/>
+    <airport name="King Khaled Intl" nearCity="Riyadh"/>
+    <airport name="Prince Mohammad Bin Abdulaziz" nearCity="Al Madinah"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Syria" capital="Damascus"/>
+    <airport name="Damaskus Intl" nearCity="Dimashq"/>
+    <airport name="Aleppo Intl" nearCity="Halab"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Lebanon" capital="Beirut"/>
+    <airport name="Rafic Hariri Intl" nearCity="Bayr¿t"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="West Bank" capital=""/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Kumamoto" capital="Kumamoto"/>
+    <province name="Oita" capital="Oita"/>
+    <province name="Miyazaki" capital="Miyazaki"/>
+    <province name="Kagoshima" capital="Kagoshima"/>
+    <province name="Okinawa" capital="Naha"/>
+    <province name="Hokkaido" capital="Sapporo"/>
+    <province name="Aomori" capital="Aomori"/>
+    <province name="Iwate" capital="Morioka"/>
+    <province name="Miyagi" capital="Sendai"/>
+    <province name="Akita" capital="Akita"/>
+    <province name="Yamagata" capital="Yamagata"/>
+    <province name="Fukushima" capital="Fukushima"/>
+    <province name="Ibaraki" capital="Mito"/>
+    <province name="Tochigi" capital="Utsonomiya"/>
+    <province name="Gumma" capital="Maebashi"/>
+    <province name="Saitama" capital="Urawa"/>
+    <province name="Chiba" capital="Chiba"/>
+    <province name="Tokyo" capital="Tokyo"/>
+    <province name="Kanagawa" capital="Yokohama"/>
+    <province name="Niigata" capital="Niigata"/>
+    <province name="Toyama" capital="Toyama"/>
+    <province name="Ishikawa" capital="Kanazawa"/>
+    <province name="Fukui" capital="Fukui"/>
+    <province name="Yamanashi" capital="Kofu"/>
+    <province name="Nagano" capital="Nagano"/>
+    <province name="Gifu" capital="Gifu"/>
+    <province name="Shizuoka" capital="Shizuoka"/>
+    <province name="Aichi" capital="Nagoya"/>
+    <province name="Mie" capital="Tsu"/>
+    <province name="Shiga" capital="Otsu"/>
+    <province name="Kyoto" capital="Kyoto"/>
+    <province name="Osaka" capital="Osaka"/>
+    <province name="Hyogo" capital="Kobe"/>
+    <province name="Nara" capital="Nara"/>
+    <province name="Wakayama" capital="Wakayama"/>
+    <province name="Tottori" capital="Tottori"/>
+    <province name="Shimane" capital="Matsue"/>
+    <province name="Okayama" capital="Okayama"/>
+    <province name="Hiroshima" capital="Hiroshima"/>
+    <province name="Yamaguchi" capital="Yamaguchi"/>
+    <province name="Tokushima" capital="Tokushima"/>
+    <province name="Kagawa" capital="Takamatsu"/>
+    <province name="Ehime" capital="Matsuyama"/>
+    <province name="Kochi" capital="Kochi"/>
+    <province name="Fukuoka" capital="Fukuoka"/>
+    <province name="Saga" capital="Saga"/>
+    <province name="Nagasaki" capital="Nagasaki"/>
+    <airport name="Okayama" nearCity="Okayama"/>
+    <airport name="Naha" nearCity="Naha"/>
+    <airport name="Oita" nearCity="Oita"/>
+    <airport name="Yamagata" nearCity="Yamagata"/>
+    <airport name="Fukuoka" nearCity="Fukuoka"/>
+    <airport name="Fukushima Airport" nearCity="Fukushima"/>
+    <airport name="Hiroshima" nearCity="Hiroshima"/>
+    <airport name="Tokyo Intl" nearCity="Tokyo"/>
+    <airport name="Hakodate" nearCity="Hakodate"/>
+    <airport name="Saga Airport" nearCity="Saga"/>
+    <airport name="Osaka Intl" nearCity="Osaka"/>
+    <airport name="Akita" nearCity="Akita"/>
+    <airport name="Toyama" nearCity="Toyama"/>
+    <airport name="Aomori" nearCity="Aomori"/>
+    <airport name="New Chitose" nearCity="Sapporo"/>
+    <airport name="Takamatsu" nearCity="Takamatsu"/>
+    <airport name="Sendai" nearCity="Sendai"/>
+    <airport name="Kansai" nearCity="Osaka"/>
+    <airport name="Niigata" nearCity="Niigata"/>
+    <airport name="Kagoshima" nearCity="Kagoshima"/>
+    <airport name="Tottori" nearCity="Tottori"/>
+    <airport name="Miyazaki" nearCity="Miyazaki"/>
+    <airport name="Komatsu" nearCity="Kanazawa"/>
+    <airport name="Kumamoto" nearCity="Kumamoto"/>
+    <airport name="Tokushima" nearCity="Tokushima"/>
+    <airport name="Kochi" nearCity="Kochi"/>
+    <airport name="New Kitakyushu" nearCity="Kitakyushu"/>
+    <airport name="Chubu Centrair Intl" nearCity="Nagoya"/>
+    <airport name="Nagasaki" nearCity="Nagasaki"/>
+    <airport name="Kobe" nearCity="Kobe"/>
+    <airport name="Narita Intl" nearCity="Tokyo"/>
+    <airport name="Yamaguchi Ube" nearCity="Yamaguchi"/>
+    <airport name="Matsuyama" nearCity="Matsuyama"/>
+    <airport name="Mt. Fuji Shizuoka Airport" nearCity="Shizuoka"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="South Korea" capital="Seoul"/>
+    <airport name="Yeosu" nearCity="Yeosu"/>
+    <airport name="Incheon Intl" nearCity="Seoul"/>
+    <airport name="Gimhae Intl" nearCity="Busan"/>
+    <airport name="Gimpo" nearCity="Seoul"/>
+    <airport name="Ulsan" nearCity="Ulsan"/>
+    <airport name="Gwangju" nearCity="Gwangju"/>
+    <airport name="Daegu Ab" nearCity="Daegu"/>
+    <airport name="Jeju Intl" nearCity="Jeju"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Maldives" capital="Male"/>
+    <airport name="Male Intl" nearCity="Male"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Oman" capital="Muscat"/>
+    <airport name="Seeb Intl" nearCity="Muscat"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Abu Dhabi" capital=""/>
+    <province name="Ajman" capital=""/>
+    <province name="Dubayy" capital=""/>
+    <province name="Al Fujayrah" capital=""/>
+    <province name="Ras al Khaymah" capital=""/>
+    <province name="Ash Shariqah" capital=""/>
+    <province name="Umm al Qaywayn" capital=""/>
+    <airport name="Abu Dhabi Intl" nearCity="Abu Dhabi"/>
+    <airport name="Al Ain International Airport" nearCity="Al Ain"/>
+    <airport name="Dubai Intl" nearCity="Dubai"/>
+    <airport name="Sharjah Intl" nearCity="Al Sharjah"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Yemen" capital="Sanaa"/>
+    <airport name="Sanaa Intl" nearCity="Sanaa"/>
+    <airport name="Hodeidah Intl" nearCity="al Hudaydah"/>
+    <airport name="Taiz Intl" nearCity="Taizz"/>
+    <airport name="Aden Intl" nearCity="Aden"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Philippines" capital="Manila"/>
+    <airport name="Mactan Cebu Intl" nearCity="Cebu"/>
+    <airport name="Legazpi" nearCity="Legazpi"/>
+    <airport name="Daniel Z Romualdez" nearCity="Tacloban"/>
+    <airport name="Ninoy Aquino Intl" nearCity="Manila"/>
+    <airport name="Butuan" nearCity="Butuan"/>
+    <airport name="Zamboanga Intl" nearCity="Zamboanga"/>
+    <airport name="Iloilo" nearCity="Iloilo"/>
+    <airport name="Puerto Princesa" nearCity="Calapan"/>
+    <airport name="Pagadian" nearCity="Pagadian"/>
+    <airport name="General Santos International Airport" nearCity="General Santos"/>
+    <airport name="Francisco Bangoy International" nearCity="Davao"/>
+    <airport name="Bacolod" nearCity="Bacolod"/>
+    <airport name="Cotabato" nearCity="Cotabato"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Qatar" capital="Doha"/>
+    <airport name="Doha Intl" nearCity="Doha"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Singapore" capital="Singapore"/>
+    <airport name="Changi Intl" nearCity="Singapore"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Sri Lanka" capital="Colombo"/>
+    <airport name="Bandaranaike Intl Colombo" nearCity="Colombo"/>
+  </country>
+  <country>
+    <continent name="Asia" percent="0"/>
+    <province name="Taiwan" capital="Taipei"/>
+    <airport name="Kaohsiung Intl" nearCity="Kaohsiung"/>
+    <airport name="Sungshan" nearCity="Taipei"/>
+    <airport name="Taoyuan Intl" nearCity="Taipei"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Anguilla" capital="The Valley"/>
+    <airport name="Wallblake" nearCity="The Valley"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Antigua and Barbuda" capital="Saint Johns"/>
+    <airport name="V C Bird Intl" nearCity="St. John&apos;s"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Aruba" capital="Oranjestad"/>
+    <airport name="Reina Beatrix Intl" nearCity="Oranjestad"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Bahamas" capital="Nassau"/>
+    <airport name="Lynden Pindling Intl" nearCity="Nassau"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Barbados" capital="Bridgetown"/>
+    <airport name="Grantley Adams Intl" nearCity="Bridgetown"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Belize" capital="Belmopan"/>
+    <airport name="Philip S W Goldson Intl" nearCity="Belize City"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Guatemala" capital="Guatemala City"/>
+    <airport name="La Aurora" nearCity="Ciudad de Guatemala"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Aguascalientes" capital="Aguascalientes"/>
+    <province name="Baja California" capital="Mexicali"/>
+    <province name="Baja California Sur" capital="La Paz"/>
+    <province name="Campeche" capital="Campeche"/>
+    <province name="Chiapas" capital="Tuxtla Gutierrez"/>
+    <province name="Chihuahua" capital="Chihuahua"/>
+    <province name="Coahuila" capital="Saltillo"/>
+    <province name="Colima" capital="Colima"/>
+    <province name="Durango" capital="Durango"/>
+    <province name="Guanajuato" capital="Guanajuato"/>
+    <province name="Guerrero" capital="Chilpancingo"/>
+    <province name="Hidalgo" capital="Pachuca de Soto"/>
+    <province name="Jalisco" capital="Guadalajara"/>
+    <province name="Mexico, Estado de" capital="Toluca de Lerdo"/>
+    <province name="Michoacan" capital="Morelia"/>
+    <province name="Morelos" capital="Cuernavaca"/>
+    <province name="Nayarit" capital="Tepic"/>
+    <province name="Nuevo Leon" capital="Monterrey"/>
+    <province name="Oaxaca" capital="Oaxaca"/>
+    <province name="Puebla" capital="Puebla"/>
+    <province name="Queretaro" capital="Queretaro"/>
+    <province name="Quintana Roo" capital="Chetumal"/>
+    <province name="San Luis Potosi" capital="San Luis Potosi"/>
+    <province name="Sinaloa" capital="Culiacan"/>
+    <province name="Sonora" capital="Hermosillo"/>
+    <province name="Tabasco" capital="Villahermosa"/>
+    <province name="Tamaulipas" capital="Ciudad Victoria"/>
+    <province name="Tlaxcala" capital="Tlaxcala"/>
+    <province name="Veracruz" capital="Jalapa"/>
+    <province name="Yucatan" capital="Merida"/>
+    <province name="Zacatecas" capital="Zacatecas"/>
+    <province name="Distrito Federal" capital="Mexico City"/>
+    <airport name="General Servando Canales Intl" nearCity="Matamoros"/>
+    <airport name="Ingeniero Alberto Acuna Ongay Intl" nearCity="Campeche"/>
+    <airport name="Colima" nearCity="Colima"/>
+    <airport name="Licenciado Y Gen Ignacio Lopez Rayon" nearCity="Uruapan"/>
+    <airport name="Angel Albino Corzo" nearCity="Tuxtla Gutiérrez"/>
+    <airport name="General Abelardo L Rodriguez Intl" nearCity="Tijuana"/>
+    <airport name="General Heriberto Jara Intl" nearCity="Veracruz"/>
+    <airport name="Quetzalcoatl Intl" nearCity="Nuevo Laredo"/>
+    <airport name="Licenciado Manuel Crescencio Rejon Int" nearCity="Mérida"/>
+    <airport name="General Mariano Escobedo Intl" nearCity="Monterrey"/>
+    <airport name="Minatitlan" nearCity="Minatitlán"/>
+    <airport name="C P A Carlos Rovirosa Intl" nearCity="Villahermosa"/>
+    <airport name="General Rodolfo Sanchez Taboada Intl" nearCity="Mexicali"/>
+    <airport name="Hermanos Serdan Intl" nearCity="Puebla"/>
+    <airport name="General Leobardo C Ruiz Intl" nearCity="Zacatecas"/>
+    <airport name="Lencero Airport" nearCity="Xalapa-Enríquez"/>
+    <airport name="Queretaro Intercontinental" nearCity="Querétaro"/>
+    <airport name="Licenciado Adolfo Lopez Mateos Intl" nearCity="Toluca"/>
+    <airport name="Tepic" nearCity="Tepic"/>
+    <airport name="General Pedro Jose Mendez Intl" nearCity="Ciudad Victoria"/>
+    <airport name="Ponciano Arriaga Intl" nearCity="San Luis Potosí"/>
+    <airport name="General Francisco J Mujica Intl" nearCity="Morelia"/>
+    <airport name="Durango Intl" nearCity="Durango"/>
+    <airport name="Don Miguel Hidalgo Y Costilla Intl" nearCity="Guadalajara"/>
+    <airport name="Xoxocotlan Intl" nearCity="Oaxaca"/>
+    <airport name="General Ignacio P Garcia Intl" nearCity="Hermosillo"/>
+    <airport name="General Lucio Blanco Intl" nearCity="Reynosa"/>
+    <airport name="Licenciado Benito Juarez Intl" nearCity="Ciudad de México"/>
+    <airport name="General Rafael Buelna Intl" nearCity="Mazatlán"/>
+    <airport name="General R Fierro Villalobos Intl" nearCity="Chihuahua"/>
+    <airport name="Cancun Intl" nearCity="Cancún"/>
+    <airport name="Chetumal Intl" nearCity="Chetumal"/>
+    <airport name="Culiacan Intl" nearCity="Culiacán"/>
+    <airport name="Tapachula Intl" nearCity="Tapachula"/>
+    <airport name="General Francisco Javier Mina Intl" nearCity="Tampico"/>
+    <airport name="General Manuel Marquez De Leon Intl" nearCity="La Paz"/>
+    <airport name="Ciudad Obregon Intl" nearCity="Ciudad Obregón"/>
+    <airport name="Valle Del Fuerte Intl" nearCity="Los Mochis"/>
+    <airport name="Plan De Guadalupe Intl" nearCity="Saltillo"/>
+    <airport name="Jesus Teran Intl" nearCity="Aguascalientes"/>
+    <airport name="Torreon Intl" nearCity="Torreón"/>
+    <airport name="General Juan N Alvarez Intl" nearCity="Acapulco"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Bermuda" capital="Hamilton"/>
+    <airport name="Bermuda Intl" nearCity="Hamilton"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="British Virgin Islands" capital="Road Town"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Alberta" capital="Edmonton"/>
+    <province name="British Columbia" capital="Victoria"/>
+    <province name="Manitoba" capital="Winnipeg"/>
+    <province name="New Brunswick" capital="Fredericton"/>
+    <province name="Newfoundland" capital="Saint Johns"/>
+    <province name="Northwest Territories" capital="Yellowknife"/>
+    <province name="Nova Scotia" capital="Halifax"/>
+    <province name="Ontario" capital="Toronto"/>
+    <province name="Prince Edward Island" capital="Charlottetown"/>
+    <province name="Quebec" capital="Quebec"/>
+    <province name="Saskatchewan" capital="Regina"/>
+    <province name="Yukon Territory" capital="Whitehorse"/>
+    <airport name="Gander Intl" nearCity="Gander"/>
+    <airport name="Whitehorse Intl" nearCity="Whitehorse"/>
+    <airport name="Iqaluit" nearCity="Iqaluit"/>
+    <airport name="St Johns Intl" nearCity="St. John&apos;s"/>
+    <airport name="Lester B Pearson Intl" nearCity="Toronto"/>
+    <airport name="Calgary Intl" nearCity="Calgary"/>
+    <airport name="Victoria Intl" nearCity="Victoria"/>
+    <airport name="London" nearCity="London"/>
+    <airport name="Saskatoon J G Diefenbaker Intl" nearCity="Saskatoon"/>
+    <airport name="Yellowknife" nearCity="Yellowknife"/>
+    <airport name="Quebec Jean Lesage Intl" nearCity="Quebec"/>
+    <airport name="Thunder Bay" nearCity="Thunder Bay"/>
+    <airport name="Regina Intl" nearCity="Regina"/>
+    <airport name="Ottawa Macdonald Cartier Intl" nearCity="Ottawa"/>
+    <airport name="Pierre Elliott Trudeau Intl" nearCity="Montréal"/>
+    <airport name="City Centre" nearCity="Toronto"/>
+    <airport name="Winnipeg Intl" nearCity="Winnipeg"/>
+    <airport name="Vancouver Intl" nearCity="Vancouver"/>
+    <airport name="Hamilton" nearCity="Hamilton"/>
+    <airport name="Halifax Intl" nearCity="Halifax"/>
+    <airport name="Edmonton Intl" nearCity="Edmonton"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Alabama" capital="Montgomery"/>
+    <province name="Alaska" capital="Juneau"/>
+    <province name="Arizona" capital="Phoenix"/>
+    <province name="Arkansas" capital="Little Rock"/>
+    <province name="California" capital="Sacramento"/>
+    <province name="Colorado" capital="Denver"/>
+    <province name="Connecticut" capital="Hartford"/>
+    <province name="Delaware" capital="Dover"/>
+    <province name="Florida" capital="Tallahassee"/>
+    <province name="Georgia" capital="Atlanta"/>
+    <province name="Hawaii" capital="Honolulu"/>
+    <province name="Idaho" capital="Boise"/>
+    <province name="Illinois" capital="Springfield"/>
+    <province name="Indiana" capital="Indianapolis"/>
+    <province name="Iowa" capital="Des Moines"/>
+    <province name="Kansas" capital="Topeka"/>
+    <province name="Kentucky" capital="Frankfort"/>
+    <province name="Louisiana" capital="Baton Rouge"/>
+    <province name="Maine" capital="Augusta"/>
+    <province name="Maryland" capital="Annapolis"/>
+    <province name="Massachusetts" capital="Boston"/>
+    <province name="Michigan" capital="Lansing"/>
+    <province name="Minnesota" capital="St. Paul"/>
+    <province name="Mississippi" capital="Jackson"/>
+    <province name="Missouri" capital="Jefferson City"/>
+    <province name="Montana" capital="Helena"/>
+    <province name="Nebraska" capital="Lincoln"/>
+    <province name="Nevada" capital="Carson City"/>
+    <province name="New Hampshire" capital="Concord"/>
+    <province name="New Jersey" capital="Trenton"/>
+    <province name="New Mexico" capital="Santa Fe"/>
+    <province name="New York" capital="Albany"/>
+    <province name="North Carolina" capital="Raleigh"/>
+    <province name="North Dakota" capital="Bismarck"/>
+    <province name="Ohio" capital="Columbus"/>
+    <province name="Oklahoma" capital="Oklahoma City"/>
+    <province name="Oregon" capital="Salem"/>
+    <province name="Pennsylvania" capital="Harrisburg"/>
+    <province name="Rhode Island" capital="Providence"/>
+    <province name="South Carolina" capital="Columbia"/>
+    <province name="South Dakota" capital="Pierre"/>
+    <province name="Tennessee" capital="Nashville"/>
+    <province name="Texas" capital="Austin"/>
+    <province name="Utah" capital="Salt Lake City"/>
+    <province name="Vermont" capital="Montpelier"/>
+    <province name="Virginia" capital="Richmond"/>
+    <province name="Washington" capital="Olympia"/>
+    <province name="West Virginia" capital="Charleston"/>
+    <province name="Wisconsin" capital="Madison"/>
+    <province name="Wyoming" capital="Cheyenne"/>
+    <province name="Distr. Columbia" capital="Washington"/>
+    <airport name="Bismarck Municipal Airport" nearCity="Bismarck"/>
+    <airport name="Billings Logan International Airport" nearCity="Billings"/>
+    <airport name="Tulsa Intl" nearCity="Tulsa"/>
+    <airport name="Tucson Intl" nearCity="Tucson"/>
+    <airport name="Reno Tahoe Intl" nearCity="Reno"/>
+    <airport name="Buffalo Niagara Intl" nearCity="Buffalo"/>
+    <airport name="Hartsfield Jackson Atlanta Intl" nearCity="Atlanta"/>
+    <airport name="Baton Rouge Metro Ryan Fld" nearCity="Baton Rouge"/>
+    <airport name="Austin Bergstrom Intl" nearCity="Austin"/>
+    <airport name="Mc Ghee Tyson" nearCity="Knoxville"/>
+    <airport name="Baltimore Washington Intl" nearCity="Baltimore"/>
+    <airport name="Akron Canton Regional Airport" nearCity="Akron"/>
+    <airport name="Lehigh Valley Intl" nearCity="Allentown"/>
+    <airport name="Abilene Rgnl" nearCity="Abilene"/>
+    <airport name="Tallahassee Rgnl" nearCity="Tallahassee"/>
+    <airport name="Waco Rgnl" nearCity="Waco"/>
+    <airport name="Albuquerque International Sunport" nearCity="Albuquerque"/>
+    <airport name="San Diego Intl" nearCity="San Diego"/>
+    <airport name="San Antonio Intl" nearCity="San Antonio"/>
+    <airport name="Savannah Hilton Head Intl" nearCity="Savannah"/>
+    <airport name="Portland Intl Jetport" nearCity="Portland"/>
+    <airport name="Theodore Francis Green State" nearCity="Providence"/>
+    <airport name="Indianapolis Intl" nearCity="Indianapolis"/>
+    <airport name="Washington Dulles Intl" nearCity="Washington"/>
+    <airport name="George Bush Intcntl Houston" nearCity="Houston"/>
+    <airport name="Wichita Mid Continent" nearCity="Wichita"/>
+    <airport name="William P Hobby" nearCity="Houston"/>
+    <airport name="Greater Rochester Intl" nearCity="Rochester"/>
+    <airport name="Fort Lauderdale Hollywood Intl" nearCity="Fort Lauderdale"/>
+    <airport name="Eppley Afld" nearCity="Omaha"/>
+    <airport name="Portland Intl" nearCity="Portland"/>
+    <airport name="Norfolk Intl" nearCity="Norfolk"/>
+    <airport name="Chicago Ohare Intl" nearCity="Chicago"/>
+    <airport name="Bishop International" nearCity="Flint"/>
+    <airport name="Phoenix Sky Harbor Intl" nearCity="Phoenix"/>
+    <airport name="Pittsburgh Intl" nearCity="Pittsburgh"/>
+    <airport name="Pierre Regional Airport" nearCity="Pierre"/>
+    <airport name="Philadelphia Intl" nearCity="Philadelphia"/>
+    <airport name="Helena Rgnl" nearCity="Helena"/>
+    <airport name="Spokane Intl" nearCity="Spokane"/>
+    <airport name="Will Rogers World" nearCity="Oklahoma City"/>
+    <airport name="Richmond Intl" nearCity="Richmond"/>
+    <airport name="John F Kennedy Intl" nearCity="New York"/>
+    <airport name="Jacksonville Intl" nearCity="Jacksonville"/>
+    <airport name="Jackson Evers Intl" nearCity="Jackson"/>
+    <airport name="Santa Fe Muni" nearCity="Santa Fe"/>
+    <airport name="Albert J Ellis" nearCity="Jacksonville"/>
+    <airport name="Metropolitan Oakland Intl" nearCity="Oakland"/>
+    <airport name="Juneau Intl" nearCity="Juneau"/>
+    <airport name="Ted Stevens Anchorage Intl" nearCity="Anchorage"/>
+    <airport name="Honolulu Intl" nearCity="Honolulu"/>
+    <airport name="Hilo Intl" nearCity="Hilo"/>
+    <airport name="Lanai" nearCity=""/>
+    <airport name="Molokai" nearCity=""/>
+    <airport name="Kahului" nearCity=""/>
+    <airport name="Springfield Branson Natl" nearCity="Springfield"/>
+    <airport name="Sheppard Afb Wichita Falls Muni" nearCity="Wichita Falls"/>
+    <airport name="Lincoln" nearCity="Lincoln"/>
+    <airport name="City Of Colorado Springs Muni" nearCity="Colorado Springs"/>
+    <airport name="Charlotte Douglas Intl" nearCity="Charlotte"/>
+    <airport name="Albany Intl" nearCity="Albany"/>
+    <airport name="Nashville Intl" nearCity="Nashville-Davidson"/>
+    <airport name="Tampa Intl" nearCity="Tampa"/>
+    <airport name="Boise Air Terminal" nearCity="Boise City"/>
+    <airport name="General Edward Lawrence Logan Intl" nearCity="Boston"/>
+    <airport name="Martha&apos;s Vineyard" nearCity=""/>
+    <airport name="Nantucket Mem" nearCity=""/>
+    <airport name="Rick Husband Amarillo Intl" nearCity="Amarillo"/>
+    <airport name="Toledo" nearCity="Toledo"/>
+    <airport name="Syracuse Hancock Intl" nearCity="Syracuse"/>
+    <airport name="Cincinnati Northern Kentucky Intl" nearCity="Cincinnati"/>
+    <airport name="Lambert St Louis Intl" nearCity="St. Louis"/>
+    <airport name="Cheyenne Rgnl Jerry Olson Fld" nearCity="Cheyenne"/>
+    <airport name="Dallas Love Fld" nearCity="Dallas"/>
+    <airport name="James M Cox Dayton Intl" nearCity="Dayton"/>
+    <airport name="Mc Carran Intl" nearCity="Las Vegas"/>
+    <airport name="Capital City" nearCity="Lansing"/>
+    <airport name="Corpus Christi Intl" nearCity="Corpus Christi"/>
+    <airport name="Salt Lake City Intl" nearCity="Salt Lake City"/>
+    <airport name="Yeager" nearCity="Charleston"/>
+    <airport name="Columbus Metropolitan Airport" nearCity="Columbus"/>
+    <airport name="Sacramento Intl" nearCity="Sacramento"/>
+    <airport name="Cincinnati Muni Lunken Fld" nearCity="Cincinnati"/>
+    <airport name="John Wayne Arpt Orange Co" nearCity="Santa Ana"/>
+    <airport name="Los Angeles Intl" nearCity="Los Angeles"/>
+    <airport name="Lubbock Preston Smith Intl" nearCity="Lubbock"/>
+    <airport name="Denver Intl" nearCity="Denver"/>
+    <airport name="Ronald Reagan Washington Natl" nearCity="Washington"/>
+    <airport name="Long Beach" nearCity="Long Beach"/>
+    <airport name="La Guardia" nearCity="New York"/>
+    <airport name="Lovell Fld" nearCity="Chattanooga"/>
+    <airport name="Shreveport Rgnl" nearCity="Shreveport"/>
+    <airport name="Adams Fld" nearCity="Little Rock"/>
+    <airport name="Norman Y Mineta San Jose Intl" nearCity="San Jose"/>
+    <airport name="Birmingham Intl" nearCity="Birmingham"/>
+    <airport name="Dallas Fort Worth Intl" nearCity="Dallas"/>
+    <airport name="Miami Intl" nearCity="Miami"/>
+    <airport name="Harrisburg Intl" nearCity="Harrisburg"/>
+    <airport name="Memphis Intl" nearCity="Memphis"/>
+    <airport name="Chicago Midway Intl" nearCity="Chicago"/>
+    <airport name="Kansas City Intl" nearCity="Kansas City"/>
+    <airport name="Orlando Intl" nearCity="Orlando"/>
+    <airport name="Mobile Rgnl" nearCity="Mobile"/>
+    <airport name="Modesto City Co Harry Sham" nearCity="Modesto"/>
+    <airport name="Louisville International Airport" nearCity="Louisville"/>
+    <airport name="Cleveland Hopkins Intl" nearCity="Cleveland"/>
+    <airport name="Seattle Tacoma Intl" nearCity="Seattle"/>
+    <airport name="San Francisco Intl" nearCity="San Francisco"/>
+    <airport name="Charleston Afb Intl" nearCity="Charleston"/>
+    <airport name="Laredo Intl" nearCity="Laredo"/>
+    <airport name="Port Columbus Intl" nearCity="Columbus"/>
+    <airport name="Des Moines Intl" nearCity="Des Moines"/>
+    <airport name="Detroit Metro Wayne Co" nearCity="Detroit"/>
+    <airport name="Louis Armstrong New Orleans Intl" nearCity="New Orleans"/>
+    <airport name="Minneapolis St Paul Intl" nearCity="Minneapolis"/>
+    <airport name="Dane Co Rgnl Truax Fld" nearCity="Madison"/>
+    <airport name="Hector International Airport" nearCity="Fargo"/>
+    <airport name="Fresno Yosemite Intl" nearCity="Fresno"/>
+    <airport name="El Paso Intl" nearCity="El Paso"/>
+    <airport name="Evansville Regional" nearCity="Evansville"/>
+    <airport name="Newark Liberty Intl" nearCity="Newark"/>
+    <airport name="Mahlon Sweet Fld" nearCity="Eugene"/>
+    <airport name="Erie Intl Tom Ridge Fld" nearCity="Erie"/>
+    <airport name="General Mitchell Intl" nearCity="Milwaukee"/>
+    <airport name="Mc Kellar Sipes Rgnl" nearCity="Jackson"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Cayman Islands" capital="George Town"/>
+    <airport name="Edward Bodden Airfield" nearCity=""/>
+    <airport name="Owen Roberts Intl" nearCity="George Town"/>
+    <airport name="Gerrard Smith Intl" nearCity=""/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="San Jose" capital="San Jose"/>
+    <province name="Alajuela" capital="Alajuela"/>
+    <province name="Cartago" capital="Cartago"/>
+    <province name="Heredia" capital="Heredia"/>
+    <province name="Guanacaste" capital="Liberia"/>
+    <province name="Puntarenas" capital="Puntarenas"/>
+    <province name="Limon" capital="Limon"/>
+    <airport name="Tobias Bolanos International Airport" nearCity="San José"/>
+    <airport name="Daniel Oduber Quiros Intl" nearCity="Liberia"/>
+    <airport name="Juan Santamaria Intl" nearCity="San José"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Nicaragua" capital="Managua"/>
+    <airport name="Managua Intl" nearCity="Managua"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Bocas del Toro" capital="Bocas del Toro"/>
+    <province name="Cocle" capital="Penonome"/>
+    <province name="Colon" capital="Colon"/>
+    <province name="Comarca de San Blas" capital="El Porvenir"/>
+    <province name="Chiriqui" capital="David"/>
+    <province name="Darien" capital="La Palma"/>
+    <province name="Herrera" capital="Chitre"/>
+    <province name="Los Santos" capital="Las Tablas"/>
+    <province name="Panama" capital="Panama City"/>
+    <province name="Veraguas" capital="Santiago"/>
+    <airport name="Bocas del Toro Intl" nearCity="Bocas del Toro"/>
+    <airport name="Tocumen Intl" nearCity="Panamá City"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Camaguey" capital="Camaguey"/>
+    <province name="Ciego de Avila" capital="Ciego de Avila"/>
+    <province name="Cienfuegos" capital="Cienfuegos"/>
+    <province name="Ciudad de la Habana" capital="Havana"/>
+    <province name="Granma" capital="Bayamo"/>
+    <province name="Guantanamo" capital="Guantanamo"/>
+    <province name="Holguin" capital="Holguin"/>
+    <province name="La Habana" capital="Havana"/>
+    <province name="Las Tunas" capital="Victoria de las Tunas"/>
+    <province name="Matanzas" capital="Matanzas"/>
+    <province name="Pinar del Rio" capital="Pinar del Rio"/>
+    <province name="Sancti Spiritus" capital="Sancti Spiritus"/>
+    <province name="Santiago de Cuba" capital="Santiago de Cuba"/>
+    <province name="Villa Clara" capital="Santa Clara"/>
+    <province name="Isla de la Juventud" capital="Nueva Gerona"/>
+    <airport name="Antonio Maceo Intl" nearCity="Santiago de Cuba"/>
+    <airport name="Ignacio Agramonte Intl" nearCity="Camagüey"/>
+    <airport name="Frank Pais Intl" nearCity="Holguín"/>
+    <airport name="Rafael Cabrera" nearCity="Nueva Gerona"/>
+    <airport name="Jose Marti Intl" nearCity="La Habana"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Dominica" capital="Roseau"/>
+    <airport name="Melville Hall" nearCity="Roseau"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Dominican Republic" capital="Santo Domingo"/>
+    <airport name="Las Americas Intl" nearCity="Santo Domingo"/>
+    <airport name="Cibao Intl" nearCity="Santiago"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Haiti" capital="Port-au-Prince"/>
+    <airport name="Toussaint Louverture Intl" nearCity="Port-au-Prince"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="El Salvador" capital="San Salvador"/>
+    <airport name="El Salvador Intl" nearCity="San Salvador"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Atlantida" capital="La Ceiba"/>
+    <province name="Colon" capital="Trujillo"/>
+    <province name="Comayagua" capital="Comayagua"/>
+    <province name="Copan" capital="Santa Rosa de Copan"/>
+    <province name="Cortes" capital="San Pedro Sula"/>
+    <province name="Choluteca" capital="Choluteca"/>
+    <province name="El Paraiso" capital="Yuscaran"/>
+    <province name="Francisco Morazan" capital="Tegucigalpa"/>
+    <province name="Gracias a Dios" capital="Puerto Lempira"/>
+    <province name="Intibuca" capital="La Esperanza"/>
+    <province name="Islas de la Bahia" capital="Roatan"/>
+    <province name="La Paz" capital="La Paz"/>
+    <province name="Lempira" capital="Gracias"/>
+    <province name="Ocotepeque" capital="Ocotepeque"/>
+    <province name="Olancho" capital="Jutigalpa"/>
+    <province name="Santa Barbara" capital="Santa Barbara"/>
+    <province name="Valle" capital="Nacaome"/>
+    <province name="Yoro" capital="Yoro"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Greenland" capital="Nuuk"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Grenada" capital="Saint Georges"/>
+    <airport name="Point Salines Intl" nearCity="Saint George&apos;s"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Guadeloupe" capital="Basse-Terre"/>
+    <airport name="Le Raizet" nearCity="Basse-Terre"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Jamaica" capital="Kingston"/>
+    <airport name="Norman Manley Intl" nearCity="Kingston"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Martinique" capital="Fort-de-France"/>
+    <airport name="Le Lamentin" nearCity="Fort-de-France"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Montserrat" capital="Plymouth"/>
+    <airport name="John A. Osborne" nearCity="Brades"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Netherlands Antilles" capital="Willemstad"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Saint Martin" capital="Marigot"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Amazonas" capital="Leticia"/>
+    <province name="Antioquia" capital="Medellin"/>
+    <province name="Arauca" capital="Arauca"/>
+    <province name="Atlantico" capital="Barranquilla"/>
+    <province name="Bolivar" capital="Cartagena"/>
+    <province name="Boyaca" capital="Tunja"/>
+    <province name="Caldas" capital="Manizales"/>
+    <province name="Caqueta" capital="Florencia"/>
+    <province name="Casanare" capital="Yopal"/>
+    <province name="Cauca" capital="Popayan"/>
+    <province name="Cesar" capital="Valledupar"/>
+    <province name="Choco" capital="Quibdo"/>
+    <province name="Cordoba" capital="Monteria"/>
+    <province name="Cundinamarca" capital="Bogota"/>
+    <province name="Guainia" capital="Puerto Inirida"/>
+    <province name="Guajira, La" capital="Riohacha"/>
+    <province name="Guaviare" capital="San Jose del Guaviare"/>
+    <province name="Huila" capital="Neiva"/>
+    <province name="Magdalena" capital="Santa Marta"/>
+    <province name="Meta" capital="Villavicencio"/>
+    <province name="Narino" capital="Pasto"/>
+    <province name="Norte de Santander" capital="Cucuta"/>
+    <province name="Putumayo" capital="Mocoa"/>
+    <province name="Quindio" capital="Armenia"/>
+    <province name="Risaralda" capital="Pereira"/>
+    <province name="San Andres y Providencia" capital="San Andres"/>
+    <province name="Santa Fe de Bogota, DC" capital="Bogota"/>
+    <province name="Santander del Sur" capital="Bucaramanga"/>
+    <province name="Sucre" capital="Sincelejo"/>
+    <province name="Tolima" capital="Ibague"/>
+    <province name="Valle de Cauca" capital="Cali"/>
+    <province name="Vaupes" capital="Mitu"/>
+    <province name="Vichada" capital="Puerto Carreno"/>
+    <airport name="Eldorado Intl" nearCity="Bogotá"/>
+    <airport name="Perales" nearCity="Ibagué"/>
+    <airport name="Gustavo Artunduaga Paredes" nearCity="Florencia"/>
+    <airport name="El Eden" nearCity="Armenia"/>
+    <airport name="La Nubia" nearCity="Manizales"/>
+    <airport name="Yariguies" nearCity="Barrancabermeja"/>
+    <airport name="La Florida" nearCity="San Andres de Tumaco"/>
+    <airport name="Alfonso Bonilla Aragon Intl" nearCity="Cali"/>
+    <airport name="Rafael Nunez" nearCity="Cartagena"/>
+    <airport name="Simon Bolivar" nearCity="Santa Marta"/>
+    <airport name="Ernesto Cortissoz" nearCity="Barranquilla"/>
+    <airport name="Matecana" nearCity="Pereira"/>
+    <airport name="Camilo Daza" nearCity="Cúcuta"/>
+    <airport name="Palonegro" nearCity="Bucaramanga"/>
+    <airport name="Gustavo Rojas Pinilla" nearCity="San Andres"/>
+    <airport name="Olaya Herrera" nearCity="Medellín"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Puerto Rico" capital="San Juan"/>
+    <airport name="Luis Munoz Marin Intl" nearCity="San Juan"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Saint Kitts and Nevis" capital="Basseterre"/>
+    <airport name="Robert L Bradshaw" nearCity="Basseterre"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Saint Lucia" capital="Castries"/>
+    <airport name="Hewanorra Intl" nearCity="Castries"/>
+    <airport name="George F L Charles" nearCity="Castries"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Saint Pierre and Miquelon" capital="Saint-Pierre"/>
+    <airport name="Saint-Pierre" nearCity="Saint-Pierre"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Saint Vincent and the Grenadines" capital="Kingstown"/>
+    <airport name="E T Joshua" nearCity="Kingstown"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Trinidad and Tobago" capital="Port-of-Spain"/>
+    <airport name="Piarco" nearCity="Port-of-Spain"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Turks and Caicos Islands" capital="Grand Turk"/>
+    <airport name="Providenciales" nearCity="Grand Turk"/>
+  </country>
+  <country>
+    <continent name="America" percent="0"/>
+    <province name="Virgin Islands" capital="Charlotte Amalie"/>
+    <airport name="Cyril E King" nearCity="Charlotte Amalie"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="American Samoa" capital="Pago Pago"/>
+    <airport name="Pago Pago Intl" nearCity="Pago Pago"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="New South Wales" capital="Sydney"/>
+    <province name="Northern Territory" capital="Darwin"/>
+    <province name="Queensland" capital="Brisbane"/>
+    <province name="South Australia" capital="Adelaide"/>
+    <province name="Tasmania" capital="Hobart"/>
+    <province name="Victoria" capital="Melbourne"/>
+    <province name="Western Australia" capital="Perth"/>
+    <province name="Australia Capital Territory" capital="Canberra"/>
+    <airport name="Melbourne Intl" nearCity="Melbourne"/>
+    <airport name="Sydney Intl" nearCity="Sydney"/>
+    <airport name="Cairns Intl" nearCity="Cairns"/>
+    <airport name="Townsville" nearCity="Townsville"/>
+    <airport name="Brisbane Intl" nearCity="Brisbane"/>
+    <airport name="Canberra" nearCity="Canberra"/>
+    <airport name="Adelaide Intl" nearCity="Adelaide"/>
+    <airport name="Newcastle Airport" nearCity="Newcastle"/>
+    <airport name="Darwin Intl" nearCity="Darwin"/>
+    <airport name="Perth Intl" nearCity="Perth"/>
+    <airport name="Hobart" nearCity="Hobart"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Cook Islands" capital="Avarua"/>
+    <airport name="Rarotonga Intl" nearCity="Avarua"/>
+  </country>
+  <country>
+    <continent name="Australia/Oceania" percent="0"/>
+    <province name="Fiji" capital="Suva"/>
+    <airport name="Nausori Intl" nearCity="Suva"/>
+  </country>
+</mondial>
+
