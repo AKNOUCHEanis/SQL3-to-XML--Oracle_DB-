@@ -176,15 +176,15 @@ create or replace type body T_Country as
     output := XMLType.appendchildxml(output, 'country', tmpLanguage(indx).toXML());
   end loop;
   
-  output := XMLType.appendchildxml(output, 'country', XMLType.createxml('<borders ></borders >'));
-  
+  output := XMLType.appendchildxml(output, 'country', XMLType.createxml('<borders></borders>'));
+
   select value(b) bulk collect into tmpBorders
   from LesBorders b
   where b.country1=self.code ;
   
   for indx IN 1..tmpBorders.COUNT
   loop
-    output := XMLType.appendchildxml(output, 'borders', tmpBorders(indx).toXML());
+    output := XMLType.appendchildxml(output, 'country/borders', tmpBorders(indx).toXML());
   end loop;
   
   select T_Border(b.country2,b.country1,b.length) bulk collect into tmpBorders
@@ -193,7 +193,7 @@ create or replace type body T_Country as
   
   for indx IN 1..tmpBorders.COUNT
   loop
-    output := XMLType.appendchildxml(output, 'borders', tmpBorders(indx).toXML());
+    output := XMLType.appendchildxml(output, 'country/borders', tmpBorders(indx).toXML());
   end loop;
   
   return output;
@@ -209,7 +209,7 @@ create or replace type body T_Language as
   output XMLType; 
   begin
   
-  output := XMLType.createxml('<language laguage="'||name||'" percent="'||percentage||'"></language>');
+  output := XMLType.createxml('<language language="'||name||'" percent="'||percentage||'"></language>');
   return output;
   end;
   
@@ -264,6 +264,8 @@ insert into LesBorders
   select T_Border(b.country1, b.country2, b.length)
   from BORDERS b;
 
+select *
+from LesBorders;
 --LesLanguages
 
 insert into LesLanguages
@@ -271,7 +273,7 @@ insert into LesLanguages
   from LANGUAGE l;
   
 WbExport -type=text
-         -file='EXO1_PART2.xml'
+         -file='EXO1_PART02.xml'
          -createDir=true
          -encoding=ISO-8859-1
          -header=false
@@ -280,5 +282,19 @@ WbExport -type=text
          -dateFormat='yyyy-MM-dd'
 /
 
+
 select m.toXML().getClobVal()
 from LesMondes m;
+
+
+select c.toXML().getClobVal()
+from LesCountry c, LesBorders b
+where c.code='BR' and b.country1='BR';
+
+
+select *
+from LesCountry c
+where c.code='A'
+;
+
+

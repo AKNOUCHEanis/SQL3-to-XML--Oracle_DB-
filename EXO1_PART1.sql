@@ -21,6 +21,7 @@ drop type T_Country force;
 create or replace type T_Country as object(
   NAME    VARCHAR(35 Byte),
   CODE    VARCHAR(4 Byte),
+  IDCOUNTRY  VARCHAR(20 Byte),
   CAPITAL VARCHAR(35 Byte),
   PROVINE VARCHAR(35 Byte),
   AREA    NUMBER,
@@ -445,7 +446,7 @@ create or replace type body T_Country as
   tmpAirport T_ensAirport;
   tmpProvince T_ensProvince;
   begin
-      output := XMLType.createxml('<country idcountry="'||code||'" nom="'||name||'"></country>');
+      output := XMLType.createxml('<country idcountry="'||idcountry||'" nom="'||name||'"></country>');
      
       select value(e) bulk collect into tmpEncompasses
       from LesEncompasses e
@@ -487,15 +488,14 @@ end;
 
 insert into LesMondes values(T_Mondial('LeMonde'));
 
-insert into LesGeoCountry
-select  T_GeoCountry(e.country, e.continent, e.percent)
-from LesEncompasses e;
-
 
 insert into LesCountry
-  select T_Country(c.name, c.code, c.capital, c.province, c.area, c.population)
+  select T_Country(c.name, c.code,ora_hash(c.code) ,c.capital, c.province, c.area, c.population)
   from COUNTRY c;
   
+drop table LesContinents ;
+create table LesContinents of T_Continent;
+
 insert into LesContinents
   select T_Continent(c.name, c.area)
   from CONTINENT c;
@@ -511,6 +511,10 @@ insert into LesProvinces
 insert into LesEncompasses
   select T_Encompasses(e.country,e.continent,e.percentage)
   from ENCOMPASSES e;
+
+insert into LesGeoCountry
+select  T_GeoCountry(e.country, e.continent, e.percent)
+from LesEncompasses e;
   
 insert into LesAirports
   select T_Airport(a.iatacode, a.name, a.country, a.city, a.province, a.island, a.latitude,
@@ -542,9 +546,8 @@ insert into LesGeoDeserts
   select T_GeoDesert(gd.desert, gd.country, gd.province)
   from GEO_DESERT gd;
 
-select i.name,i.coordinates
-from LesIslands i;
-where i.name='Kos';
+select *
+from LesCountry;
 ----------
 
 WbExport -type=text
