@@ -1,0 +1,241 @@
+<countries>
+  <country name="Afghanistan" code="AFG" blength="5529"/>
+  <country name="Albania" code="AL" blength="717"/>
+  <country name="Algeria" code="DZ" blength="6343"/>
+  <country name="American Samoa" code="AMSA" blength="0"/>
+  <country name="Andorra" code="AND" blength="125"/>
+  <country name="Angola" code="ANG" blength="5198"/>
+  <country name="Anguilla" code="AXA" blength="0"/>
+  <country name="Antigua and Barbuda" code="AG" blength="0"/>
+  <country name="Argentina" code="RA" blength="9665"/>
+  <country name="Armenia" code="ARM" blength="1254"/>
+  <country name="Aruba" code="ARU" blength="0"/>
+  <country name="Australia" code="AUS" blength="0"/>
+  <country name="Austria" code="A" blength="2558"/>
+  <country name="Azerbaijan" code="AZ" blength="2013"/>
+  <country name="Bahamas" code="BS" blength="0"/>
+  <country name="Bahrain" code="BRN" blength="0"/>
+  <country name="Bangladesh" code="BD" blength="4246"/>
+  <country name="Barbados" code="BDS" blength="0"/>
+  <country name="Belarus" code="BY" blength="3098"/>
+  <country name="Belgium" code="B" blength="1385"/>
+  <country name="Belize" code="BZ" blength="516"/>
+  <country name="Benin" code="BEN" blength="1989"/>
+  <country name="Bermuda" code="BERM" blength="0"/>
+  <country name="Bhutan" code="BHT" blength="1075"/>
+  <country name="Bolivia" code="BOL" blength="6743"/>
+  <country name="Bosnia and Herzegovina" code="BIH" blength="1459"/>
+  <country name="Botswana" code="RB" blength="4013"/>
+  <country name="Brazil" code="BR" blength="14691"/>
+  <country name="British Virgin Islands" code="BVIR" blength="0"/>
+  <country name="Brunei" code="BRU" blength="381"/>
+  <country name="Bulgaria" code="BG" blength="1808"/>
+  <country name="Burkina Faso" code="BF" blength="3192"/>
+  <country name="Burundi" code="BI" blength="974"/>
+  <country name="Cambodia" code="K" blength="2572"/>
+  <country name="Cameroon" code="CAM" blength="4591"/>
+  <country name="Canada" code="CDN" blength="8893"/>
+  <country name="Cape Verde" code="CV" blength="0"/>
+  <country name="Cayman Islands" code="CAYM" blength="0"/>
+  <country name="Central African Republic" code="RCA" blength="5203"/>
+  <country name="Chad" code="TCH" blength="5968"/>
+  <country name="Chile" code="RCH" blength="6171"/>
+  <country name="China" code="TJ" blength="22143.34"/>
+  <country name="Christmas Island" code="XMAS" blength="0"/>
+  <country name="Cocos Islands" code="COCO" blength="0"/>
+  <country name="Colombia" code="CO" blength="7408"/>
+  <country name="Comoros" code="COM" blength="0"/>
+  <country name="Congo" code="RCB" blength="5504"/>
+  <country name="Cook Islands" code="COOK" blength="0"/>
+  <country name="Costa Rica" code="CR" blength="639"/>
+  <country name="Cote dIvoire" code="CI" blength="3110"/>
+  <country name="Croatia" code="HR" blength="2073"/>
+  <country name="Cuba" code="C" blength="0"/>
+  <country name="Cyprus" code="CY" blength="0"/>
+  <country name="Czech Republic" code="CZ" blength="1881"/>
+  <country name="Denmark" code="DK" blength="68"/>
+  <country name="Djibouti" code="DJI" blength="508"/>
+  <country name="Dominica" code="WD" blength="0"/>
+  <country name="Dominican Republic" code="DOM" blength="275"/>
+  <country name="Ecuador" code="EC" blength="2010"/>
+  <country name="Egypt" code="ET" blength="2689"/>
+  <country name="El Salvador" code="ES" blength="545"/>
+  <country name="Equatorial Guinea" code="GQ" blength="539"/>
+  <country name="Eritrea" code="ER" blength="1630"/>
+  <country name="Estonia" code="EW" blength="557"/>
+  <country name="Ethiopia" code="ETH" blength="5311"/>
+  <country name="Falkland Islands" code="FALK" blength="0"/>
+  <country name="Faroe Islands" code="FARX" blength="0"/>
+  <country name="Fiji" code="FJI" blength="0"/>
+  <country name="Finland" code="SF" blength="2628"/>
+  <country name="France" code="F" blength="2892.4"/>
+  <country name="French Guiana" code="FGU" blength="1183"/>
+  <country name="French Polynesia" code="FPOL" blength="0"/>
+  <country name="Gabon" code="G" blength="2551"/>
+  <country name="Gambia" code="WAG" blength="740"/>
+  <country name="Gaza Strip" code="GAZA" blength="62"/>
+  <country name="Georgia" code="GE" blength="1461"/>
+  <country name="Germany" code="D" blength="3621"/>
+  <country name="Ghana" code="GH" blength="2093"/>
+  <country name="Gibraltar" code="GBZ" blength="1.2"/>
+  <country name="Greece" code="GR" blength="1210"/>
+  <country name="Greenland" code="GROX" blength="0"/>
+  <country name="Grenada" code="WG" blength="0"/>
+  <country name="Guadeloupe" code="GUAD" blength="0"/>
+  <country name="Guam" code="GUAM" blength="0"/>
+  <country name="Guatemala" code="GCA" blength="1687"/>
+  <country name="Guernsey" code="GBG" blength="0"/>
+  <country name="Guinea" code="RG" blength="3399"/>
+  <country name="Guinea-Bissau" code="GNB" blength="724"/>
+  <country name="Guyana" code="GUY" blength="2462"/>
+  <country name="Haiti" code="RH" blength="275"/>
+  <country name="Holy See" code="V" blength="3.2"/>
+  <country name="Honduras" code="HCA" blength="1520"/>
+  <country name="Hong Kong" code="HONX" blength="30"/>
+  <country name="Hungary" code="H" blength="2009"/>
+  <country name="Iceland" code="IS" blength="0"/>
+  <country name="India" code="IND" blength="14103"/>
+  <country name="Indonesia" code="RI" blength="2830"/>
+  <country name="Iran" code="IR" blength="5440"/>
+  <country name="Iraq" code="IRQ" blength="3631"/>
+  <country name="Ireland" code="IRL" blength="360"/>
+  <country name="Israel" code="IL" blength="1006"/>
+  <country name="Italy" code="I" blength="1935.2"/>
+  <country name="Jamaica" code="JA" blength="0"/>
+  <country name="Japan" code="J" blength="0"/>
+  <country name="Jersey" code="GBJ" blength="0"/>
+  <country name="Jordan" code="JOR" blength="1619"/>
+  <country name="Kazakstan" code="KAZ" blength="12012"/>
+  <country name="Kenya" code="EAK" blength="3446"/>
+  <country name="Kiribati" code="KIR" blength="0"/>
+  <country name="Kosovo" code="KOS" blength="927"/>
+  <country name="Kuwait" code="KWT" blength="464"/>
+  <country name="Kyrgyzstan" code="KGZ" blength="3878"/>
+  <country name="Laos" code="LAO" blength="5083"/>
+  <country name="Latvia" code="LV" blength="1078"/>
+  <country name="Lebanon" code="RL" blength="454"/>
+  <country name="Lesotho" code="LS" blength="909"/>
+  <country name="Liberia" code="LB" blength="1585"/>
+  <country name="Libya" code="LAR" blength="4383"/>
+  <country name="Liechtenstein" code="FL" blength="78"/>
+  <country name="Lithuania" code="LT" blength="1273"/>
+  <country name="Luxembourg" code="L" blength="359"/>
+  <country name="Macau" code="MACX" blength=".34"/>
+  <country name="Macedonia" code="MK" blength="748"/>
+  <country name="Madagascar" code="RM" blength="0"/>
+  <country name="Malawi" code="MW" blength="2881"/>
+  <country name="Malaysia" code="MAL" blength="2669"/>
+  <country name="Maldives" code="MV" blength="0"/>
+  <country name="Mali" code="RMM" blength="7243"/>
+  <country name="Malta" code="M" blength="0"/>
+  <country name="Man" code="GBM" blength="0"/>
+  <country name="Marshall Islands" code="MH" blength="0"/>
+  <country name="Martinique" code="MART" blength="0"/>
+  <country name="Mauritania" code="RIM" blength="5074"/>
+  <country name="Mauritius" code="MS" blength="0"/>
+  <country name="Mayotte" code="MAYO" blength="0"/>
+  <country name="Mexico" code="MEX" blength="4538"/>
+  <country name="Micronesia" code="FSM" blength="0"/>
+  <country name="Moldova" code="MD" blength="1389"/>
+  <country name="Monaco" code="MC" blength="4.4"/>
+  <country name="Mongolia" code="MNG" blength="8114"/>
+  <country name="Montenegro" code="MNE" blength="400"/>
+  <country name="Montserrat" code="MNTS" blength="0"/>
+  <country name="Morocco" code="MA" blength="2002"/>
+  <country name="Mozambique" code="MOC" blength="4571"/>
+  <country name="Myanmar" code="MYA" blength="5876"/>
+  <country name="Namibia" code="NAM" blength="3824"/>
+  <country name="Nauru" code="NAU" blength="0"/>
+  <country name="Nepal" code="NEP" blength="2926"/>
+  <country name="Netherlands" code="NL" blength="1027"/>
+  <country name="Netherlands Antilles" code="NA" blength="15"/>
+  <country name="New Caledonia" code="NCA" blength="0"/>
+  <country name="New Zealand" code="NZ" blength="0"/>
+  <country name="Nicaragua" code="NIC" blength="1231"/>
+  <country name="Niger" code="RN" blength="5697"/>
+  <country name="Nigeria" code="WAN" blength="4047"/>
+  <country name="Niue" code="NIUE" blength="0"/>
+  <country name="Norfolk Island" code="NORF" blength="0"/>
+  <country name="North Korea" code="NOK" blength="1673"/>
+  <country name="Northern Mariana Islands" code="NMIS" blength="0"/>
+  <country name="Norway" code="N" blength="2515"/>
+  <country name="Oman" code="OM" blength="1374"/>
+  <country name="Pakistan" code="PK" blength="6774"/>
+  <country name="Palau" code="PAL" blength="0"/>
+  <country name="Panama" code="PA" blength="555"/>
+  <country name="Papua New Guinea" code="PNG" blength="820"/>
+  <country name="Paraguay" code="PY" blength="3920"/>
+  <country name="Peru" code="PE" blength="6940"/>
+  <country name="Philippines" code="RP" blength="0"/>
+  <country name="Pitcairn Islands" code="PITC" blength="0"/>
+  <country name="Poland" code="PL" blength="2888"/>
+  <country name="Portugal" code="P" blength="1214"/>
+  <country name="Puerto Rico" code="PR" blength="0"/>
+  <country name="Qatar" code="Q" blength="60"/>
+  <country name="Reunion" code="REUN" blength="0"/>
+  <country name="Romania" code="RO" blength="2508"/>
+  <country name="Russia" code="R" blength="19913"/>
+  <country name="Rwanda" code="RWA" blength="893"/>
+  <country name="Saint Helena" code="HELX" blength="0"/>
+  <country name="Saint Kitts and Nevis" code="KN" blength="0"/>
+  <country name="Saint Lucia" code="WL" blength="0"/>
+  <country name="Saint Martin" code="SMAR" blength="15"/>
+  <country name="Saint Pierre and Miquelon" code="SPMI" blength="0"/>
+  <country name="Saint Vincent and the Grenadines" code="WV" blength="0"/>
+  <country name="Samoa" code="WS" blength="0"/>
+  <country name="San Marino" code="RSM" blength="39"/>
+  <country name="Sao Tome and Principe" code="STP" blength="0"/>
+  <country name="Saudi Arabia" code="SA" blength="4415"/>
+  <country name="Senegal" code="SN" blength="2640"/>
+  <country name="Serbia" code="SRB" blength="2026"/>
+  <country name="Seychelles" code="SY" blength="0"/>
+  <country name="Sierra Leone" code="WAL" blength="958"/>
+  <country name="Singapore" code="SGP" blength="0"/>
+  <country name="Slovakia" code="SK" blength="1355"/>
+  <country name="Slovenia" code="SLO" blength="1207"/>
+  <country name="Solomon Islands" code="SLB" blength="0"/>
+  <country name="Somalia" code="SP" blength="2366"/>
+  <country name="South Africa" code="RSA" blength="4750"/>
+  <country name="South Korea" code="ROK" blength="238"/>
+  <country name="Spain" code="E" blength="1903.2"/>
+  <country name="Sri Lanka" code="CL" blength="0"/>
+  <country name="Sudan" code="SUD" blength="7687"/>
+  <country name="Suriname" code="SME" blength="1707"/>
+  <country name="Svalbard" code="SVAX" blength="0"/>
+  <country name="Swaziland" code="SD" blength="535"/>
+  <country name="Sweden" code="S" blength="2205"/>
+  <country name="Switzerland" code="CH" blength="1852"/>
+  <country name="Syria" code="SYR" blength="2253"/>
+  <country name="Taiwan" code="RC" blength="0"/>
+  <country name="Tajikistan" code="TAD" blength="3651"/>
+  <country name="Tanzania" code="EAT" blength="3861"/>
+  <country name="Thailand" code="THA" blength="4863"/>
+  <country name="Timor-Leste" code="TL" blength="228"/>
+  <country name="Togo" code="RT" blength="1647"/>
+  <country name="Tonga" code="TO" blength="0"/>
+  <country name="Trinidad and Tobago" code="TT" blength="0"/>
+  <country name="Tunisia" code="TN" blength="1424"/>
+  <country name="Turkey" code="TR" blength="2627"/>
+  <country name="Turkmenistan" code="TM" blength="3736"/>
+  <country name="Turks and Caicos Islands" code="TUCA" blength="0"/>
+  <country name="Tuvalu" code="TUV" blength="0"/>
+  <country name="Uganda" code="EAU" blength="2698"/>
+  <country name="Ukraine" code="UA" blength="4558"/>
+  <country name="United Arab Emirates" code="UAE" blength="867"/>
+  <country name="United Kingdom" code="GB" blength="360"/>
+  <country name="United States" code="USA" blength="12219"/>
+  <country name="Uruguay" code="ROU" blength="1564"/>
+  <country name="Uzbekistan" code="UZB" blength="6221"/>
+  <country name="Vanuatu" code="VU" blength="0"/>
+  <country name="Venezuela" code="YV" blength="4993"/>
+  <country name="Vietnam" code="VN" blength="4639"/>
+  <country name="Virgin Islands" code="VIRG" blength="0"/>
+  <country name="Wallis and Futuna" code="WAFU" blength="0"/>
+  <country name="West Bank" code="WEST" blength="404"/>
+  <country name="Western Sahara" code="WSA" blength="2046"/>
+  <country name="Yemen" code="YE" blength="1746"/>
+  <country name="Zaire" code="ZRE" blength="10730"/>
+  <country name="Zambia" code="Z" blength="5664"/>
+  <country name="Zimbabwe" code="ZW" blength="3066"/>
+</countries>
+

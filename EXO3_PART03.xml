@@ -1,0 +1,1937 @@
+<provinces>
+  <province name="Zambezia" country="MOC"/>
+  <province name="Zamojskie" country="PL"/>
+  <province name="Zanjan" country="IR"/>
+  <province name="Zapadocesky" country="CZ"/>
+  <province name="Zaporizka" country="UA"/>
+  <province name="Zeeland" country="NL"/>
+  <province name="Zhambyl" country="KAZ"/>
+  <province name="Zhejiang" country="TJ"/>
+  <province name="Zhezkazghan" country="KAZ"/>
+  <province name="Zhytomyrska" country="UA"/>
+  <province name="Zielonogorskie" country="PL"/>
+  <province name="Ziguinchor" country="SN"/>
+  <province name="Zimbabwe" country="ZW"/>
+  <province name="Zonguldak" country="TR"/>
+  <province name="Zuid Holland" country="NL"/>
+  <province name="Zulia" country="YV"/>
+  <province name="al Istiwaiyah" country="SUD"/>
+  <province name="al Khartum" country="SUD"/>
+  <province name="ash Shamaliyah" country="SUD"/>
+  <province name="ash Sharqiyah" country="SUD"/>
+  <province name="AG" country="CH"/>
+  <province name="AI" country="CH"/>
+  <province name="AR" country="CH"/>
+  <province name="Aali an Nil" country="SUD"/>
+  <province name="Aberconwy and Colwyn" country="GB"/>
+  <province name="Abruzzo" country="I">
+    <mountain name="Gran Sasso" altitude="2912" latitude="42.5" logitude="13.55"/>
+  </province>
+  <province name="Abu Dhabi" country="UAE"/>
+  <province name="Acre" country="BR"/>
+  <province name="Ad Tamim" country="IRQ"/>
+  <province name="Adamaoua" country="CAM"/>
+  <province name="Adana" country="TR"/>
+  <province name="Adiyaman" country="TR"/>
+  <province name="Afghanistan" country="AFG">
+    <mountain name="Tirich Mir" altitude="7690" latitude="36.25" logitude="71.8"/>
+  </province>
+  <province name="Afyon" country="TR"/>
+  <province name="Agri" country="TR">
+    <mountain name="Ararat" altitude="5165" latitude="39.7" logitude="44.3"/>
+  </province>
+  <province name="Aguascalientes" country="MEX"/>
+  <province name="Ahal" country="TM"/>
+  <province name="Aichi" country="J"/>
+  <province name="Ajman" country="UAE"/>
+  <province name="Akershus" country="N"/>
+  <province name="Akita" country="J"/>
+  <province name="Aksaray" country="TR"/>
+  <province name="Al Anbar" country="IRQ"/>
+  <province name="Al Basrah" country="IRQ"/>
+  <province name="Al Fujayrah" country="UAE"/>
+  <province name="Al Muthanna" country="IRQ"/>
+  <province name="Al Qadisiyah" country="IRQ"/>
+  <province name="Alabama" country="USA"/>
+  <province name="Alagoas" country="BR"/>
+  <province name="Alajuela" country="CR"/>
+  <province name="Aland" country="SF"/>
+  <province name="Alaska" country="USA">
+    <mountain name="Mt Redoubt" altitude="3108" latitude="60.5" logitude="-152.75"/>
+    <mountain name="Mt McKinley" altitude="6193" latitude="63.1" logitude="-151"/>
+    <mountain name="Mt Blackburn" altitude="4996" latitude="61.7" logitude="-143.4"/>
+    <mountain name="Mt Bona" altitude="5005" latitude="61.4" logitude="-141.75"/>
+    <mountain name="Mt St.Elias" altitude="5489" latitude="60.3" logitude="-140.9"/>
+    <mountain name="Mt Fairweather" altitude="4663" latitude="58.9" logitude="-137.5"/>
+  </province>
+  <province name="Alba" country="RO"/>
+  <province name="Albania" country="AL">
+    <mountain name="Jezerce" altitude="2694" latitude="42.3" logitude="19.4"/>
+    <mountain name="Korab" altitude="2751" latitude="41.4" logitude="20.3"/>
+  </province>
+  <province name="Alberta" country="CDN">
+    <mountain name="Mt Columbia" altitude="3747" latitude="52.15" logitude="-117.44"/>
+  </province>
+  <province name="Algarve" country="P"/>
+  <province name="Algeria" country="DZ">
+    <mountain name="Tahat" altitude="3003" latitude="23.3" logitude="5.5"/>
+  </province>
+  <province name="Almaty" country="KAZ"/>
+  <province name="Almaty (munic.)" country="KAZ"/>
+  <province name="Alsace" country="F">
+    <mountain name="Grand Ballon" altitude="1424" latitude="47.9" logitude="7.1"/>
+  </province>
+  <province name="Altayskiy kray" country="R"/>
+  <province name="Alvsborg" country="S"/>
+  <province name="Amapa" country="BR"/>
+  <province name="Amasya" country="TR"/>
+  <province name="Amazonas" country="BR"/>
+  <province name="Amazonas" country="CO"/>
+  <province name="Amazonas" country="PE"/>
+  <province name="Amazonas" country="YV"/>
+  <province name="American Samoa" country="AMSA"/>
+  <province name="Amurskaya oblast" country="R"/>
+  <province name="An Najaf" country="IRQ"/>
+  <province name="Anatoliki Makedhonia kai Thraki" country="GR"/>
+  <province name="Ancash" country="PE">
+    <mountain name="Huascaran" altitude="6768" latitude="-9" logitude="-77.3"/>
+    <mountain name="Alpamayo" altitude="5947" latitude="-8.9" logitude="-77.7"/>
+    <mountain name="Pico Rocarre" altitude="5187" latitude="-8.8" logitude="-78"/>
+  </province>
+  <province name="Andalusia" country="E">
+    <mountain name="Mulhacen" altitude="3482" latitude="37" logitude="3.3"/>
+  </province>
+  <province name="Andaman and Nicobar Is." country="IND"/>
+  <province name="Andhra Pradesh" country="IND"/>
+  <province name="Andijon" country="UZB"/>
+  <province name="Andorra" country="AND"/>
+  <province name="Anglesey" country="GB"/>
+  <province name="Anguilla" country="AXA"/>
+  <province name="Anhui" country="TJ"/>
+  <province name="Ankara" country="TR"/>
+  <province name="Antalya" country="TR"/>
+  <province name="Antananarivo" country="RM">
+    <mountain name="Tsiafajavona" altitude="2642" latitude="-19.3" logitude="47.2"/>
+  </province>
+  <province name="Antigua and Barbuda" country="AG"/>
+  <province name="Antioquia" country="CO"/>
+  <province name="Antsiranana" country="RM">
+    <mountain name="Tsaratanana" altitude="2876" latitude="-14" logitude="48.5"/>
+  </province>
+  <province name="Antwerp" country="B"/>
+  <province name="Anzoategui" country="YV"/>
+  <province name="Aomori" country="J"/>
+  <province name="Apure" country="YV"/>
+  <province name="Apurimac" country="PE"/>
+  <province name="Aqmola" country="KAZ"/>
+  <province name="Aqtobe" country="KAZ"/>
+  <province name="Aquitaine" country="F"/>
+  <province name="Arad" country="RO"/>
+  <province name="Aragon" country="E">
+    <mountain name="Vignemale" altitude="3298" latitude="42.8" logitude=".15"/>
+    <mountain name="Pico de Aneto" altitude="3404" latitude="42.6" logitude=".65"/>
+    <mountain name="Moncayo" altitude="2313" latitude="41.8" logitude="1.85"/>
+  </province>
+  <province name="Aragua" country="YV"/>
+  <province name="Arauca" country="CO"/>
+  <province name="Arbil" country="IRQ"/>
+  <province name="Arequipa" country="PE">
+    <mountain name="Coropuna" altitude="6425" latitude="-15.5" logitude="-72.65"/>
+    <mountain name="Ampato" altitude="6288" latitude="-15.8" logitude="-71.9"/>
+  </province>
+  <province name="Arges" country="RO">
+    <mountain name="Moldoveanu" altitude="2544" latitude="45.6" logitude="24.7"/>
+  </province>
+  <province name="Arizona" country="USA">
+    <mountain name="Humphreys Peak" altitude="3850" latitude="35.3" logitude="-111.65"/>
+  </province>
+  <province name="Arkansas" country="USA"/>
+  <province name="Arkhangelskaya oblast" country="R"/>
+  <province name="Armenia" country="ARM"/>
+  <province name="Artvin" country="TR"/>
+  <province name="Aruba" country="ARU"/>
+  <province name="Arunachal Pradesh" country="IND"/>
+  <province name="Arusha" country="EAT">
+    <mountain name="Meru" altitude="4567" latitude="-3.2" logitude="36.8"/>
+  </province>
+  <province name="As Sulaymaniyah" country="IRQ"/>
+  <province name="Ash Shariqah" country="UAE"/>
+  <province name="Assam" country="IND"/>
+  <province name="Astrakhanskaya oblast" country="R"/>
+  <province name="Asturias" country="E">
+    <mountain name="Torre de Cerredo" altitude="2648" latitude="43.2" logitude="4.85"/>
+  </province>
+  <province name="Aswan" country="ET"/>
+  <province name="Asyut" country="ET"/>
+  <province name="Atlantico" country="CO"/>
+  <province name="Atlantida" country="HCA"/>
+  <province name="Attiki" country="GR"/>
+  <province name="Atyrau" country="KAZ"/>
+  <province name="Aust Agder" country="N"/>
+  <province name="Australia Capital Territory" country="AUS"/>
+  <province name="Auvergne" country="F">
+    <mountain name="Puy De Dome" altitude="1465" latitude="45.8" logitude="3"/>
+    <mountain name="Puy de Sancy" altitude="1885" latitude="45.5" logitude="2.8"/>
+  </province>
+  <province name="Aveiro" country="P"/>
+  <province name="Avon" country="GB"/>
+  <province name="Ayacucho" country="PE"/>
+  <province name="Aydin" country="TR"/>
+  <province name="Ayeyarwady" country="MYA"/>
+  <province name="Azarbayian e Gharbt" country="IR"/>
+  <province name="Azarbayian e Sharqi" country="IR">
+    <mountain name="Sabalan" altitude="4811" latitude="38.3" logitude="47.8"/>
+  </province>
+  <province name="Azerbaijan" country="AZ"/>
+  <province name="Azores" country="P">
+    <mountain name="Pico" altitude="2351" latitude="38.5" logitude="-28.4"/>
+  </province>
+  <province name="BE" country="CH"/>
+  <province name="BL" country="CH">
+    <mountain name="Finsteraarhorn" altitude="4274" latitude="46.5" logitude="8.1"/>
+  </province>
+  <province name="BS" country="CH"/>
+  <province name="Babil" country="IRQ"/>
+  <province name="Bacau" country="RO"/>
+  <province name="Bacs Kiskun" country="H"/>
+  <province name="Badakhshoni Kuni" country="TAD">
+    <mountain name="Pik Kommunizma" altitude="7494" latitude="39" logitude="72"/>
+    <mountain name="Pik Lenina" altitude="7134" latitude="39.2" logitude="72.55"/>
+    <mountain name="Pik Revoluzija" altitude="6974" latitude="38.3" logitude="72.2"/>
+    <mountain name="Pik Moskva" altitude="6785" latitude="39" logitude="71.5"/>
+    <mountain name="Pik Karl-Marx" altitude="6726" latitude="38" logitude="71.3"/>
+  </province>
+  <province name="Baden Wurttemberg" country="D">
+    <mountain name="Feldberg" altitude="1493" latitude="47.5" logitude="7.5"/>
+  </province>
+  <province name="Baghdad" country="IRQ"/>
+  <province name="Bago" country="MYA"/>
+  <province name="Bahamas" country="BS"/>
+  <province name="Bahia" country="BR"/>
+  <province name="Bahr al Ghazal" country="SUD"/>
+  <province name="Bahrain" country="BRN"/>
+  <province name="Baja California" country="MEX"/>
+  <province name="Baja California Sur" country="MEX"/>
+  <province name="Bakhtaran" country="IR"/>
+  <province name="Balearic Islands" country="E"/>
+  <province name="Balikesir" country="TR"/>
+  <province name="Balkan" country="TM"/>
+  <province name="Bandundu" country="ZRE"/>
+  <province name="Bangladesh" country="BD"/>
+  <province name="Baranya" country="H"/>
+  <province name="Barbados" country="BDS"/>
+  <province name="Barinas" country="YV"/>
+  <province name="Bas Zaire" country="ZRE"/>
+  <province name="Basilicata" country="I"/>
+  <province name="Basque Country" country="E"/>
+  <province name="Basse Normandie" country="F"/>
+  <province name="Batman" country="TR"/>
+  <province name="Batys Qazaqstan" country="KAZ"/>
+  <province name="Bayburt" country="TR"/>
+  <province name="Bayern" country="D">
+    <mountain name="Grosser Arber" altitude="1456" latitude="49.1" logitude="13"/>
+    <mountain name="Zugspitze" altitude="2963" latitude="47.3" logitude="11.1"/>
+  </province>
+  <province name="Bedfordshire" country="GB"/>
+  <province name="Beijing (munic.)" country="TJ"/>
+  <province name="Beja" country="P"/>
+  <province name="Bekes" country="H"/>
+  <province name="Belarus" country="BY"/>
+  <province name="Belgorodskaya oblast" country="R"/>
+  <province name="Belize" country="BZ"/>
+  <province name="Bengo" country="ANG"/>
+  <province name="Benguela" country="ANG"/>
+  <province name="Beni Suef" country="ET"/>
+  <province name="Benin" country="BEN"/>
+  <province name="Berkshire" country="GB"/>
+  <province name="Berlin" country="D"/>
+  <province name="Bermuda" country="BERM"/>
+  <province name="Bhutan" country="BHT"/>
+  <province name="Bialostockie" country="PL"/>
+  <province name="Bialskopodlaskie" country="PL"/>
+  <province name="Bie" country="ANG"/>
+  <province name="Bielskie" country="PL"/>
+  <province name="Bihar" country="IND"/>
+  <province name="Bihor" country="RO"/>
+  <province name="Bilecik" country="TR"/>
+  <province name="Bingol" country="TR"/>
+  <province name="Bistrita Nasaud" country="RO"/>
+  <province name="Bitlis" country="TR"/>
+  <province name="Blaenau Gwent" country="GB"/>
+  <province name="Blekinge" country="S"/>
+  <province name="Bocas del Toro" country="PA"/>
+  <province name="Bolivar" country="CO"/>
+  <province name="Bolivar" country="YV"/>
+  <province name="Bolivia" country="BOL">
+    <mountain name="Illampu" altitude="6368" latitude="-15.8" logitude="-68.5"/>
+    <mountain name="Illimani" altitude="6439" latitude="-16.65" logitude="-67.8"/>
+    <mountain name="Sajama" altitude="6542" latitude="-18.1" logitude="-68.9"/>
+    <mountain name="Licancabur" altitude="5920" latitude="-22.8" logitude="-67.9"/>
+  </province>
+  <province name="Bolu" country="TR"/>
+  <province name="Borders" country="GB"/>
+  <province name="Borsod Abauj Zemplen" country="H"/>
+  <province name="Bosnia and Herzegovina" country="BIH"/>
+  <province name="Botosani" country="RO"/>
+  <province name="Botswana" country="RB"/>
+  <province name="Bourgogne" country="F"/>
+  <province name="Boyaca" country="CO"/>
+  <province name="Boyer Ahmad e Kohkiluyeh" country="IR"/>
+  <province name="Brabant" country="B"/>
+  <province name="Braga" country="P"/>
+  <province name="Braganca" country="P"/>
+  <province name="Braila" country="RO"/>
+  <province name="Brandenburg" country="D"/>
+  <province name="Brasov" country="RO">
+    <mountain name="Moldoveanu" altitude="2544" latitude="45.6" logitude="24.7"/>
+  </province>
+  <province name="Bremen" country="D"/>
+  <province name="Bretagne" country="F"/>
+  <province name="Bridgend" country="GB"/>
+  <province name="British Columbia" country="CDN">
+    <mountain name="Mt Fairweather" altitude="4663" latitude="58.9" logitude="-137.5"/>
+    <mountain name="Mt Waddington" altitude="4019" latitude="51.4" logitude="-125.26"/>
+    <mountain name="Mt Robson" altitude="3954" latitude="52.3" logitude="-119.1"/>
+    <mountain name="Mt Columbia" altitude="3747" latitude="52.15" logitude="-117.44"/>
+  </province>
+  <province name="British Virgin Islands" country="BVIR"/>
+  <province name="Brunei" country="BRU"/>
+  <province name="Bryanskaya oblast" country="R"/>
+  <province name="Buckinghamshire" country="GB"/>
+  <province name="Bucuresti" country="RO"/>
+  <province name="Budapest (munic.)" country="H"/>
+  <province name="Buenos Aires" country="RA"/>
+  <province name="Bukhoro" country="UZB"/>
+  <province name="Bulgaria" country="BG">
+    <mountain name="Musala" altitude="2925" latitude="42.2" logitude="23.6"/>
+  </province>
+  <province name="Bur Said (munic.)" country="ET"/>
+  <province name="Burdur" country="TR"/>
+  <province name="Burgenland" country="A"/>
+  <province name="Burkina Faso" country="BF"/>
+  <province name="Bursa" country="TR"/>
+  <province name="Burundi" country="BI"/>
+  <province name="Bushehr" country="IR"/>
+  <province name="Buskerud" country="N"/>
+  <province name="Buzau" country="RO"/>
+  <province name="Bydgoskie" country="PL"/>
+  <province name="Cabinda" country="ANG"/>
+  <province name="Cabo Delgado" country="MOC"/>
+  <province name="Caerphilly" country="GB"/>
+  <province name="Cajamarca" country="PE"/>
+  <province name="Calabria" country="I"/>
+  <province name="Calarasi" country="RO"/>
+  <province name="Caldas" country="CO"/>
+  <province name="California" country="USA">
+    <mountain name="Mt Whitney" altitude="4418" latitude="36.6" logitude="-118.2"/>
+    <mountain name="Boundary Peak" altitude="4006" latitude="37.9" logitude="-118.3"/>
+  </province>
+  <province name="Callao" country="PE"/>
+  <province name="Camaguey" country="C"/>
+  <province name="Cambodia" country="K"/>
+  <province name="Cambridgeshire" country="GB"/>
+  <province name="Campania" country="I">
+    <mountain name="Vesuv" altitude="1281" latitude="40.8" logitude="14.4"/>
+  </province>
+  <province name="Campeche" country="MEX"/>
+  <province name="Canakkale" country="TR"/>
+  <province name="Canary Islands" country="E">
+    <mountain name="Pico de Teide" altitude="3718" latitude="28.3" logitude="-16.6"/>
+    <mountain name="Pico de los Nieves" altitude="1949" latitude="25.95" logitude="-15.6"/>
+    <mountain name="Roque de los Muchachos" altitude="2426" latitude="28.75" logitude="-17.9"/>
+  </province>
+  <province name="Cankiri" country="TR"/>
+  <province name="Cantabria" country="E"/>
+  <province name="Cape Verde" country="CV">
+    <mountain name="Fogo" altitude="2829" latitude="14.95" logitude="-24.4"/>
+  </province>
+  <province name="Caqueta" country="CO"/>
+  <province name="Carabobo" country="YV"/>
+  <province name="Caras Severin" country="RO"/>
+  <province name="Cardiff" country="GB"/>
+  <province name="Carinthia" country="A">
+    <mountain name="Grossglockner" altitude="3797" latitude="47" logitude="12.5"/>
+  </province>
+  <province name="Carmarthenshire" country="GB"/>
+  <province name="Cartago" country="CR">
+    <mountain name="Irazu" altitude="3432" latitude="10" logitude="-83.9"/>
+    <mountain name="Cerro Chirripo" altitude="3819" latitude="9.5" logitude="-83.5"/>
+  </province>
+  <province name="Casanare" country="CO"/>
+  <province name="Castelo Branco" country="P"/>
+  <province name="Castile La Mancha" country="E"/>
+  <province name="Castile and Leon" country="E">
+    <mountain name="Torre de Cerredo" altitude="2648" latitude="43.2" logitude="4.85"/>
+    <mountain name="Pico de Almanzor" altitude="2648" latitude="40.25" logitude="-5.3"/>
+    <mountain name="Moncayo" altitude="2313" latitude="41.8" logitude="1.85"/>
+  </province>
+  <province name="Catalonia" country="E"/>
+  <province name="Catamarca" country="RA"/>
+  <province name="Cauca" country="CO"/>
+  <province name="Cayman Islands" country="CAYM"/>
+  <province name="Ceara" country="BR"/>
+  <province name="Central" country="EAK"/>
+  <province name="Central" country="GB"/>
+  <province name="Central" country="IL"/>
+  <province name="Central" country="Z"/>
+  <province name="Central African Republic" country="RCA"/>
+  <province name="Centre" country="CAM"/>
+  <province name="Centre" country="F"/>
+  <province name="Ceredigion" country="GB"/>
+  <province name="Cesar" country="CO"/>
+  <province name="Chaco" country="RA"/>
+  <province name="Chad" country="TCH">
+    <mountain name="Emi Kussi" altitude="3415" latitude="20" logitude="18.5"/>
+  </province>
+  <province name="Chahar Mahal e Bakhtiari" country="IR">
+    <mountain name="Zard Kuh" altitude="4550" latitude="32.35" logitude="50.1"/>
+  </province>
+  <province name="Champagne Ardenne" country="F"/>
+  <province name="Chandigarh" country="IND"/>
+  <province name="Chechen Rep." country="R"/>
+  <province name="Chelmskie" country="PL"/>
+  <province name="Chelyabinskaya oblast" country="R"/>
+  <province name="Cherkaska" country="UA"/>
+  <province name="Chernihivska" country="UA"/>
+  <province name="Chernivetska" country="UA"/>
+  <province name="Cheshire" country="GB"/>
+  <province name="Chiapas" country="MEX"/>
+  <province name="Chiba" country="J"/>
+  <province name="Chihuahua" country="MEX"/>
+  <province name="Chile" country="RCH">
+    <mountain name="Licancabur" altitude="5920" latitude="-22.8" logitude="-67.9"/>
+    <mountain name="Llullaillaco" altitude="6739" latitude="-24.7" logitude="-68.5"/>
+    <mountain name="Ojos del Salado" altitude="6893" latitude="-27.1" logitude="-68.5"/>
+  </province>
+  <province name="Chin" country="MYA"/>
+  <province name="Chiriqui" country="PA"/>
+  <province name="Chitinskaya oblast" country="R"/>
+  <province name="Choco" country="CO">
+    <mountain name="Nevado del Ruiz" altitude="5389" latitude="4.9" logitude="-75.3"/>
+  </province>
+  <province name="Choluteca" country="HCA"/>
+  <province name="Christmas Island" country="XMAS"/>
+  <province name="Chubut" country="RA"/>
+  <province name="Chukotsky ao" country="R"/>
+  <province name="Chuvash Republic" country="R"/>
+  <province name="Ciechanowskie" country="PL"/>
+  <province name="Ciego de Avila" country="C"/>
+  <province name="Cienfuegos" country="C"/>
+  <province name="Ciudad de la Habana" country="C"/>
+  <province name="Cleveland" country="GB"/>
+  <province name="Cluj" country="RO"/>
+  <province name="Coahuila" country="MEX"/>
+  <province name="Coast" country="EAK"/>
+  <province name="Cocle" country="PA"/>
+  <province name="Cocos Islands" country="COCO"/>
+  <province name="Coimbra" country="P"/>
+  <province name="Cojedes" country="YV"/>
+  <province name="Colima" country="MEX"/>
+  <province name="Colon" country="HCA"/>
+  <province name="Colon" country="PA"/>
+  <province name="Colorado" country="USA">
+    <mountain name="Mt Elbert" altitude="4401" latitude="39.1" logitude="-106.4"/>
+    <mountain name="Pikes Peak" altitude="4302" latitude="38.8" logitude="-105"/>
+  </province>
+  <province name="Comarca de San Blas" country="PA"/>
+  <province name="Comayagua" country="HCA"/>
+  <province name="Comoros" country="COM"/>
+  <province name="Congo" country="RCB"/>
+  <province name="Connecticut" country="USA"/>
+  <province name="Constanta" country="RO"/>
+  <province name="Cook Islands" country="COOK"/>
+  <province name="Copan" country="HCA"/>
+  <province name="Copperbelt" country="Z"/>
+  <province name="Cordoba" country="CO"/>
+  <province name="Cordoba" country="RA"/>
+  <province name="Cornwall" country="GB"/>
+  <province name="Corrientes" country="RA"/>
+  <province name="Corse" country="F">
+    <mountain name="Monte Cinto" altitude="2706" latitude="42.4" logitude="8.9"/>
+  </province>
+  <province name="Cortes" country="HCA"/>
+  <province name="Corum" country="TR"/>
+  <province name="Cote dIvoire" country="CI"/>
+  <province name="Cote/Littoral" country="CAM"/>
+  <province name="Covasna" country="RO"/>
+  <province name="Croatia" country="HR"/>
+  <province name="Csongrad" country="H"/>
+  <province name="Cuando Cubango" country="ANG"/>
+  <province name="Cuanza Norte" country="ANG"/>
+  <province name="Cuanza Sul" country="ANG"/>
+  <province name="Cumbria" country="GB"/>
+  <province name="Cundinamarca" country="CO"/>
+  <province name="Cunene" country="ANG"/>
+  <province name="Cuzco" country="PE">
+    <mountain name="Ausangate" altitude="6336" latitude="-13.8" logitude="-71.2"/>
+  </province>
+  <province name="Cyprus" country="CY">
+    <mountain name="Olympos" altitude="1952" latitude="34.9" logitude="32.85"/>
+  </province>
+  <province name="Czestochowskie" country="PL"/>
+  <province name="Dadra and Nagar Haveli" country="IND"/>
+  <province name="Dahuk" country="IRQ"/>
+  <province name="Dakar" country="SN"/>
+  <province name="Dalarna" country="S"/>
+  <province name="Daman and Diu" country="IND"/>
+  <province name="Daressalam" country="EAT"/>
+  <province name="Darfur" country="SUD">
+    <mountain name="Jabal Marra" altitude="3088" latitude="13" logitude="24.6"/>
+  </province>
+  <province name="Darien" country="PA"/>
+  <province name="Dashhowuz" country="TM"/>
+  <province name="Debrecen (munic.)" country="H"/>
+  <province name="Delaware" country="USA"/>
+  <province name="Delhi" country="IND"/>
+  <province name="Delta Amacuro" country="YV"/>
+  <province name="Denbighshire" country="GB"/>
+  <province name="Denizli" country="TR"/>
+  <province name="Denmark" country="DK"/>
+  <province name="Derbyshire" country="GB"/>
+  <province name="Devon" country="GB"/>
+  <province name="Dhi Qar" country="IRQ"/>
+  <province name="Dhytiki Ellas" country="GR"/>
+  <province name="Dhytiki Makedhonia" country="GR"/>
+  <province name="Dimbovita" country="RO"/>
+  <province name="Diourbel" country="SN"/>
+  <province name="Distr. Columbia" country="USA"/>
+  <province name="Distrito Federal" country="BR"/>
+  <province name="Distrito Federal" country="MEX"/>
+  <province name="Distrito Federal" country="RA"/>
+  <province name="Distrito Federal" country="YV"/>
+  <province name="Diyala" country="IRQ"/>
+  <province name="Diyarbakir" country="TR"/>
+  <province name="Djibouti" country="DJI"/>
+  <province name="Dnipropetrovska" country="UA"/>
+  <province name="Dodoma" country="EAT"/>
+  <province name="Dolj" country="RO"/>
+  <province name="Dominica" country="WD">
+    <mountain name="Morne Diablotins" altitude="1447" latitude="15.5" logitude="-61.4"/>
+  </province>
+  <province name="Dominican Republic" country="DOM">
+    <mountain name="Pico Duarte" altitude="3098" latitude="18.3" logitude="-71.3"/>
+  </province>
+  <province name="Donetska" country="UA"/>
+  <province name="Dorset" country="GB"/>
+  <province name="Drenthe" country="NL"/>
+  <province name="Dubayy" country="UAE"/>
+  <province name="Dumfries and Galloway" country="GB"/>
+  <province name="Dumyat" country="ET"/>
+  <province name="Durango" country="MEX"/>
+  <province name="Durham" country="GB"/>
+  <province name="Dushanbe (munic.)" country="TAD"/>
+  <province name="East Flanders" country="B"/>
+  <province name="East Sussex" country="GB"/>
+  <province name="Eastern" country="EAK">
+    <mountain name="Kenia" altitude="5199" latitude=".15" logitude="37.3"/>
+  </province>
+  <province name="Eastern" country="Z"/>
+  <province name="Eastern Cape" country="RSA"/>
+  <province name="Ecuador" country="EC">
+    <mountain name="Cayambe" altitude="5796" latitude=".1" logitude="-78"/>
+    <mountain name="Cotopaxi" altitude="5897" latitude="-.7" logitude="-78.4"/>
+    <mountain name="Chimborazo" altitude="6287" latitude="-1.2" logitude="-78.5"/>
+  </province>
+  <province name="Edirne" country="TR"/>
+  <province name="Ehime" country="J"/>
+  <province name="El Bahr el Ahmar" country="ET"/>
+  <province name="El Buhayra" country="ET"/>
+  <province name="El Daqahliya" country="ET"/>
+  <province name="El Faiyum" country="ET"/>
+  <province name="El Gharbiya" country="ET"/>
+  <province name="El Giza" country="ET"/>
+  <province name="El Iskandariya" country="ET"/>
+  <province name="El Minufiya" country="ET"/>
+  <province name="El Minya" country="ET"/>
+  <province name="El Paraiso" country="HCA"/>
+  <province name="El Qahira" country="ET"/>
+  <province name="El Qalubiya" country="ET"/>
+  <province name="El Salvador" country="ES"/>
+  <province name="El Suweiz" country="ET"/>
+  <province name="El Wadi el Jadid" country="ET"/>
+  <province name="Elazig" country="TR"/>
+  <province name="Elblaskie" country="PL"/>
+  <province name="Emilia Romagna" country="I">
+    <mountain name="Monte Falterona" altitude="1654" latitude="43.9" logitude="11.7"/>
+  </province>
+  <province name="Entre Rios" country="RA"/>
+  <province name="Equateur" country="ZRE"/>
+  <province name="Equatorial Guinea" country="GQ">
+    <mountain name="Pico Basile" altitude="3011" latitude="3.5" logitude="8.7"/>
+  </province>
+  <province name="Eritrea" country="ER"/>
+  <province name="Erzincan" country="TR"/>
+  <province name="Erzurum" country="TR"/>
+  <province name="Esfahan" country="IR"/>
+  <province name="Eskisehir" country="TR"/>
+  <province name="Espirito Santo" country="BR"/>
+  <province name="Essex" country="GB"/>
+  <province name="Est" country="CAM"/>
+  <province name="Estonia" country="EW"/>
+  <province name="Estremadura" country="E"/>
+  <province name="Ethiopia" country="ETH">
+    <mountain name="Ras Daschan Terara" altitude="4533" latitude="13.2" logitude="38.4"/>
+  </province>
+  <province name="Evora" country="P"/>
+  <province name="FR" country="CH"/>
+  <province name="Falcon" country="YV"/>
+  <province name="Falkland Islands" country="FALK"/>
+  <province name="Farghona" country="UZB"/>
+  <province name="Faroe Islands" country="FARX"/>
+  <province name="Fars" country="IR"/>
+  <province name="Fatick" country="SN"/>
+  <province name="Fed. Terr. of Kuala Lumpur" country="MAL"/>
+  <province name="Fed. Terr. of Labuan" country="MAL"/>
+  <province name="Fejer" country="H"/>
+  <province name="Fianarantsoa" country="RM">
+    <mountain name="Andringitra" altitude="2658" latitude="-22.5" logitude="47"/>
+  </province>
+  <province name="Fife" country="GB"/>
+  <province name="Fiji" country="FJI">
+    <mountain name="Mt.Victoria" altitude="1323" latitude="-17.8" logitude="178"/>
+  </province>
+  <province name="Finnmark" country="N"/>
+  <province name="Flevoland" country="NL"/>
+  <province name="Flintshire" country="GB"/>
+  <province name="Florida" country="USA"/>
+  <province name="Formosa" country="RA"/>
+  <province name="Franche Comte" country="F"/>
+  <province name="Francisco Morazan" country="HCA"/>
+  <province name="Free State" country="RSA"/>
+  <province name="French Guiana" country="FGU"/>
+  <province name="French Polynesia" country="FPOL">
+    <mountain name="Mont Orohena" altitude="2241" latitude="-17.6" logitude="-149.5"/>
+  </province>
+  <province name="Friesland" country="NL"/>
+  <province name="Friuli Venezia Giulia" country="I"/>
+  <province name="Fujian" country="TJ"/>
+  <province name="Fukui" country="J"/>
+  <province name="Fukuoka" country="J"/>
+  <province name="Fukushima" country="J"/>
+  <province name="GE" country="CH"/>
+  <province name="GL" country="CH"/>
+  <province name="GR" country="CH">
+    <mountain name="Piz Bernina" altitude="4048" latitude="46.4" logitude="9.9"/>
+    <mountain name="Crap_Sogn_Gion" altitude="2228" latitude="46.85" logitude="9.2"/>
+  </province>
+  <province name="Gabon" country="G"/>
+  <province name="Galati" country="RO"/>
+  <province name="Galicia" country="E"/>
+  <province name="Gambia" country="WAG"/>
+  <province name="Gansu" country="TJ"/>
+  <province name="Gauteng" country="RSA"/>
+  <province name="Gavleborg" country="S"/>
+  <province name="Gaza" country="MOC"/>
+  <province name="Gaza Strip" country="GAZA"/>
+  <province name="Gaziantep" country="TR"/>
+  <province name="Gdanskie" country="PL"/>
+  <province name="Gelderland" country="NL"/>
+  <province name="Georgia" country="GE">
+    <mountain name="Kasbek" altitude="5033" latitude="42.42" logitude="44.31"/>
+  </province>
+  <province name="Georgia" country="USA"/>
+  <province name="Ghana" country="GH"/>
+  <province name="Gibraltar" country="GBZ"/>
+  <province name="Gifu" country="J">
+    <mountain name="Hotaka-Dake" altitude="3190" latitude="36" logitude="138"/>
+  </province>
+  <province name="Gilan" country="IR"/>
+  <province name="Giresun" country="TR"/>
+  <province name="Giurgiu" country="RO"/>
+  <province name="Gloucestershire" country="GB"/>
+  <province name="Goa" country="IND"/>
+  <province name="Goias" country="BR"/>
+  <province name="Gorj" country="RO"/>
+  <province name="Gorzowskie" country="PL"/>
+  <province name="Goteborg och Bohus" country="S"/>
+  <province name="Gotland" country="S"/>
+  <province name="Gracias a Dios" country="HCA"/>
+  <province name="Grampian" country="GB"/>
+  <province name="Granma" country="C">
+    <mountain name="Pico Turquino" altitude="1974" latitude="20" logitude="-76.8"/>
+  </province>
+  <province name="Greater London" country="GB"/>
+  <province name="Greater Manchester" country="GB"/>
+  <province name="Greenland" country="GROX"/>
+  <province name="Grenada" country="WG"/>
+  <province name="Groningen" country="NL"/>
+  <province name="Guadeloupe" country="GUAD">
+    <mountain name="La Soufriere" altitude="1467" latitude="16.05" logitude="-61.65"/>
+  </province>
+  <province name="Guainia" country="CO"/>
+  <province name="Guajira, La" country="CO"/>
+  <province name="Guam" country="GUAM"/>
+  <province name="Guanacaste" country="CR"/>
+  <province name="Guanajuato" country="MEX"/>
+  <province name="Guangdong" country="TJ"/>
+  <province name="Guangxi Zhuangzu" country="TJ"/>
+  <province name="Guantanamo" country="C"/>
+  <province name="Guarda" country="P">
+    <mountain name="Torre de Estrela" altitude="1993" latitude="40.3" logitude="-7.6"/>
+  </province>
+  <province name="Guarico" country="YV"/>
+  <province name="Guatemala" country="GCA">
+    <mountain name="Tajumulco" altitude="4220" latitude="15" logitude="-91.9"/>
+  </province>
+  <province name="Guaviare" country="CO"/>
+  <province name="Guernsey" country="GBG"/>
+  <province name="Guerrero" country="MEX"/>
+  <province name="Guinea" country="RG"/>
+  <province name="Guinea-Bissau" country="GNB"/>
+  <province name="Guizhou" country="TJ"/>
+  <province name="Gujarat" country="IND"/>
+  <province name="Gumma" country="J"/>
+  <province name="Gumushane" country="TR"/>
+  <province name="Guyana" country="GUY"/>
+  <province name="Gwynedd" country="GB"/>
+  <province name="Gyor (munic.)" country="H"/>
+  <province name="Gyor Sopron" country="H"/>
+  <province name="Haeme" country="SF"/>
+  <province name="Haifa" country="IL"/>
+  <province name="Hainan" country="TJ"/>
+  <province name="Hainaut" country="B"/>
+  <province name="Haiti" country="RH"/>
+  <province name="Hajdu Bihar" country="H"/>
+  <province name="Hakkari" country="TR"/>
+  <province name="Halland" country="S"/>
+  <province name="Hamadan" country="IR"/>
+  <province name="Hamburg" country="D"/>
+  <province name="Hampshire" country="GB"/>
+  <province name="Harghita" country="RO"/>
+  <province name="Haryana" country="IND"/>
+  <province name="Hatay" country="TR"/>
+  <province name="Haut Zaire" country="ZRE"/>
+  <province name="Haute Normandie" country="F"/>
+  <province name="Hawaii" country="USA">
+    <mountain name="Mauna Kea" altitude="4214" latitude="19.6" logitude="-155.45"/>
+    <mountain name="Mauna Loa" altitude="4170" latitude="19.5" logitude="-155.6"/>
+    <mountain name="Haleakala" altitude="3055" latitude="20.7" logitude="-156.25"/>
+  </province>
+  <province name="Hebei" country="TJ"/>
+  <province name="Hedmark" country="N"/>
+  <province name="Heilongjiang" country="TJ"/>
+  <province name="Henan" country="TJ"/>
+  <province name="Heredia" country="CR"/>
+  <province name="Hereford and Worcester" country="GB"/>
+  <province name="Herrera" country="PA"/>
+  <province name="Hertfordshire" country="GB"/>
+  <province name="Hessen" country="D"/>
+  <province name="Heves" country="H"/>
+  <province name="Hidalgo" country="MEX"/>
+  <province name="Highland" country="GB">
+    <mountain name="Ben Nevis" altitude="1344" latitude="56.8" logitude="-5"/>
+  </province>
+  <province name="Himachal Pradesh" country="IND"/>
+  <province name="Hiroshima" country="J"/>
+  <province name="Hokkaido" country="J">
+    <mountain name="Asahi-Dake" altitude="2290" latitude="43.65" logitude="142.85"/>
+  </province>
+  <province name="Holguin" country="C"/>
+  <province name="Holy See" country="V"/>
+  <province name="Hong Kong" country="HONX"/>
+  <province name="Hordaland" country="N">
+    <mountain name="Joekul" altitude="1876" latitude="60.3" logitude="7.2"/>
+  </province>
+  <province name="Hormozgan" country="IR"/>
+  <province name="Huambo" country="ANG"/>
+  <province name="Huancavelica" country="PE"/>
+  <province name="Huanuco" country="PE"/>
+  <province name="Hubei" country="TJ"/>
+  <province name="Huila" country="ANG"/>
+  <province name="Huila" country="CO">
+    <mountain name="Nevado del Huila" altitude="5750" latitude="2.9" logitude="-76"/>
+  </province>
+  <province name="Humberside" country="GB"/>
+  <province name="Hunan" country="TJ"/>
+  <province name="Hunedoara" country="RO"/>
+  <province name="Hyogo" country="J"/>
+  <province name="Ialomita" country="RO"/>
+  <province name="Iasi" country="RO"/>
+  <province name="Ibaraki" country="J"/>
+  <province name="Ica" country="PE"/>
+  <province name="Icel" country="TR"/>
+  <province name="Iceland" country="IS">
+    <mountain name="Oeraefajoekull" altitude="2119" latitude="64.1" logitude="-17"/>
+    <mountain name="Snoefell" altitude="1833" latitude="64.5" logitude="-15.2"/>
+  </province>
+  <province name="Idaho" country="USA">
+    <mountain name="Borah Peak" altitude="3859" latitude="44.1" logitude="-113.8"/>
+  </province>
+  <province name="Ilam" country="IR"/>
+  <province name="Ile de France" country="F"/>
+  <province name="Illinois" country="USA"/>
+  <province name="Indiana" country="USA"/>
+  <province name="Indonesia" country="RI">
+    <mountain name="Leuser" altitude="3466" latitude="3" logitude="98"/>
+    <mountain name="Kerinci" altitude="3805" latitude="-1.7" logitude="101.45"/>
+    <mountain name="Krakatau" altitude="813" latitude="-6.1" logitude="105.4"/>
+    <mountain name="Merapi" altitude="2914" latitude="-7.5" logitude="110.4"/>
+    <mountain name="Semeru" altitude="3676" latitude="-8.1" logitude="112.9"/>
+    <mountain name="Gunung Agung" altitude="3142" latitude="-8.3" logitude="115.5"/>
+    <mountain name="Rinjani" altitude="3726" latitude="-8.4" logitude="116.5"/>
+    <mountain name="Tambora" altitude="2850" latitude="-8.2" logitude="118"/>
+    <mountain name="Rantekombola" altitude="3455" latitude="-3.6" logitude="120"/>
+    <mountain name="Gunung Binaiya" altitude="3027" latitude="-3.1" logitude="129.3"/>
+    <mountain name="Puncak Jaya" altitude="4884" latitude="-4.1" logitude="137.11"/>
+  </province>
+  <province name="Inhambane" country="MOC"/>
+  <province name="Intibuca" country="HCA"/>
+  <province name="Ionioi Nisoi" country="GR"/>
+  <province name="Iowa" country="USA"/>
+  <province name="Ipiros" country="GR"/>
+  <province name="Ireland" country="IRL"/>
+  <province name="Iringa" country="EAT"/>
+  <province name="Irkutskaya oblast" country="R"/>
+  <province name="Ishikawa" country="J"/>
+  <province name="Isla de la Juventud" country="C"/>
+  <province name="Islas de la Bahia" country="HCA"/>
+  <province name="Isle of Wight" country="GB"/>
+  <province name="Ismailiya" country="ET"/>
+  <province name="Isparta" country="TR"/>
+  <province name="Istanbul" country="TR"/>
+  <province name="Ivano Frankivska" country="UA"/>
+  <province name="Ivanovskaya oblast" country="R"/>
+  <province name="Iwate" country="J"/>
+  <province name="Izmir" country="TR"/>
+  <province name="JU" country="CH"/>
+  <province name="Jalisco" country="MEX">
+    <mountain name="Nevado de Colima" altitude="4330" latitude="20" logitude="-104"/>
+  </province>
+  <province name="Jamaica" country="JA">
+    <mountain name="Blue Mountain Peak" altitude="2256" latitude="18.1" logitude="-76.4"/>
+  </province>
+  <province name="Jammu and Kashmir" country="IND"/>
+  <province name="Jamtland" country="S"/>
+  <province name="Jeleniogorskie" country="PL"/>
+  <province name="Jersey" country="GBJ"/>
+  <province name="Jiangsu" country="TJ"/>
+  <province name="Jiangxi" country="TJ"/>
+  <province name="Jihocesky" country="CZ"/>
+  <province name="Jihomoravsky" country="CZ"/>
+  <province name="Jilin" country="TJ">
+    <mountain name="Changbai Shan" altitude="2744" latitude="42" logitude="128.1"/>
+  </province>
+  <province name="Jizzakh" country="UZB"/>
+  <province name="Johor" country="MAL"/>
+  <province name="Jonkoping" country="S"/>
+  <province name="Jordan" country="JOR"/>
+  <province name="Jujuy" country="RA"/>
+  <province name="Junin" country="PE"/>
+  <province name="Kabardino Balkar Rep." country="R">
+    <mountain name="Elbrus" altitude="5642" latitude="43.21" logitude="42.26"/>
+  </province>
+  <province name="Kachin" country="MYA"/>
+  <province name="Kafr el Sheikh" country="ET"/>
+  <province name="Kagawa" country="J"/>
+  <province name="Kagera" country="EAT"/>
+  <province name="Kagoshima" country="J"/>
+  <province name="Kaliningradskaya oblast" country="R"/>
+  <province name="Kaliskie" country="PL"/>
+  <province name="Kalmar" country="S"/>
+  <province name="Kaluzhskaya oblast" country="R"/>
+  <province name="Kamchatskaya oblast" country="R">
+    <mountain name="Kljutschewskaja Sopka" altitude="4750" latitude="56.1" logitude="160.6"/>
+  </province>
+  <province name="Kanagawa" country="J"/>
+  <province name="Kansas" country="USA"/>
+  <province name="Kaolack" country="SN"/>
+  <province name="Karachayevo Cherkessk Rep." country="R"/>
+  <province name="Karaman" country="TR"/>
+  <province name="Karamanmaras" country="TR"/>
+  <province name="Karbala" country="IRQ"/>
+  <province name="Karnataka" country="IND"/>
+  <province name="Kars" country="TR"/>
+  <province name="Kasai Occidental" country="ZRE"/>
+  <province name="Kasai Oriental" country="ZRE"/>
+  <province name="Kaskazini Pemba" country="EAT"/>
+  <province name="Kaskazini Ujunga" country="EAT"/>
+  <province name="Kastamonu" country="TR"/>
+  <province name="Katowickie" country="PL"/>
+  <province name="Kayah" country="MYA"/>
+  <province name="Kayin" country="MYA"/>
+  <province name="Kayseri" country="TR"/>
+  <province name="Kedah" country="MAL"/>
+  <province name="Kedriki Makedhonia" country="GR">
+    <mountain name="Olymp" altitude="2917" latitude="40.1" logitude="22.35"/>
+  </province>
+  <province name="Kelantan" country="MAL">
+    <mountain name="Tahan" altitude="2190" latitude="4" logitude="108"/>
+  </province>
+  <province name="Kemerovskaya oblast" country="R"/>
+  <province name="Kent" country="GB"/>
+  <province name="Kentucky" country="USA"/>
+  <province name="Kerala" country="IND"/>
+  <province name="Kerman" country="IR"/>
+  <province name="Khabarovskiy kray" country="R"/>
+  <province name="Kharkivska" country="UA"/>
+  <province name="Khatlon" country="TAD"/>
+  <province name="Khersonska" country="UA"/>
+  <province name="Khmelnytska" country="UA"/>
+  <province name="Khorasan" country="IR"/>
+  <province name="Khorazm" country="UZB"/>
+  <province name="Khujand" country="TAD"/>
+  <province name="Khuzestan" country="IR"/>
+  <province name="Kieleckie" country="PL"/>
+  <province name="Kigoma" country="EAT"/>
+  <province name="Kilimanjaro" country="EAT">
+    <mountain name="Kilimanjaro" altitude="5895" latitude="-3.05" logitude="37.35"/>
+    <mountain name="Mawenzi" altitude="5148" latitude="-3.1" logitude="37.45"/>
+  </province>
+  <province name="Kinshasa" country="ZRE"/>
+  <province name="Kiribati" country="KIR"/>
+  <province name="Kirikkale" country="TR"/>
+  <province name="Kirklareli" country="TR"/>
+  <province name="Kirovohradska" country="UA"/>
+  <province name="Kirovskaya oblast" country="R"/>
+  <province name="Kirsehir" country="TR"/>
+  <province name="Kivu" country="ZRE">
+    <mountain name="Ruwenzori" altitude="5109" latitude=".4" logitude="29.9"/>
+    <mountain name="Karisimbi" altitude="4507" latitude="-1.5" logitude="29.45"/>
+  </province>
+  <province name="Kocaeli" country="TR"/>
+  <province name="Kochi" country="J"/>
+  <province name="Kokchetau" country="KAZ"/>
+  <province name="Kolda" country="SN"/>
+  <province name="Komarom Esztergom" country="H"/>
+  <province name="Koninskie" country="PL"/>
+  <province name="Konya" country="TR"/>
+  <province name="Kordestan" country="IR"/>
+  <province name="Kosovo" country="KOS"/>
+  <province name="Kostromskaya oblast" country="R"/>
+  <province name="Koszalinskie" country="PL"/>
+  <province name="Krakowskie" country="PL"/>
+  <province name="Krasnodarsky kray" country="R"/>
+  <province name="Krasnoyarskiy kray" country="R"/>
+  <province name="Kristianstad" country="S"/>
+  <province name="Kriti" country="GR">
+    <mountain name="Psiloritis" altitude="2456" latitude="35.2" logitude="24.7"/>
+  </province>
+  <province name="Kronoberg" country="S"/>
+  <province name="Krosnienskie" country="PL"/>
+  <province name="Krym" country="UA"/>
+  <province name="Kulob" country="TAD"/>
+  <province name="Kumamoto" country="J"/>
+  <province name="Kuopio" country="SF"/>
+  <province name="Kurdufan" country="SUD"/>
+  <province name="Kurganskaya oblast" country="R"/>
+  <province name="Kurskaya oblast" country="R"/>
+  <province name="Kusini Pemba" country="EAT"/>
+  <province name="Kusini Ujunga" country="EAT"/>
+  <province name="Kutahya" country="TR"/>
+  <province name="Kuwait" country="KWT"/>
+  <province name="Kwazulu Natal" country="RSA">
+    <mountain name="Cathkin Peak" altitude="3181" latitude="-29.1" logitude="29.35"/>
+  </province>
+  <province name="Kymi" country="SF"/>
+  <province name="Kyoto" country="J"/>
+  <province name="Kyrgyzstan" country="KGZ">
+    <mountain name="Pik Chan-Tengri" altitude="6995" latitude="43" logitude="80"/>
+    <mountain name="Pik Pobeda" altitude="7439" latitude="42" logitude="80.1"/>
+    <mountain name="Pik Lenina" altitude="7134" latitude="39.2" logitude="72.55"/>
+  </province>
+  <province name="Kyyivska" country="UA"/>
+  <province name="LU" country="CH"/>
+  <province name="La Habana" country="C"/>
+  <province name="La Libertad" country="PE"/>
+  <province name="La Pampa" country="RA"/>
+  <province name="La Paz" country="HCA"/>
+  <province name="La Rioja" country="RA">
+    <mountain name="Monte Pissis" altitude="6795" latitude="-27.8" logitude="-68.85"/>
+  </province>
+  <province name="Lakshadweep Is." country="IND"/>
+  <province name="Lambayeque" country="PE"/>
+  <province name="Lancashire" country="GB"/>
+  <province name="Languedoc Roussillon" country="F"/>
+  <province name="Laos" country="LAO"/>
+  <province name="Lappia" country="SF">
+    <mountain name="Haltiatunturi" altitude="1328" latitude="67" logitude="21.4"/>
+  </province>
+  <province name="Lara" country="YV"/>
+  <province name="Las Tunas" country="C"/>
+  <province name="Latvia" country="LV"/>
+  <province name="Lazio" country="I"/>
+  <province name="Leban" country="TM"/>
+  <province name="Lebanon" country="RL">
+    <mountain name="Jabal Lubnan" altitude="3088" latitude="34.3" logitude="36.1"/>
+  </province>
+  <province name="Legnickie" country="PL"/>
+  <province name="Leicestershire" country="GB"/>
+  <province name="Leiria" country="P"/>
+  <province name="Lempira" country="HCA"/>
+  <province name="Leningradskaya oblast" country="R"/>
+  <province name="Leninsk (munic.)" country="KAZ"/>
+  <province name="Lesotho" country="LS">
+    <mountain name="Thabana Ntlenyana" altitude="3482" latitude="-29.5" logitude="29.3"/>
+  </province>
+  <province name="Leszczynskie" country="PL"/>
+  <province name="Liaoning" country="TJ"/>
+  <province name="Liberia" country="LB"/>
+  <province name="Libya" country="LAR"/>
+  <province name="Liechtenstein" country="FL"/>
+  <province name="Liege" country="B"/>
+  <province name="Liguria" country="I"/>
+  <province name="Lima" country="PE"/>
+  <province name="Limburg" country="B"/>
+  <province name="Limburg" country="NL"/>
+  <province name="Limon" country="CR">
+    <mountain name="Cerro Chirripo" altitude="3819" latitude="9.5" logitude="-83.5"/>
+  </province>
+  <province name="Limousin" country="F"/>
+  <province name="Limpopo" country="RSA"/>
+  <province name="Lincolnshire" country="GB"/>
+  <province name="Lindi" country="EAT"/>
+  <province name="Lipetskaya oblast" country="R"/>
+  <province name="Lisbon" country="P"/>
+  <province name="Lithuania" country="LT"/>
+  <province name="Lodzkie" country="PL"/>
+  <province name="Lombardia" country="I">
+    <mountain name="Monte Rosa" altitude="4634" latitude="45.9" logitude="7.9"/>
+    <mountain name="Piz Bernina" altitude="4048" latitude="46.4" logitude="9.9"/>
+  </province>
+  <province name="Lomzynskie" country="PL"/>
+  <province name="Lorestan" country="IR"/>
+  <province name="Loreto" country="PE"/>
+  <province name="Lorraine" country="F">
+    <mountain name="Grand Ballon" altitude="1424" latitude="47.9" logitude="7.1"/>
+  </province>
+  <province name="Los Santos" country="PA"/>
+  <province name="Lothian" country="GB"/>
+  <province name="Louga" country="SN"/>
+  <province name="Louisiana" country="USA"/>
+  <province name="Lower Austria" country="A"/>
+  <province name="Luanda" country="ANG"/>
+  <province name="Luapula" country="Z"/>
+  <province name="Lubelskie" country="PL"/>
+  <province name="Luhanska" country="UA"/>
+  <province name="Lunda Norte" country="ANG"/>
+  <province name="Lunda Sul" country="ANG"/>
+  <province name="Lusaka" country="Z"/>
+  <province name="Luxembourg" country="B"/>
+  <province name="Luxembourg" country="L"/>
+  <province name="Lvivska" country="UA"/>
+  <province name="Macau" country="MACX"/>
+  <province name="Macedonia" country="MK">
+    <mountain name="Korab" altitude="2751" latitude="41.4" logitude="20.3"/>
+  </province>
+  <province name="Madeira" country="P">
+    <mountain name="Pico Ruivo" altitude="1861" latitude="31" logitude="-16"/>
+  </province>
+  <province name="Madhya Pradesh" country="IND"/>
+  <province name="Madre de Dios" country="PE"/>
+  <province name="Madrid" country="E"/>
+  <province name="Magadanskaya oblast" country="R"/>
+  <province name="Magdalena" country="CO">
+    <mountain name="Pico Cristobal Colon" altitude="5775" latitude="10.85" logitude="-73.7"/>
+  </province>
+  <province name="Magway" country="MYA"/>
+  <province name="Mahajanga" country="RM"/>
+  <province name="Maharashtra" country="IND"/>
+  <province name="Maine" country="USA"/>
+  <province name="Malanje" country="ANG"/>
+  <province name="Malatya" country="TR"/>
+  <province name="Malawi" country="MW"/>
+  <province name="Maldives" country="MV"/>
+  <province name="Mali" country="RMM"/>
+  <province name="Malmohus" country="S"/>
+  <province name="Malta" country="M"/>
+  <province name="Man" country="GBM"/>
+  <province name="Mandalay" country="MYA"/>
+  <province name="Mangghystau" country="KAZ"/>
+  <province name="Manica" country="MOC"/>
+  <province name="Manipur" country="IND"/>
+  <province name="Manisa" country="TR"/>
+  <province name="Manitoba" country="CDN"/>
+  <province name="Maputo" country="MOC"/>
+  <province name="Maputo (munic.)" country="MOC"/>
+  <province name="Mara" country="EAT"/>
+  <province name="Maramures" country="RO"/>
+  <province name="Maranhao" country="BR"/>
+  <province name="Marche" country="I"/>
+  <province name="Mardin" country="TR"/>
+  <province name="Markazi" country="IR"/>
+  <province name="Marshall Islands" country="MH"/>
+  <province name="Martinique" country="MART">
+    <mountain name="Pelee" altitude="1397" latitude="14.8" logitude="-61.15"/>
+  </province>
+  <province name="Mary" country="TM"/>
+  <province name="Maryland" country="USA"/>
+  <province name="Massachusetts" country="USA"/>
+  <province name="Matanzas" country="C"/>
+  <province name="Mato Grosso" country="BR"/>
+  <province name="Mato Grosso do Sul" country="BR"/>
+  <province name="Matruh" country="ET"/>
+  <province name="Mauritania" country="RIM"/>
+  <province name="Mauritius" country="MS"/>
+  <province name="Mayotte" country="MAYO"/>
+  <province name="Maysan" country="IRQ"/>
+  <province name="Mazandaran" country="IR">
+    <mountain name="Damavand" altitude="5610" latitude="35.95" logitude="52.1"/>
+  </province>
+  <province name="Mbeya" country="EAT"/>
+  <province name="Mecklenburg Vorpommern" country="D"/>
+  <province name="Meghalaya" country="IND"/>
+  <province name="Mehedinti" country="RO"/>
+  <province name="Melaka" country="MAL"/>
+  <province name="Mendoza" country="RA">
+    <mountain name="Aconcagua" altitude="6962" latitude="-32.65" logitude="-70"/>
+    <mountain name="Tupungato" altitude="6550" latitude="-33.35" logitude="-69.87"/>
+  </province>
+  <province name="Merida" country="YV">
+    <mountain name="Pico Bolivar" altitude="4981" latitude="8.6" logitude="-71"/>
+  </province>
+  <province name="Merseyside" country="GB"/>
+  <province name="Merthyr Tydfil" country="GB"/>
+  <province name="Meta" country="CO"/>
+  <province name="Mexico, Estado de" country="MEX">
+    <mountain name="Popocatepetl" altitude="5450" latitude="19" logitude="-98"/>
+    <mountain name="Nevado de Toluca" altitude="4558" latitude="19" logitude="-99"/>
+  </province>
+  <province name="Michigan" country="USA"/>
+  <province name="Michoacan" country="MEX"/>
+  <province name="Micronesia" country="FSM"/>
+  <province name="Midi Pyrenees" country="F">
+    <mountain name="Vignemale" altitude="3298" latitude="42.8" logitude=".15"/>
+  </province>
+  <province name="Mie" country="J"/>
+  <province name="Mikkeli" country="SF"/>
+  <province name="Minas Gerais" country="BR">
+    <mountain name="Pico de Agulhas Negras" altitude="2791" latitude="-22.4" logitude="-44.65"/>
+  </province>
+  <province name="Minnesota" country="USA"/>
+  <province name="Miranda" country="YV"/>
+  <province name="Misiones" country="RA"/>
+  <province name="Miskolc (munic.)" country="H"/>
+  <province name="Mississippi" country="USA"/>
+  <province name="Missouri" country="USA"/>
+  <province name="Miyagi" country="J"/>
+  <province name="Miyazaki" country="J"/>
+  <province name="Mizoram" country="IND"/>
+  <province name="Mjini Magharibi" country="EAT"/>
+  <province name="Moere og Romsdal" country="N"/>
+  <province name="Moldova" country="MD"/>
+  <province name="Molise" country="I"/>
+  <province name="Mon" country="MYA"/>
+  <province name="Monaco" country="MC"/>
+  <province name="Monagas" country="YV"/>
+  <province name="Mongolia" country="MNG"/>
+  <province name="Monmouthshire" country="GB"/>
+  <province name="Montana" country="USA">
+    <mountain name="Granite Peak" altitude="3901" latitude="45" logitude="-109.5"/>
+  </province>
+  <province name="Montenegro" country="MNE"/>
+  <province name="Montserrat" country="MNTS">
+    <mountain name="Soufriere Hills" altitude="1050" latitude="16.7" logitude="-62.2"/>
+  </province>
+  <province name="Moquegua" country="PE"/>
+  <province name="Morelos" country="MEX">
+    <mountain name="Popocatepetl" altitude="5450" latitude="19" logitude="-98"/>
+  </province>
+  <province name="Morocco" country="MA">
+    <mountain name="Tubkhal" altitude="4165" latitude="31" logitude="-8"/>
+    <mountain name="Djebel Aures" altitude="2456" latitude="35.5" logitude="-6.5"/>
+  </province>
+  <province name="Morogoro" country="EAT"/>
+  <province name="Moskovskaya oblast" country="R"/>
+  <province name="Moskva" country="R"/>
+  <province name="Moxico" country="ANG"/>
+  <province name="Mpumalanga" country="RSA"/>
+  <province name="Mtwara" country="EAT"/>
+  <province name="Mugla" country="TR"/>
+  <province name="Murcia" country="E"/>
+  <province name="Mures" country="RO"/>
+  <province name="Murmanskaya oblast" country="R"/>
+  <province name="Mus" country="TR"/>
+  <province name="Mwanza" country="EAT"/>
+  <province name="Mykolayivska" country="UA"/>
+  <province name="NE" country="CH"/>
+  <province name="NW" country="CH"/>
+  <province name="Nagaland" country="IND"/>
+  <province name="Nagano" country="J">
+    <mountain name="Hotaka-Dake" altitude="3190" latitude="36" logitude="138"/>
+  </province>
+  <province name="Nagasaki" country="J"/>
+  <province name="Nairobi" country="EAK"/>
+  <province name="Namangan" country="UZB"/>
+  <province name="Namibe" country="ANG"/>
+  <province name="Namibia" country="NAM"/>
+  <province name="Nampula" country="MOC"/>
+  <province name="Namur" country="B"/>
+  <province name="Nara" country="J"/>
+  <province name="Narino" country="CO"/>
+  <province name="Nauru" country="NAU"/>
+  <province name="Navarre" country="E"/>
+  <province name="Nawoiy" country="UZB"/>
+  <province name="Nayarit" country="MEX"/>
+  <province name="Neamt" country="RO"/>
+  <province name="Neath and Port Talbot" country="GB"/>
+  <province name="Nebraska" country="USA"/>
+  <province name="Negeri Sembilan" country="MAL"/>
+  <province name="Nei Monggol" country="TJ"/>
+  <province name="Nepal" country="NEP">
+    <mountain name="Dhaulagiri" altitude="8167" latitude="28.7" logitude="83.5"/>
+    <mountain name="Annapurna" altitude="8091" latitude="28.6" logitude="83.8"/>
+    <mountain name="Manaslu" altitude="8163" latitude="28.55" logitude="84.6"/>
+    <mountain name="Cho Oyu" altitude="8188" latitude="28.35" logitude="86.65"/>
+    <mountain name="Mount Everest" altitude="8848" latitude="28" logitude="86.9"/>
+    <mountain name="Lhotse" altitude="8516" latitude="28" logitude="86.9"/>
+    <mountain name="Makalu" altitude="8485" latitude="27.9" logitude="87.1"/>
+    <mountain name="Kangchendzonga" altitude="8586" latitude="27.7" logitude="88.1"/>
+  </province>
+  <province name="Netherlands Antilles" country="NA"/>
+  <province name="Neuquen" country="RA"/>
+  <province name="Nevada" country="USA">
+    <mountain name="Boundary Peak" altitude="4006" latitude="37.9" logitude="-118.3"/>
+  </province>
+  <province name="Nevsehir" country="TR"/>
+  <province name="New Brunswick" country="CDN"/>
+  <province name="New Caledonia" country="NCA"/>
+  <province name="New Hampshire" country="USA">
+    <mountain name="Mt Washington" altitude="1917" latitude="44.3" logitude="-71.3"/>
+  </province>
+  <province name="New Jersey" country="USA"/>
+  <province name="New Mexico" country="USA">
+    <mountain name="Wheeler Peak" altitude="4011" latitude="36.55" logitude="-105.4"/>
+  </province>
+  <province name="New South Wales" country="AUS">
+    <mountain name="Mt. Kosciuszko" altitude="2228" latitude="-36.5" logitude="148"/>
+  </province>
+  <province name="New York" country="USA">
+    <mountain name="Mt Marcy" altitude="1629" latitude="44.1" logitude="-73.9"/>
+  </province>
+  <province name="New Zealand" country="NZ">
+    <mountain name="Mt. Cook" altitude="3754" latitude="-43.6" logitude="170.2"/>
+    <mountain name="Ruapehu" altitude="2797" latitude="-39.3" logitude="175.6"/>
+  </province>
+  <province name="Newfoundland" country="CDN"/>
+  <province name="Newport" country="GB"/>
+  <province name="Niassa" country="MOC"/>
+  <province name="Nicaragua" country="NIC">
+    <mountain name="Concepcion" altitude="1700" latitude="11.5" logitude="-85.6"/>
+  </province>
+  <province name="Niedersachsen" country="D"/>
+  <province name="Nigde" country="TR">
+    <mountain name="Demirkazik" altitude="3756" latitude="37.8" logitude="35.2"/>
+  </province>
+  <province name="Niger" country="RN">
+    <mountain name="Tamgak" altitude="1800" latitude="19" logitude="9"/>
+    <mountain name="Mont Greboun" altitude="1944" latitude="20" logitude="9"/>
+  </province>
+  <province name="Nigeria" country="WAN"/>
+  <province name="Niigata" country="J"/>
+  <province name="Nil al Asraq" country="SUD"/>
+  <province name="Ninawa" country="IRQ"/>
+  <province name="Ningxia Huizu" country="TJ"/>
+  <province name="Niue" country="NIUE"/>
+  <province name="Nizhegorodskaya oblast" country="R"/>
+  <province name="Nograd" country="H"/>
+  <province name="Noord Brabant" country="NL"/>
+  <province name="Noord Holland" country="NL"/>
+  <province name="Nord" country="CAM"/>
+  <province name="Nord Pas de Calais" country="F"/>
+  <province name="Nord Trondelag" country="N"/>
+  <province name="Nord extreme" country="CAM"/>
+  <province name="Nordland" country="N">
+    <mountain name="Sulitjelma" altitude="1914" latitude="67.1" logitude="16.2"/>
+  </province>
+  <province name="Nordoueste" country="CAM"/>
+  <province name="Nordrhein Westfalen" country="D"/>
+  <province name="Norfolk" country="GB"/>
+  <province name="Norfolk Island" country="NORF"/>
+  <province name="Norrbotten" country="S">
+    <mountain name="Kebnekaise" altitude="2114" latitude="67.5" logitude="18.3"/>
+    <mountain name="Sarektjokko" altitude="2090" latitude="67.3" logitude="17.4"/>
+    <mountain name="Portefjaellen" altitude="2021" latitude="67.1" logitude="17.4"/>
+    <mountain name="Tarrekaise" altitude="1850" latitude="67" logitude="17.3"/>
+    <mountain name="Sulitjelma" altitude="1914" latitude="67.1" logitude="16.2"/>
+  </province>
+  <province name="Norte de Santander" country="CO"/>
+  <province name="North" country="IL"/>
+  <province name="North Carolina" country="USA">
+    <mountain name="Mt Mitchell" altitude="2037" latitude="35.4" logitude="-82.1"/>
+  </province>
+  <province name="North Dakota" country="USA"/>
+  <province name="North Eastern" country="EAK"/>
+  <province name="North Korea" country="NOK">
+    <mountain name="Changbai Shan" altitude="2744" latitude="42" logitude="128.1"/>
+  </province>
+  <province name="North West" country="RSA"/>
+  <province name="North Yorkshire" country="GB"/>
+  <province name="Northamptonshire" country="GB"/>
+  <province name="Northern" country="Z"/>
+  <province name="Northern Cape" country="RSA"/>
+  <province name="Northern Ireland" country="GB"/>
+  <province name="Northern Mariana Islands" country="NMIS"/>
+  <province name="Northern Territory" country="AUS">
+    <mountain name="Uluru" altitude="869" latitude="-25.3" logitude="131"/>
+  </province>
+  <province name="Northumberland" country="GB"/>
+  <province name="Northwest Territories" country="CDN">
+    <mountain name="Barbeau Peak" altitude="2616" latitude="81.9" logitude="-75"/>
+    <mountain name="Mt. Odin" altitude="2147" latitude="66.55" logitude="-65.6"/>
+  </province>
+  <province name="Northwestern" country="Z"/>
+  <province name="Notion Aiyaion" country="GR"/>
+  <province name="Nottinghamshire" country="GB"/>
+  <province name="Nova Scotia" country="CDN"/>
+  <province name="Novgorodskaya oblast" country="R"/>
+  <province name="Novosibirskaya oblast" country="R"/>
+  <province name="Nowosadeckie" country="PL"/>
+  <province name="Nueva Esparta" country="YV"/>
+  <province name="Nuevo Leon" country="MEX"/>
+  <province name="Nyanza" country="EAK"/>
+  <province name="OW" country="CH"/>
+  <province name="Oaxaca" country="MEX"/>
+  <province name="Ocotepeque" country="HCA"/>
+  <province name="Odeska" country="UA"/>
+  <province name="Oestfold" country="N"/>
+  <province name="Ohio" country="USA"/>
+  <province name="Oita" country="J"/>
+  <province name="Okayama" country="J"/>
+  <province name="Okinawa" country="J"/>
+  <province name="Oklahoma" country="USA"/>
+  <province name="Olancho" country="HCA"/>
+  <province name="Olsztynskie" country="PL"/>
+  <province name="Olt" country="RO"/>
+  <province name="Oman" country="OM"/>
+  <province name="Omskaya oblast" country="R"/>
+  <province name="Ongtustik Qazaqstan" country="KAZ"/>
+  <province name="Ontario" country="CDN"/>
+  <province name="Opolskie" country="PL"/>
+  <province name="Oppland" country="N">
+    <mountain name="Galdhoeppig" altitude="2469" latitude="61.4" logitude="8"/>
+    <mountain name="Glittertind" altitude="2452" latitude="61.4" logitude="8.1"/>
+    <mountain name="Snoehetta" altitude="2286" latitude="62.1" logitude="9"/>
+  </province>
+  <province name="Ordu" country="TR"/>
+  <province name="Orebro" country="S"/>
+  <province name="Oregon" country="USA">
+    <mountain name="Mt Hood" altitude="3424" latitude="45.2" logitude="-121.5"/>
+  </province>
+  <province name="Orenburgskaya oblast" country="R"/>
+  <province name="Orissa" country="IND"/>
+  <province name="Orjolskaya oblast" country="R"/>
+  <province name="Orkneys" country="GB"/>
+  <province name="Osaka" country="J"/>
+  <province name="Oslo" country="N"/>
+  <province name="Ostergotland" country="S"/>
+  <province name="Ostroleckie" country="PL"/>
+  <province name="Ouest" country="CAM"/>
+  <province name="Oulu" country="SF"/>
+  <province name="Outer Hebrides" country="GB"/>
+  <province name="Overijssel" country="NL"/>
+  <province name="Oxfordshire" country="GB"/>
+  <province name="Pahang" country="MAL">
+    <mountain name="Tahan" altitude="2190" latitude="4" logitude="108"/>
+  </province>
+  <province name="Pakistan" country="PK">
+    <mountain name="K2" altitude="8611" latitude="35.9" logitude="76.5"/>
+    <mountain name="Gasherbrum II" altitude="8034" latitude="35.75" logitude="76.65"/>
+    <mountain name="Gasherbrum I" altitude="8080" latitude="35.6" logitude="76.7"/>
+    <mountain name="Broad Peak" altitude="8051" latitude="35.8" logitude="76.6"/>
+    <mountain name="Nanga Parbat" altitude="8125" latitude="35.2" logitude="74.6"/>
+  </province>
+  <province name="Palau" country="PAL"/>
+  <province name="Panama" country="PA"/>
+  <province name="Papua New Guinea" country="PNG">
+    <mountain name="Mt. Wilhelm" altitude="4509" latitude="-5.8" logitude="145"/>
+    <mountain name="Mt. Giluwe" altitude="4368" latitude="-6.05" logitude="143.9"/>
+    <mountain name="Mt. Balbi" altitude="2715" latitude="-5.9" logitude="155"/>
+  </province>
+  <province name="Para" country="BR"/>
+  <province name="Paraguay" country="PY"/>
+  <province name="Paraiba" country="BR"/>
+  <province name="Parana" country="BR"/>
+  <province name="Pasco" country="PE"/>
+  <province name="Pavlodar" country="KAZ"/>
+  <province name="Pays de la Loire" country="F"/>
+  <province name="Pecs (munic.)" country="H"/>
+  <province name="Peloponnisos" country="GR"/>
+  <province name="Pembrokeshire" country="GB"/>
+  <province name="Pennsylvania" country="USA"/>
+  <province name="Penzenskaya oblast" country="R"/>
+  <province name="Perak" country="MAL"/>
+  <province name="Perlis" country="MAL"/>
+  <province name="Permskaya oblast" country="R"/>
+  <province name="Pernambuco" country="BR"/>
+  <province name="Pest" country="H"/>
+  <province name="Philippines" country="RP">
+    <mountain name="Pulog" altitude="2928" latitude="17" logitude="121"/>
+    <mountain name="Pinatubo" altitude="1486" latitude="15.1" logitude="120.3"/>
+    <mountain name="Mount Apo" altitude="2954" latitude="7" logitude="125.45"/>
+    <mountain name="Kanlaon" altitude="2435" latitude="10.4" logitude="123.1"/>
+    <mountain name="Mantalingajan" altitude="2085" latitude="9.7" logitude="118.4"/>
+  </province>
+  <province name="Piaui" country="BR"/>
+  <province name="Picardie" country="F"/>
+  <province name="Piemonte" country="I">
+    <mountain name="GranParadiso" altitude="4061" latitude="45.5" logitude="7.25"/>
+  </province>
+  <province name="Pilskie" country="PL"/>
+  <province name="Pinar del Rio" country="C"/>
+  <province name="Piotrkowskie" country="PL"/>
+  <province name="Pitcairn Islands" country="PITC"/>
+  <province name="Piura" country="PE"/>
+  <province name="Plockie" country="PL"/>
+  <province name="Pohjols-Karjala" country="SF"/>
+  <province name="Poitou Charentes" country="F"/>
+  <province name="Poltavska" country="UA"/>
+  <province name="Pondicherry" country="IND"/>
+  <province name="Portalegre" country="P"/>
+  <province name="Porto" country="P"/>
+  <province name="Portuguesa" country="YV"/>
+  <province name="Powys" country="GB"/>
+  <province name="Poznanskie" country="PL"/>
+  <province name="Praha" country="CZ"/>
+  <province name="Prahova" country="RO"/>
+  <province name="Primorsky kray" country="R"/>
+  <province name="Prince Edward Island" country="CDN"/>
+  <province name="Provence Cote dAzur" country="F"/>
+  <province name="Przemyskie" country="PL"/>
+  <province name="Pskovskaya oblast" country="R"/>
+  <province name="Puebla" country="MEX">
+    <mountain name="Citlaltepetl (Pico de Orizaba)" altitude="5700" latitude="19" logitude="-97"/>
+    <mountain name="Popocatepetl" altitude="5450" latitude="19" logitude="-98"/>
+    <mountain name="Iztaccihuatl" altitude="5286" latitude="19.2" logitude="-98.6"/>
+  </province>
+  <province name="Puerto Rico" country="PR">
+    <mountain name="Cerro de Punta" altitude="1338" latitude="18.2" logitude="-66.6"/>
+  </province>
+  <province name="Puglia" country="I"/>
+  <province name="Pulau Pinang" country="MAL"/>
+  <province name="Punjab" country="IND"/>
+  <province name="Puno" country="PE"/>
+  <province name="Puntarenas" country="CR"/>
+  <province name="Putumayo" country="CO"/>
+  <province name="Pwani" country="EAT"/>
+  <province name="Qaraghandy" country="KAZ"/>
+  <province name="Qaraqalpoghiston" country="UZB"/>
+  <province name="Qasqadare" country="UZB"/>
+  <province name="Qatar" country="Q"/>
+  <province name="Qena" country="ET"/>
+  <province name="Qinghai" country="TJ"/>
+  <province name="Qostanay" country="KAZ"/>
+  <province name="Quebec" country="CDN">
+    <mountain name="Mt. Babel" altitude="952" latitude="51.45" logitude="-68.7"/>
+  </province>
+  <province name="Queensland" country="AUS"/>
+  <province name="Queretaro" country="MEX"/>
+  <province name="Quindio" country="CO"/>
+  <province name="Quintana Roo" country="MEX"/>
+  <province name="Qyzylorda" country="KAZ"/>
+  <province name="Radomskie" country="PL"/>
+  <province name="Rajasthan" country="IND"/>
+  <province name="Rakhine" country="MYA"/>
+  <province name="Ras al Khaymah" country="UAE"/>
+  <province name="Rep. of Adygeya" country="R"/>
+  <province name="Rep. of Altay" country="R">
+    <mountain name="Bjelucha" altitude="4506" latitude="49.48" logitude="86.4"/>
+  </province>
+  <province name="Rep. of Bashkortostan" country="R"/>
+  <province name="Rep. of Buryatiya" country="R">
+    <mountain name="Zhima" altitude="1276" latitude="53.15" logitude="107.4"/>
+  </province>
+  <province name="Rep. of Dagestan" country="R"/>
+  <province name="Rep. of Ingushetiya" country="R"/>
+  <province name="Rep. of Kalmykiya" country="R"/>
+  <province name="Rep. of Karelia" country="R"/>
+  <province name="Rep. of Khakassiya" country="R"/>
+  <province name="Rep. of Komi" country="R">
+    <mountain name="Narodnaja" altitude="1895" latitude="65" logitude="60.1"/>
+  </province>
+  <province name="Rep. of Mariy El" country="R"/>
+  <province name="Rep. of Mordovia" country="R"/>
+  <province name="Rep. of North Ossetiya" country="R">
+    <mountain name="Kasbek" altitude="5033" latitude="42.42" logitude="44.31"/>
+  </province>
+  <province name="Rep. of Sakha" country="R"/>
+  <province name="Rep. of Tatarstan" country="R"/>
+  <province name="Rep. of Tyva" country="R"/>
+  <province name="Reunion" country="REUN">
+    <mountain name="Piton des Neiges" altitude="3069" latitude="-21.1" logitude="55.5"/>
+    <mountain name="Piton de la Fournaise" altitude="2631" latitude="-21.2" logitude="55.7"/>
+  </province>
+  <province name="Rheinland Pfalz" country="D"/>
+  <province name="Rhode Island" country="USA"/>
+  <province name="Rhondda Cynon Taff" country="GB"/>
+  <province name="Rhone Alpes" country="F">
+    <mountain name="Mont Blanc" altitude="4808" latitude="45.8" logitude="6.8"/>
+    <mountain name="Barre des Ecrins" altitude="4101" latitude="44.9" logitude="6.3"/>
+  </province>
+  <province name="Rift Valley" country="EAK"/>
+  <province name="Rio Grande do Norte" country="BR"/>
+  <province name="Rio Grande do Sul" country="BR"/>
+  <province name="Rio Negro" country="RA"/>
+  <province name="Rio de Janeiro" country="BR">
+    <mountain name="Pico de Agulhas Negras" altitude="2791" latitude="-22.4" logitude="-44.65"/>
+  </province>
+  <province name="Rioja" country="E"/>
+  <province name="Risaralda" country="CO">
+    <mountain name="Nevado del Ruiz" altitude="5389" latitude="4.9" logitude="-75.3"/>
+  </province>
+  <province name="Rivnenska" country="UA"/>
+  <province name="Rize" country="TR"/>
+  <province name="Rogaland" country="N"/>
+  <province name="Rondonia" country="BR"/>
+  <province name="Roraima" country="BR"/>
+  <province name="Rostovskaya oblast" country="R"/>
+  <province name="Rukwa" country="EAT"/>
+  <province name="Ruvuma" country="EAT"/>
+  <province name="Rwanda" country="RWA">
+    <mountain name="Karisimbi" altitude="4507" latitude="-1.5" logitude="29.45"/>
+  </province>
+  <province name="Ryazanskaya oblast" country="R"/>
+  <province name="Rzeszowskie" country="PL"/>
+  <province name="SG" country="CH"/>
+  <province name="SH" country="CH"/>
+  <province name="SO" country="CH"/>
+  <province name="SZ" country="CH"/>
+  <province name="Saarland" country="D"/>
+  <province name="Sabah" country="MAL">
+    <mountain name="Kinabalu" altitude="4101" latitude="6.1" logitude="116.5"/>
+  </province>
+  <province name="Sachsen" country="D"/>
+  <province name="Sachsen Anhalt" country="D">
+    <mountain name="Brocken" altitude="1141" latitude="51.8" logitude="10.6"/>
+  </province>
+  <province name="Saga" country="J"/>
+  <province name="Sagaing" country="MYA"/>
+  <province name="Saint Helena" country="HELX">
+    <mountain name="Queen Marys Peak" altitude="2060" latitude="-37.1" logitude="-12.3"/>
+  </province>
+  <province name="Saint Kitts and Nevis" country="KN"/>
+  <province name="Saint Louis" country="SN"/>
+  <province name="Saint Lucia" country="WL"/>
+  <province name="Saint Martin" country="SMAR"/>
+  <province name="Saint Pierre and Miquelon" country="SPMI"/>
+  <province name="Saint Vincent and the Grenadines" country="WV">
+    <mountain name="Soufriere" altitude="1220" latitude="13.35" logitude="-61.2"/>
+  </province>
+  <province name="Saitama" country="J"/>
+  <province name="Sakarya" country="TR"/>
+  <province name="Sakhalinskaya oblast" country="R"/>
+  <province name="Salah ad Din" country="IRQ"/>
+  <province name="Salaj" country="RO"/>
+  <province name="Salta" country="RA"/>
+  <province name="Salzburg" country="A">
+    <mountain name="Hochgolling" altitude="2862" latitude="47.3" logitude="13.75"/>
+  </province>
+  <province name="Samarqand" country="UZB"/>
+  <province name="Samarskaya oblast" country="R"/>
+  <province name="Samoa" country="WS">
+    <mountain name="Silisili" altitude="1858" latitude="-13.6" logitude="-172.4"/>
+  </province>
+  <province name="Samsun" country="TR"/>
+  <province name="San Andres y Providencia" country="CO"/>
+  <province name="San Jose" country="CR"/>
+  <province name="San Juan" country="RA"/>
+  <province name="San Luis" country="RA"/>
+  <province name="San Luis Potosi" country="MEX"/>
+  <province name="San Marino" country="RSM"/>
+  <province name="San Martin" country="PE"/>
+  <province name="Sancti Spiritus" country="C"/>
+  <province name="Sankt Peterburg" country="R"/>
+  <province name="Sanliurfa" country="TR"/>
+  <province name="Santa Barbara" country="HCA"/>
+  <province name="Santa Catarina" country="BR"/>
+  <province name="Santa Cruz" country="RA"/>
+  <province name="Santa Fe" country="RA"/>
+  <province name="Santa Fe de Bogota, DC" country="CO"/>
+  <province name="Santander del Sur" country="CO"/>
+  <province name="Santarem" country="P"/>
+  <province name="Santiago de Cuba" country="C">
+    <mountain name="Pico Turquino" altitude="1974" latitude="20" logitude="-76.8"/>
+  </province>
+  <province name="Santiago de Estero" country="RA"/>
+  <province name="Sao Paulo" country="BR"/>
+  <province name="Sao Tome and Principe" country="STP">
+    <mountain name="Pico de Sao Tome" altitude="2024" latitude=".2" logitude="6.6"/>
+  </province>
+  <province name="Saratovskaya oblast" country="R"/>
+  <province name="Sarawak" country="MAL"/>
+  <province name="Sardegna" country="I"/>
+  <province name="Saskatchewan" country="CDN">
+    <mountain name="Mt Bona" altitude="5005" latitude="61.4" logitude="-141.75"/>
+  </province>
+  <province name="Satu Mare" country="RO"/>
+  <province name="Saudi Arabia" country="SA"/>
+  <province name="Schleswig Holstein" country="D"/>
+  <province name="Selangor" country="MAL"/>
+  <province name="Semey" country="KAZ"/>
+  <province name="Semnan" country="IR"/>
+  <province name="Serbia" country="SRB"/>
+  <province name="Sergipe" country="BR"/>
+  <province name="Setubal" country="P"/>
+  <province name="Severocesky" country="CZ"/>
+  <province name="Severomoravsky" country="CZ"/>
+  <province name="Seychelles" country="SY"/>
+  <province name="Shaanxi" country="TJ"/>
+  <province name="Shaba/Katanga" country="ZRE"/>
+  <province name="Shan" country="MYA"/>
+  <province name="Shandong" country="TJ"/>
+  <province name="Shanghai (munic.)" country="TJ"/>
+  <province name="Shanxi" country="TJ"/>
+  <province name="Sharqiya" country="ET"/>
+  <province name="Shetland" country="GB"/>
+  <province name="Shiga" country="J"/>
+  <province name="Shimane" country="J"/>
+  <province name="Shinyanga" country="EAT"/>
+  <province name="Shizuoka" country="J">
+    <mountain name="Fujisan" altitude="3776" latitude="35" logitude="139"/>
+  </province>
+  <province name="Shropshire" country="GB"/>
+  <province name="Shyghys Qazaqstan" country="KAZ">
+    <mountain name="Bjelucha" altitude="4506" latitude="49.48" logitude="86.4"/>
+  </province>
+  <province name="Sibiu" country="RO">
+    <mountain name="Moldoveanu" altitude="2544" latitude="45.6" logitude="24.7"/>
+  </province>
+  <province name="Sichuan" country="TJ"/>
+  <province name="Sicilia" country="I">
+    <mountain name="Etna" altitude="3323" latitude="37.7" logitude="15"/>
+  </province>
+  <province name="Siedleckie" country="PL"/>
+  <province name="Sieradzkie" country="PL"/>
+  <province name="Sierra Leone" country="WAL"/>
+  <province name="Siirt" country="TR"/>
+  <province name="Sikkim" country="IND">
+    <mountain name="Kangchendzonga" altitude="8586" latitude="27.7" logitude="88.1"/>
+  </province>
+  <province name="Sina al Janubiyah" country="ET">
+    <mountain name="Jabal Katrina" altitude="2637" latitude="28.5" logitude="33.95"/>
+  </province>
+  <province name="Sina ash Shamaliyah" country="ET"/>
+  <province name="Sinaloa" country="MEX"/>
+  <province name="Singapore" country="SGP"/>
+  <province name="Singida" country="EAT"/>
+  <province name="Sinop" country="TR"/>
+  <province name="Sirdare" country="UZB"/>
+  <province name="Sirnak" country="TR"/>
+  <province name="Sistan e Baluchestan" country="IR"/>
+  <province name="Sivas" country="TR"/>
+  <province name="Skaraborg" country="S"/>
+  <province name="Skierniewickie" country="PL"/>
+  <province name="Slovakia" country="SK">
+    <mountain name="GerlachovskyStit" altitude="2655" latitude="49.2" logitude="20.1"/>
+  </province>
+  <province name="Slovenia" country="SLO"/>
+  <province name="Slupskie" country="PL"/>
+  <province name="Smolenskaya oblast" country="R"/>
+  <province name="Sodermanland" country="S"/>
+  <province name="Soer Trondelag" country="N"/>
+  <province name="Sofala" country="MOC"/>
+  <province name="Sogn og Fjordane" country="N">
+    <mountain name="Jostedalsbre" altitude="2083" latitude="61.4" logitude="5.5"/>
+  </province>
+  <province name="Sohag" country="ET"/>
+  <province name="Solomon Islands" country="SLB">
+    <mountain name="Popomanaseu" altitude="2335" latitude="-9.7" logitude="160.1"/>
+  </province>
+  <province name="Soltustik Qazaqstan" country="KAZ"/>
+  <province name="Somalia" country="SP"/>
+  <province name="Somerset" country="GB"/>
+  <province name="Somogy" country="H"/>
+  <province name="Sonora" country="MEX"/>
+  <province name="South" country="IL"/>
+  <province name="South Australia" country="AUS"/>
+  <province name="South Carolina" country="USA"/>
+  <province name="South Dakota" country="USA">
+    <mountain name="Harney Peak" altitude="2207" latitude="44" logitude="-103.4"/>
+  </province>
+  <province name="South Korea" country="ROK"/>
+  <province name="South Yorkshire" country="GB"/>
+  <province name="Southern" country="Z"/>
+  <province name="Sri Lanka" country="CL">
+    <mountain name="Pidurutalagala" altitude="2524" latitude="7" logitude="80.8"/>
+  </province>
+  <province name="Staffordshire" country="GB"/>
+  <province name="Stavropolsky kray" country="R"/>
+  <province name="Sterea Ellas" country="GR"/>
+  <province name="Stockholm" country="S"/>
+  <province name="Strathclyde" country="GB"/>
+  <province name="Styria" country="A">
+    <mountain name="Hochgolling" altitude="2862" latitude="47.3" logitude="13.75"/>
+  </province>
+  <province name="Suceava" country="RO"/>
+  <province name="Sucre" country="CO"/>
+  <province name="Sucre" country="YV"/>
+  <province name="Sud" country="CAM"/>
+  <province name="Sudoueste" country="CAM">
+    <mountain name="Fako" altitude="4095" latitude="4.2" logitude="9.2"/>
+  </province>
+  <province name="Suffolk" country="GB"/>
+  <province name="Sumska" country="UA"/>
+  <province name="Suomi" country="SF"/>
+  <province name="Suriname" country="SME"/>
+  <province name="Surkhondare" country="UZB"/>
+  <province name="Surrey" country="GB"/>
+  <province name="Suwalskie" country="PL"/>
+  <province name="Svalbard" country="SVAX"/>
+  <province name="Sverdlovskaya oblast" country="R"/>
+  <province name="Swansea" country="GB"/>
+  <province name="Swaziland" country="SD"/>
+  <province name="Syria" country="SYR"/>
+  <province name="Szabolcs Szatmar" country="H"/>
+  <province name="Szczecinskie" country="PL"/>
+  <province name="Szeged (munic.)" country="H"/>
+  <province name="Szolnok" country="H"/>
+  <province name="TG" country="CH"/>
+  <province name="TI" country="CH"/>
+  <province name="Tabasco" country="MEX"/>
+  <province name="Tabora" country="EAT"/>
+  <province name="Tachira" country="YV"/>
+  <province name="Tacna" country="PE"/>
+  <province name="Taiwan" country="RC">
+    <mountain name="Yu Shan" altitude="3950" latitude="23.5" logitude="121"/>
+  </province>
+  <province name="Taldyqorghan" country="KAZ"/>
+  <province name="Tamaulipas" country="MEX"/>
+  <province name="Tambacounda" country="SN"/>
+  <province name="Tambovskaya oblast" country="R"/>
+  <province name="Tamil Nadu" country="IND">
+    <mountain name="Dodabetta" altitude="2636" latitude="11.4" logitude="76.7"/>
+  </province>
+  <province name="Tanga" country="EAT"/>
+  <province name="Tanintharyi" country="MYA"/>
+  <province name="Tarnobrzeskie" country="PL"/>
+  <province name="Tarnowskie" country="PL"/>
+  <province name="Tasmania" country="AUS"/>
+  <province name="Tayside" country="GB"/>
+  <province name="Tehran" country="IR"/>
+  <province name="Tekirdag" country="TR"/>
+  <province name="Tel Aviv" country="IL"/>
+  <province name="Telemark" country="N"/>
+  <province name="Teleorman" country="RO"/>
+  <province name="Tennessee" country="USA">
+    <mountain name="Clingmans Dome" altitude="2025" latitude="35.3" logitude="-83.2"/>
+  </province>
+  <province name="Terengganu" country="MAL"/>
+  <province name="Ternopilska" country="UA"/>
+  <province name="Tete" country="MOC"/>
+  <province name="Texas" country="USA">
+    <mountain name="Guadalupe Peak" altitude="2667" latitude="32" logitude="-105"/>
+  </province>
+  <province name="Thailand" country="THA"/>
+  <province name="Thessalia" country="GR">
+    <mountain name="Olymp" altitude="2917" latitude="40.1" logitude="22.35"/>
+  </province>
+  <province name="Thies" country="SN"/>
+  <province name="Thuringen" country="D"/>
+  <province name="Tianjin (munic.)" country="TJ"/>
+  <province name="Tibet" country="TJ">
+    <mountain name="Shishapangma" altitude="8027" latitude="28.55" logitude="85.8"/>
+    <mountain name="Kailash" altitude="6714" latitude="31.05" logitude="81.3"/>
+    <mountain name="Cho Oyu" altitude="8188" latitude="28.35" logitude="86.65"/>
+    <mountain name="Mount Everest" altitude="8848" latitude="28" logitude="86.9"/>
+    <mountain name="Lhotse" altitude="8516" latitude="28" logitude="86.9"/>
+    <mountain name="Makalu" altitude="8485" latitude="27.9" logitude="87.1"/>
+  </province>
+  <province name="Tierra del Fuego" country="RA"/>
+  <province name="Timis" country="RO"/>
+  <province name="Timor-Leste" country="TL">
+    <mountain name="Tatamailau" altitude="2963" latitude="-8.9" logitude="125.5"/>
+  </province>
+  <province name="Tlaxcala" country="MEX"/>
+  <province name="Toamasina" country="RM"/>
+  <province name="Tocantins" country="BR"/>
+  <province name="Tochigi" country="J"/>
+  <province name="Togo" country="RT"/>
+  <province name="Tokat" country="TR"/>
+  <province name="Tokushima" country="J"/>
+  <province name="Tokyo" country="J"/>
+  <province name="Toliara" country="RM"/>
+  <province name="Tolima" country="CO"/>
+  <province name="Tolna" country="H"/>
+  <province name="Tomskaya oblast" country="R"/>
+  <province name="Tonga" country="TO"/>
+  <province name="Torfaen" country="GB"/>
+  <province name="Torghay" country="KAZ"/>
+  <province name="Torunskie" country="PL"/>
+  <province name="Toscana" country="I">
+    <mountain name="Monte Falterona" altitude="1654" latitude="43.9" logitude="11.7"/>
+  </province>
+  <province name="Toshkent" country="UZB"/>
+  <province name="Tottori" country="J"/>
+  <province name="Toyama" country="J"/>
+  <province name="Trabzon" country="TR"/>
+  <province name="Trentino Alto Adige" country="I">
+    <mountain name="Marmolata" altitude="3343" latitude="46.4" logitude="11.85"/>
+  </province>
+  <province name="Trinidad and Tobago" country="TT"/>
+  <province name="Tripura" country="IND"/>
+  <province name="Troms" country="N"/>
+  <province name="Trujillo" country="YV"/>
+  <province name="Tucuman" country="RA">
+    <mountain name="Llullaillaco" altitude="6739" latitude="-24.7" logitude="-68.5"/>
+    <mountain name="Ojos del Salado" altitude="6893" latitude="-27.1" logitude="-68.5"/>
+    <mountain name="Monte Pissis" altitude="6795" latitude="-27.8" logitude="-68.85"/>
+  </province>
+  <province name="Tulcea" country="RO"/>
+  <province name="Tulskaya oblast" country="R"/>
+  <province name="Tumbes" country="PE"/>
+  <province name="Tunceli" country="TR"/>
+  <province name="Tunisia" country="TN"/>
+  <province name="Turks and Caicos Islands" country="TUCA"/>
+  <province name="Turku-Pori" country="SF"/>
+  <province name="Tuvalu" country="TUV"/>
+  <province name="Tverskaya oblast" country="R"/>
+  <province name="Tyne and Wear" country="GB"/>
+  <province name="Tyrol" country="A">
+    <mountain name="Zugspitze" altitude="2963" latitude="47.3" logitude="11.1"/>
+  </province>
+  <province name="Tyumenskaya oblast" country="R"/>
+  <province name="UR" country="CH"/>
+  <province name="Ucayali" country="PE"/>
+  <province name="Udmurt Republic" country="R"/>
+  <province name="Uganda" country="EAU">
+    <mountain name="Ruwenzori" altitude="5109" latitude=".4" logitude="29.9"/>
+    <mountain name="Elgon" altitude="4321" latitude="1.1" logitude="34.55"/>
+  </province>
+  <province name="Uige" country="ANG"/>
+  <province name="Ulyanovskaya oblast" country="R"/>
+  <province name="Umbria" country="I"/>
+  <province name="Umm al Qaywayn" country="UAE"/>
+  <province name="Upper Austria" country="A"/>
+  <province name="Uppsala" country="S"/>
+  <province name="Uruguay" country="ROU"/>
+  <province name="Usak" country="TR"/>
+  <province name="Utah" country="USA">
+    <mountain name="Kings Peak" altitude="4123" latitude="40.5" logitude="-110.4"/>
+  </province>
+  <province name="Utrecht" country="NL"/>
+  <province name="Uttar Pradesh" country="IND">
+    <mountain name="Nanda Devi" altitude="7816" latitude="30.4" logitude="80"/>
+  </province>
+  <province name="Uusimaa" country="SF"/>
+  <province name="VD" country="CH"/>
+  <province name="VS" country="CH">
+    <mountain name="GrandCombin" altitude="4314" latitude="45.9" logitude="7.3"/>
+    <mountain name="Matterhorn" altitude="4478" latitude="46" logitude="7.56"/>
+    <mountain name="Monte Rosa" altitude="4634" latitude="45.9" logitude="7.9"/>
+    <mountain name="Finsteraarhorn" altitude="4274" latitude="46.5" logitude="8.1"/>
+  </province>
+  <province name="Vaasa" country="SF"/>
+  <province name="Vale of Glamorgan" country="GB"/>
+  <province name="Valencia" country="E"/>
+  <province name="Valle" country="HCA"/>
+  <province name="Valle dAosta" country="I">
+    <mountain name="Mont Blanc" altitude="4808" latitude="45.8" logitude="6.8"/>
+    <mountain name="Matterhorn" altitude="4478" latitude="46" logitude="7.56"/>
+    <mountain name="Monte Rosa" altitude="4634" latitude="45.9" logitude="7.9"/>
+    <mountain name="GranParadiso" altitude="4061" latitude="45.5" logitude="7.25"/>
+  </province>
+  <province name="Valle de Cauca" country="CO"/>
+  <province name="Van" country="TR"/>
+  <province name="Vanuatu" country="VU"/>
+  <province name="Varmland" country="S"/>
+  <province name="Vas" country="H"/>
+  <province name="Vaslui" country="RO"/>
+  <province name="Vasterbotten" country="S"/>
+  <province name="Vasternorrland" country="S"/>
+  <province name="Vastmanland" country="S"/>
+  <province name="Vaupes" country="CO"/>
+  <province name="Veneto" country="I">
+    <mountain name="Marmolata" altitude="3343" latitude="46.4" logitude="11.85"/>
+  </province>
+  <province name="Veracruz" country="MEX">
+    <mountain name="Citlaltepetl (Pico de Orizaba)" altitude="5700" latitude="19" logitude="-97"/>
+  </province>
+  <province name="Veraguas" country="PA"/>
+  <province name="Vermont" country="USA"/>
+  <province name="Vest Agder" country="N"/>
+  <province name="Vestfold" country="N"/>
+  <province name="Veszprem" country="H"/>
+  <province name="Viana do Castelo" country="P"/>
+  <province name="Vichada" country="CO"/>
+  <province name="Victoria" country="AUS">
+    <mountain name="Mt. Bogong" altitude="1986" latitude="-37" logitude="147.5"/>
+  </province>
+  <province name="Vienna" country="A"/>
+  <province name="Vietnam" country="VN"/>
+  <province name="Vila Real" country="P"/>
+  <province name="Vilcea" country="RO"/>
+  <province name="Villa Clara" country="C"/>
+  <province name="Vinnytska" country="UA"/>
+  <province name="Virgin Islands" country="VIRG"/>
+  <province name="Virginia" country="USA"/>
+  <province name="Viseu" country="P"/>
+  <province name="Vladimirskaya oblast" country="R"/>
+  <province name="Volgogradskaya oblast" country="R"/>
+  <province name="Vologodskaya oblast" country="R"/>
+  <province name="Volynska" country="UA"/>
+  <province name="Vorarlberg" country="A"/>
+  <province name="Voreion Aiyaion" country="GR"/>
+  <province name="Voronezhskaya oblast" country="R"/>
+  <province name="Vrancea" country="RO"/>
+  <province name="Vychodocesky" country="CZ">
+    <mountain name="Schneekoppe" altitude="1602" latitude="50.7" logitude="15.7"/>
+  </province>
+  <province name="Wakayama" country="J"/>
+  <province name="Walbrzyskie" country="PL">
+    <mountain name="Schneekoppe" altitude="1602" latitude="50.7" logitude="15.7"/>
+  </province>
+  <province name="Wallis and Futuna" country="WAFU"/>
+  <province name="Warszwaskie" country="PL"/>
+  <province name="Warwickshire" country="GB"/>
+  <province name="Washington" country="USA">
+    <mountain name="Mt Rainier" altitude="4392" latitude="46.5" logitude="-121.75"/>
+    <mountain name="Mt Adams" altitude="3743" latitude="46.2" logitude="-121.5"/>
+  </province>
+  <province name="Wasit" country="IRQ"/>
+  <province name="West Bank" country="WEST"/>
+  <province name="West Bengal" country="IND"/>
+  <province name="West Flanders" country="B"/>
+  <province name="West Midlands" country="GB"/>
+  <province name="West Sussex" country="GB"/>
+  <province name="West Virginia" country="USA"/>
+  <province name="West Yorkshire" country="GB"/>
+  <province name="Western" country="EAK">
+    <mountain name="Elgon" altitude="4321" latitude="1.1" logitude="34.55"/>
+  </province>
+  <province name="Western" country="Z"/>
+  <province name="Western Australia" country="AUS"/>
+  <province name="Western Cape" country="RSA"/>
+  <province name="Western Sahara" country="WSA"/>
+  <province name="Wiltshire" country="GB"/>
+  <province name="Wisconsin" country="USA"/>
+  <province name="Wloclawskie" country="PL"/>
+  <province name="Wrexham" country="GB"/>
+  <province name="Wroclawskie" country="PL"/>
+  <province name="Wyoming" country="USA">
+    <mountain name="Gannett Peak" altitude="4207" latitude="43.2" logitude="-110"/>
+  </province>
+  <province name="Xinjiang Uygur" country="TJ">
+    <mountain name="Pik Pobeda" altitude="7439" latitude="42" logitude="80.1"/>
+    <mountain name="K2" altitude="8611" latitude="35.9" logitude="76.5"/>
+    <mountain name="Gasherbrum II" altitude="8034" latitude="35.75" logitude="76.65"/>
+    <mountain name="Gasherbrum I" altitude="8080" latitude="35.6" logitude="76.7"/>
+    <mountain name="Broad Peak" altitude="8051" latitude="35.8" logitude="76.6"/>
+  </province>
+  <province name="Yamagata" country="J"/>
+  <province name="Yamaguchi" country="J"/>
+  <province name="Yamanashi" country="J">
+    <mountain name="Fujisan" altitude="3776" latitude="35" logitude="139"/>
+  </province>
+  <province name="Yangon" country="MYA"/>
+  <province name="Yaracuy" country="YV"/>
+  <province name="Yaroslavskaya oblast" country="R"/>
+  <province name="Yazd" country="IR"/>
+  <province name="Yemen" country="YE">
+    <mountain name="Jabal Shuayb" altitude="3760" latitude="15.5" logitude="44"/>
+  </province>
+  <province name="Yevreyskaya avt. oblast" country="R"/>
+  <province name="Yoro" country="HCA"/>
+  <province name="Yozgat" country="TR"/>
+  <province name="Yucatan" country="MEX"/>
+  <province name="Yukon Territory" country="CDN">
+    <mountain name="Mt St.Elias" altitude="5489" latitude="60.3" logitude="-140.9"/>
+    <mountain name="Mt Logan" altitude="5959" latitude="60.6" logitude="-140.4"/>
+  </province>
+  <province name="Yunnan" country="TJ"/>
+  <province name="ZG" country="CH"/>
+  <province name="ZH" country="CH"/>
+  <province name="Zacatecas" country="MEX"/>
+  <province name="Zaire" country="ANG"/>
+  <province name="Zakarpatska" country="UA"/>
+  <province name="Zala" country="H"/>
+</provinces>
+

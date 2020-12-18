@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE mondial SYSTEM "DTDexo1Part1.dtd">
+<mondial>
+  <country idcountry="NZ" nom="New Zealand">
+    <continent name="Australia/Oceania" percent="100"/>
+    <province name="New Zealand" capital="Wellington">
+      <mountain name="Mt. Cook" height="3754"/>
+      <mountain name="Ruapehu" height="2797"/>
+    </province>
+    <airport name="Hamilton" nearCity="Hamilton"/>
+    <airport name="Wellington Intl" nearCity="Wellington"/>
+    <airport name="Christchurch Intl" nearCity="Christchurch"/>
+    <airport name="Auckland Intl" nearCity="Auckland"/>
+    <airport name="Dunedin" nearCity="Dunedin"/>
+  </country>
+  <country idcountry="BR" nom="Brazil">
+    <continent name="America" percent="100"/>
+    <province name="Acre" capital="Rio Branco"/>
+    <province name="Alagoas" capital="Maceio"/>
+    <province name="Amapa" capital="Macapa"/>
+    <province name="Amazonas" capital="Manaus"/>
+    <province name="Bahia" capital="Salvador"/>
+    <province name="Ceara" capital="Fortaleza"/>
+    <province name="Espirito Santo" capital="Vitoria"/>
+    <province name="Goias" capital="Goiania"/>
+    <province name="Maranhao" capital="Sao Luis"/>
+    <province name="Mato Grosso" capital="Cuiaba"/>
+    <province name="Mato Grosso do Sul" capital="Campo Grande"/>
+    <province name="Minas Gerais" capital="Belo Horizonte">
+      <mountain name="Pico de Agulhas Negras" height="2791"/>
+    </province>
+    <province name="Para" capital="Belem"/>
+    <province name="Paraiba" capital="Joao Pessoa"/>
+    <province name="Parana" capital="Curitiba"/>
+    <province name="Pernambuco" capital="Recife"/>
+    <province name="Piaui" capital="Teresina"/>
+    <province name="Rio de Janeiro" capital="Rio de Janeiro">
+      <mountain name="Pico de Agulhas Negras" height="2791"/>
+    </province>
+    <province name="Rio Grande do Norte" capital="Natal"/>
+    <province name="Rio Grande do Sul" capital="Porto Alegre"/>
+    <province name="Rondonia" capital="Porto Velho"/>
+    <province name="Roraima" capital="Boa Vista"/>
+    <province name="Santa Catarina" capital="Florianopolis"/>
+    <province name="Sao Paulo" capital="Sao Paulo"/>
+    <province name="Sergipe" capital="Aracaju"/>
+    <province name="Tocantins" capital="Palmas"/>
+    <province name="Distrito Federal" capital="Brasilia"/>
+    <airport name="Guararapes Gilberto Freyre Intl" nearCity="Recife"/>
+    <airport name="Presidente Juscelino Kubitschek" nearCity="Brasília"/>
+    <airport name="Boa Vista" nearCity="Boa Vista"/>
+    <airport name="Rio Branco" nearCity="Rio Branco"/>
+    <airport name="Ten Cel Av Cesar Bombonato" nearCity="Uberlândia"/>
+    <airport name="Zumbi Dos Palmares" nearCity="Maceió"/>
+    <airport name="Macapa" nearCity="Macapá"/>
+    <airport name="Eduardo Gomes Intl" nearCity="Manaus"/>
+    <airport name="Goiabeiras" nearCity="Vitória"/>
+    <airport name="Afonso Pena" nearCity="Curitiba"/>
+    <airport name="Santarem" nearCity="Santarém"/>
+    <airport name="Londrina" nearCity="Londrina"/>
+    <airport name="Marechal Rondon" nearCity="Cuiabá"/>
+    <airport name="Campo Grande" nearCity="Campo Grande"/>
+    <airport name="Congonhas" nearCity="São Paulo"/>
+    <airport name="Santos Dumont" nearCity="Rio de Janeiro"/>
+    <airport name="Deputado Luis Eduardo Magalhaes" nearCity="Salvador"/>
+    <airport name="Tancredo Neves Intl" nearCity="Belo Horizonte"/>
+    <airport name="Marechal Cunha Machado Intl" nearCity="São Luís"/>
+    <airport name="Amarais Airport" nearCity="Campinas"/>
+    <airport name="Viracopos" nearCity="Campinas"/>
+    <airport name="Santa Maria" nearCity="Aracaju"/>
+    <airport name="Uberaba" nearCity="Uberaba"/>
+    <airport name="Val De Cans Intl" nearCity="Belém"/>
+    <airport name="Senador Petronio Portella" nearCity="Teresina"/>
+    <airport name="Augusto Severo" nearCity="Natal"/>
+    <airport name="Pelotas" nearCity="Pelotas"/>
+    <airport name="Leite Lopes" nearCity="Ribeirão Preto"/>
+    <airport name="General Leite de Castro Airport" nearCity="Rio Verde"/>
+    <airport name="Governador Valadares Airport" nearCity="Governador Valadares"/>
+    <airport name="Usiminas" nearCity="Ipatinga"/>
+    <airport name="Campo Dos Bugres" nearCity="Caxias do Sul"/>
+    <airport name="Galeao Antonio Carlos Jobim" nearCity="Rio de Janeiro"/>
+    <airport name="Pinto Martins Intl" nearCity="Fortaleza"/>
+    <airport name="Pampulha Carlos Drummond De Andrade" nearCity="Belo Horizonte"/>
+    <airport name="Governador Jorge Teixeira De Oliveira" nearCity="Porto Velho"/>
+    <airport name="Santa Genoveva" nearCity="Goiânia"/>
+    <airport name="Salgado Filho" nearCity="Porto Alegre"/>
+    <airport name="Guarulhos Gov Andre Franco Montouro" nearCity="São Paulo"/>
+    <airport name="Prefeito Renato Moreira" nearCity="Imperatriz"/>
+    <airport name="Ilheus" nearCity="Ilhéus"/>
+  </country>
+</mondial>
+

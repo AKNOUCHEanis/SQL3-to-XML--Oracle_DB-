@@ -1,0 +1,222 @@
+<rivers>
+  <river name="Jenissej" country="R" province="Rep. of Tyva"/>
+  <river name="Isere" country="F" province="Rhone Alpes"/>
+  <river name="Loire" country="F" province="Rhone Alpes"/>
+  <river name="Uruguay" country="BR" province="Rio Grande do Sul"/>
+  <river name="Akagera" country="RWA" province="Rwanda"/>
+  <river name="Ruzizi" country="RWA" province="Rwanda"/>
+  <river name="Mur" country="A" province="Salzburg"/>
+  <river name="Salzach" country="A" province="Salzburg"/>
+  <river name="Morava" country="SRB" province="Serbia"/>
+  <river name="Western Morava" country="SRB" province="Serbia"/>
+  <river name="March" country="CZ" province="Severomoravsky"/>
+  <river name="Oder" country="CZ" province="Severomoravsky"/>
+  <river name="Lomami" country="ZRE" province="Shaba/Katanga"/>
+  <river name="Lualaba" country="ZRE" province="Shaba/Katanga"/>
+  <river name="Lukuga" country="ZRE" province="Shaba/Katanga"/>
+  <river name="Lulua" country="ZRE" province="Shaba/Katanga"/>
+  <river name="Luvua" country="ZRE" province="Shaba/Katanga"/>
+  <river name="Irtysch" country="KAZ" province="Shyghys Qazaqstan"/>
+  <river name="Waag" country="SK" province="Slovakia"/>
+  <river name="Save" country="SLO" province="Slovenia"/>
+  <river name="Dnepr" country="R" province="Smolenskaya oblast"/>
+  <river name="Western Dwina" country="R" province="Smolenskaya oblast"/>
+  <river name="Glomma" country="N" province="Soer Trondelag"/>
+  <river name="Raab" country="A" province="Styria"/>
+  <river name="Ticino" country="CH" province="TI"/>
+  <river name="Werra" country="D" province="Thuringen"/>
+  <river name="Brahmaputra" country="TJ" province="Tibet"/>
+  <river name="Ganges" country="TJ" province="Tibet"/>
+  <river name="Indus" country="TJ" province="Tibet"/>
+  <river name="Irawaddy" country="TJ" province="Tibet"/>
+  <river name="Mekong" country="TJ" province="Tibet"/>
+  <river name="Saluen" country="TJ" province="Tibet"/>
+  <river name="Arno" country="I" province="Toscana"/>
+  <river name="Drau" country="I" province="Trentino Alto Adige"/>
+  <river name="Etsch" country="I" province="Trentino Alto Adige"/>
+  <river name="Don" country="R" province="Tulskaya oblast"/>
+  <river name="Kokemaeenjoki" country="SF" province="Turku-Pori"/>
+  <river name="Volga" country="R" province="Tverskaya oblast"/>
+  <river name="Isar" country="A" province="Tyrol"/>
+  <river name="Reuss" country="CH" province="UR"/>
+  <river name="Bahr el-Djebel/Albert-Nil" country="EAU" province="Uganda"/>
+  <river name="Victoria Nile" country="EAU" province="Uganda"/>
+  <river name="Tiber" country="I" province="Umbria"/>
+  <river name="Enns" country="A" province="Upper Austria"/>
+  <river name="Rhone" country="CH" province="VS"/>
+  <river name="Umeaelv" country="S" province="Vasterbotten"/>
+  <river name="Mincio" country="I" province="Veneto"/>
+  <river name="Murray River" country="AUS" province="Victoria"/>
+  <river name="Northern Dwina" country="R" province="Vologodskaya oblast"/>
+  <river name="Suchona" country="R" province="Vologodskaya oblast"/>
+  <river name="Iller" country="A" province="Vorarlberg"/>
+  <river name="Lech" country="A" province="Vorarlberg"/>
+  <river name="Elbe" country="CZ" province="Vychodocesky"/>
+  <river name="Thames" country="GB" province="Wiltshire"/>
+  <river name="Yukon River" country="CDN" province="Yukon Territory"/>
+  <river name="Limmat" country="CH" province="ZH"/>
+  <river name="Nile" country="SUD" province="al Khartum"/>
+  <river name="White Nile" country="SUD" province="Aali an Nil"/>
+  <river name="Amudarja" country="AFG" province="Afghanistan"/>
+  <river name="Pjandsh" country="AFG" province="Afghanistan"/>
+  <river name="Murat" country="TR" province="Agri"/>
+  <river name="Schatt al Arab" country="IRQ" province="Al Anbar"/>
+  <river name="Drin" country="AL" province="Albania"/>
+  <river name="Saskatchewan River" country="CDN" province="Alberta"/>
+  <river name="Saar" country="F" province="Alsace"/>
+  <river name="Ob" country="R" province="Altayskiy kray"/>
+  <river name="Goetaaelv" country="S" province="Alvsborg"/>
+  <river name="Orinoco" country="YV" province="Amazonas"/>
+  <river name="Guadalquivir" country="E" province="Andalusia"/>
+  <river name="Aare" country="CH" province="BE"/>
+  <river name="Pjandsh" country="TAD" province="Badakhshoni Kuni"/>
+  <river name="Breg" country="D" province="Baden Wurttemberg"/>
+  <river name="Brigach" country="D" province="Baden Wurttemberg"/>
+  <river name="Donau" country="D" province="Baden Wurttemberg"/>
+  <river name="Neckar" country="D" province="Baden Wurttemberg"/>
+  <river name="Fimi" country="ZRE" province="Bandundu"/>
+  <river name="Kwa" country="ZRE" province="Bandundu"/>
+  <river name="Alz" country="D" province="Bayern"/>
+  <river name="Ammer" country="D" province="Bayern"/>
+  <river name="Main" country="D" province="Bayern"/>
+  <river name="Wurm" country="D" province="Bayern"/>
+  <river name="Weichsel" country="PL" province="Bielskie"/>
+  <river name="Rio Desaguadero" country="BOL" province="Bolivia"/>
+  <river name="Rio Madeira" country="BOL" province="Bolivia"/>
+  <river name="Rio Mamore" country="BOL" province="Bolivia"/>
+  <river name="Seine" country="F" province="Bourgogne"/>
+  <river name="Columbia River" country="CDN" province="British Columbia"/>
+  <river name="Volta" country="BF" province="Burkina Faso"/>
+  <river name="Truckee River" country="USA" province="California"/>
+  <river name="Guadiana" country="E" province="Castile La Mancha"/>
+  <river name="Tajo" country="E" province="Castile La Mancha"/>
+  <river name="Douro" country="E" province="Castile and Leon"/>
+  <river name="Ebro" country="E" province="Castile and Leon"/>
+  <river name="Garonne" country="E" province="Catalonia"/>
+  <river name="Bomu" country="RCA" province="Central African Republic"/>
+  <river name="Sanga" country="RCA" province="Central African Republic"/>
+  <river name="Schari" country="RCA" province="Central African Republic"/>
+  <river name="Ubangi" country="RCA" province="Central African Republic"/>
+  <river name="Maas" country="F" province="Champagne Ardenne"/>
+  <river name="Marne" country="F" province="Champagne Ardenne"/>
+  <river name="Theiss" country="UA" province="Chernivetska"/>
+  <river name="Amur" country="R" province="Chitinskaya oblast"/>
+  <river name="Schilka" country="R" province="Chitinskaya oblast"/>
+  <river name="Arkansas" country="USA" province="Colorado"/>
+  <river name="Colorado" country="USA" province="Colorado"/>
+  <river name="Rio Grande" country="USA" province="Colorado"/>
+  <river name="Bani" country="CI" province="Cote dIvoire"/>
+  <river name="Amazonas" country="PE" province="Cuzco"/>
+  <river name="Dalaelv" country="S" province="Dalarna"/>
+  <river name="Oesterdalaelv" country="S" province="Dalarna"/>
+  <river name="Vaesterdalaelv" country="S" province="Dalarna"/>
+  <river name="Tigris" country="TR" province="Diyarbakir"/>
+  <river name="Busira" country="ZRE" province="Equateur"/>
+  <river name="Ruki" country="ZRE" province="Equateur"/>
+  <river name="Ubangi" country="ZRE" province="Equateur"/>
+  <river name="Karasu" country="TR" province="Erzurum"/>
+  <river name="Karun" country="IR" province="Esfahan"/>
+  <river name="Atbara" country="ETH" province="Ethiopia"/>
+  <river name="Blue Nile" country="ETH" province="Ethiopia"/>
+  <river name="Doubs" country="F" province="Franche Comte"/>
+  <river name="Inn" country="CH" province="GR"/>
+  <river name="Rhein" country="CH" province="GR"/>
+  <river name="Limpopo" country="RSA" province="Gauteng"/>
+  <river name="Tocantins" country="BR" province="Goias"/>
+  <river name="Rio Negro" country="CO" province="Guainia"/>
+  <river name="Gambia" country="RG" province="Guinea"/>
+  <river name="Niger" country="RG" province="Guinea"/>
+  <river name="Senegal" country="RG" province="Guinea"/>
+  <river name="Kymijoki" country="SF" province="Haeme"/>
+  <river name="Olt" country="RO" province="Harghita"/>
+  <river name="Aruwimi" country="ZRE" province="Haut Zaire"/>
+  <river name="Bomu" country="ZRE" province="Haut Zaire"/>
+  <river name="Uelle" country="ZRE" province="Haut Zaire"/>
+  <river name="Zaire" country="ZRE" province="Haut Zaire"/>
+  <river name="Klaraelv" country="N" province="Hedmark"/>
+  <river name="Argun" country="TJ" province="Heilongjiang"/>
+  <river name="Fulda" country="D" province="Hessen"/>
+  <river name="Rio Magdalena" country="CO" province="Huila"/>
+  <river name="Joekulsa a Fjoellum" country="IS" province="Iceland"/>
+  <river name="Thjorsa" country="IS" province="Iceland"/>
+  <river name="Asahan" country="RI" province="Indonesia"/>
+  <river name="Lena" country="R" province="Irkutskaya oblast"/>
+  <river name="Pruth" country="UA" province="Ivano Frankivska"/>
+  <river name="Moldau" country="CZ" province="Jihocesky"/>
+  <river name="Kura" country="TR" province="Kars"/>
+  <river name="Lukenie" country="ZRE" province="Kasai Oriental"/>
+  <river name="Tshuapa" country="ZRE" province="Kasai Oriental"/>
+  <river name="Amudarja" country="TAD" province="Khatlon"/>
+  <river name="Syrdarja" country="TAD" province="Khujand"/>
+  <river name="Ruzizi" country="ZRE" province="Kivu"/>
+  <river name="Semliki" country="ZRE" province="Kivu"/>
+  <river name="White Drin" country="KOS" province="Kosovo"/>
+  <river name="Chatanga" country="R" province="Krasnoyarskiy kray"/>
+  <river name="Vuoksi" country="SF" province="Kymi"/>
+  <river name="Naryn" country="KGZ" province="Kyrgyzstan"/>
+  <river name="Kemijoki" country="SF" province="Lappia"/>
+  <river name="Ounasjoki" country="SF" province="Lappia"/>
+  <river name="Paatsjoki" country="SF" province="Lappia"/>
+  <river name="Jordan" country="RL" province="Lebanon"/>
+  <river name="Newa" country="R" province="Leningradskaya oblast"/>
+  <river name="Swir" country="R" province="Leningradskaya oblast"/>
+  <river name="Oranje" country="LS" province="Lesotho"/>
+  <river name="Adda" country="I" province="Lombardia"/>
+  <river name="Mosel" country="F" province="Lorraine"/>
+  <river name="Saone" country="F" province="Lorraine"/>
+  <river name="Enns" country="A" province="Lower Austria"/>
+  <river name="Luapula" country="Z" province="Luapula"/>
+  <river name="Zambezi" country="Z" province="Luapula"/>
+  <river name="Cuango" country="ANG" province="Lunda Sul"/>
+  <river name="Cuilo" country="ANG" province="Lunda Sul"/>
+  <river name="Dnjestr" country="UA" province="Lvivska"/>
+  <river name="Black Drin" country="MK" province="Macedonia"/>
+  <river name="Southern Morava" country="MK" province="Macedonia"/>
+  <river name="Kolyma" country="R" province="Magadanskaya oblast"/>
+  <river name="Cuango" country="ANG" province="Malanje"/>
+  <river name="Euphrat" country="TR" province="Malatya"/>
+  <river name="Chire" country="MW" province="Malawi"/>
+  <river name="Nelson River" country="CDN" province="Manitoba"/>
+  <river name="Paraguay" country="BR" province="Mato Grosso"/>
+  <river name="Parana" country="BR" province="Minas Gerais"/>
+  <river name="Rio Sao Francisco" country="BR" province="Minas Gerais"/>
+  <river name="Mississippi" country="USA" province="Minnesota"/>
+  <river name="Missouri" country="USA" province="Montana"/>
+  <river name="Kasai" country="ANG" province="Moxico"/>
+  <river name="Vaal" country="RSA" province="Mpumalanga"/>
+  <river name="Rio Lerma" country="MEX" province="Nayarit"/>
+  <river name="Connecticut River" country="USA" province="New Hampshire"/>
+  <river name="Merrimack River" country="USA" province="New Hampshire"/>
+  <river name="Murrumbidgee River" country="AUS" province="New South Wales"/>
+  <river name="Hudson River" country="USA" province="New York"/>
+  <river name="Niagara River" country="USA" province="New York"/>
+  <river name="Rio San Juan" country="NIC" province="Nicaragua"/>
+  <river name="Aller" country="D" province="Niedersachsen"/>
+  <river name="Leine" country="D" province="Niedersachsen"/>
+  <river name="Weser" country="D" province="Niedersachsen"/>
+  <river name="Benue" country="CAM" province="Nord"/>
+  <river name="Tennessee" country="USA" province="North Carolina"/>
+  <river name="Mackenzie River" country="CDN" province="Northwest Territories"/>
+  <river name="Detroit River" country="CDN" province="Ontario"/>
+  <river name="Niagara River" country="CDN" province="Ontario"/>
+  <river name="Lagen" country="N" province="Oppland"/>
+  <river name="Tobol" country="R" province="Orenburgskaya oblast"/>
+  <river name="Oka" country="R" province="Orjolskaya oblast"/>
+  <river name="Oulujoki" country="SF" province="Oulu"/>
+  <river name="Allegheny River" country="USA" province="Pennsylvania"/>
+  <river name="Ohio River" country="USA" province="Pennsylvania"/>
+  <river name="Po" country="I" province="Piemonte"/>
+  <river name="Narva" country="R" province="Pskovskaya oblast"/>
+  <river name="Ischim" country="KAZ" province="Qaraghandy"/>
+  <river name="Hwangho" country="TJ" province="Qinghai"/>
+  <river name="Jangtse" country="TJ" province="Qinghai"/>
+  <river name="Manicouagan" country="CDN" province="Quebec"/>
+  <river name="Riviere Richelieu" country="CDN" province="Quebec"/>
+  <river name="Saint Lawrence River" country="CDN" province="Quebec"/>
+  <river name="Darling River" country="AUS" province="Queensland"/>
+  <river name="Katun" country="R" province="Rep. of Altay"/>
+  <river name="Ural" country="R" province="Rep. of Bashkortostan"/>
+  <river name="Angara" country="R" province="Rep. of Buryatiya"/>
+  <river name="Petschora" country="R" province="Rep. of Komi"/>
+</rivers>
+
